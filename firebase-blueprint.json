@@ -1,0 +1,170 @@
+{
+  "entities": {
+    "UserStats": {
+      "title": "UserStats",
+      "description": "Aggregated statistics for the student",
+      "type": "object",
+      "properties": {
+        "videoLessons": { "type": "number" },
+        "simulations": { "type": "number" },
+        "questions": { "type": "number" },
+        "performance": { "type": "number" },
+        "studyDays": { "type": "number" },
+        "lastActiveDate": { "type": "string" }
+      },
+      "required": ["videoLessons", "simulations", "questions", "performance", "studyDays"]
+    },
+    "SimulationHistory": {
+      "title": "SimulationHistory",
+      "description": "Individual simulation record and question-level answers",
+      "type": "object",
+      "properties": {
+        "theme": { "type": "string" },
+        "subtheme": { "type": "string" },
+        "score": { "type": "number" },
+        "totalQuestions": { "type": "number" },
+        "percentage": { "type": "number" },
+        "questions": { "type": "array" },
+        "userAnswers": { "type": "array" },
+        "notes": { "type": "string" },
+        "createdAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["theme", "subtheme", "score", "totalQuestions", "percentage", "createdAt"]
+    },
+    "SavedMindmap": {
+      "title": "SavedMindmap",
+      "description": "Saved mindmap illustration and metadata",
+      "type": "object",
+      "properties": {
+        "mindmapId": { "type": "string" },
+        "theme": { "type": "string" },
+        "subtheme": { "type": "string" },
+        "hours": { "type": "number" },
+        "imageUrl": { "type": "string" },
+        "savedAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["mindmapId", "theme", "subtheme", "hours", "imageUrl", "savedAt"]
+    },
+    "SavedMaterial": {
+      "title": "SavedMaterial",
+      "description": "Saved customized study lesson content",
+      "type": "object",
+      "properties": {
+        "materialId": { "type": "string" },
+        "theme": { "type": "string" },
+        "subtheme": { "type": "string" },
+        "hours": { "type": "number" },
+        "content": { "type": "string" },
+        "savedAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["materialId", "theme", "subtheme", "hours", "content", "savedAt"]
+    },
+    "SavedVideo": {
+      "title": "SavedVideo",
+      "description": "Saved educational video bookmark",
+      "type": "object",
+      "properties": {
+        "videoId": { "type": "string" },
+        "title": { "type": "string" },
+        "channelTitle": { "type": "string" },
+        "thumbnail": { "type": "string" },
+        "searchUrl": { "type": "string" },
+        "theme": { "type": "string" },
+        "subtheme": { "type": "string" },
+        "savedAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["videoId", "title", "savedAt"]
+    },
+    "ExamProgress": {
+      "title": "ExamProgress",
+      "description": "Progress, resolution time and score on official previous exams",
+      "type": "object",
+      "properties": {
+        "solved": { "type": "boolean" },
+        "score": { "type": "string" },
+        "timeSpent": { "type": "string" },
+        "solvedAt": { "type": "string" }
+      },
+      "required": ["solved"]
+    },
+    "EssayRecord": {
+      "title": "EssayRecord",
+      "description": "Official AI essay evaluations and criteria breakdown",
+      "type": "object",
+      "properties": {
+        "theme": { "type": "string" },
+        "essayText": { "type": "string" },
+        "scoreTotal": { "type": "number" },
+        "scoreConteudo": { "type": "number" },
+        "scoreEstrutura": { "type": "number" },
+        "scoreExpressao": { "type": "number" },
+        "passed": { "type": "boolean" },
+        "generalFeedback": { "type": "string" },
+        "createdAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["theme", "essayText", "scoreTotal", "createdAt"]
+    },
+    "WatchedVideo": {
+      "title": "WatchedVideo",
+      "description": "Video watched progress",
+      "type": "object",
+      "properties": {
+        "watched": { "type": "boolean" },
+        "title": { "type": "string" },
+        "watchedAt": { "type": "string" }
+      },
+      "required": ["watched"]
+    },
+    "ChecklistRecord": {
+      "title": "ChecklistRecord",
+      "description": "Topic study checklist state",
+      "type": "object",
+      "properties": {
+        "checklistId": { "type": "string" },
+        "theme": { "type": "string" },
+        "subtheme": { "type": "string" },
+        "items": { "type": "array" },
+        "updatedAt": { "type": "string" }
+      },
+      "required": ["checklistId", "items"]
+    }
+  },
+  "firestore": {
+    "users/{userId}/stats/main": {
+      "schema": "UserStats",
+      "description": "User overall statistics"
+    },
+    "users/{userId}/simulation_history/{historyId}": {
+      "schema": "SimulationHistory",
+      "description": "Simulation test attempts"
+    },
+    "users/{userId}/saved_mindmaps/{mindmapId}": {
+      "schema": "SavedMindmap",
+      "description": "Saved mindmaps collection"
+    },
+    "users/{userId}/saved_materials/{materialId}": {
+      "schema": "SavedMaterial",
+      "description": "Saved study guide summaries"
+    },
+    "users/{userId}/saved_videos/{videoId}": {
+      "schema": "SavedVideo",
+      "description": "Saved video lessons"
+    },
+    "users/{userId}/videos/{videoId}": {
+      "schema": "WatchedVideo",
+      "description": "Tracked watched video lessons"
+    },
+    "users/{userId}/checklists/{checklistId}": {
+      "schema": "ChecklistRecord",
+      "description": "User checklist completion tracking"
+    },
+    "users/{userId}/exams_progress/{examId}": {
+      "schema": "ExamProgress",
+      "description": "Completed past exams tracking"
+    },
+    "users/{userId}/essays/{essayId}": {
+      "schema": "EssayRecord",
+      "description": "Essay submissions and corrections"
+    }
+  }
+}

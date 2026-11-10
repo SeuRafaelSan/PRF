@@ -1,0 +1,8 @@
+{
+  "name": "Plataforma de Estudos R. Alves - PREENCHER: sigla (ex.: TCE-GO)",
+  "description": "PREENCHER: descrição curta para WhatsApp/redes",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

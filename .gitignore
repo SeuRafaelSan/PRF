@@ -1,0 +1,16 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+
+# Chaves e segredos: ficam só na máquina (.env.local) ou nos Secrets da hospedagem
+.env*
+!.env.example
+*.pem
+serviceAccount*.json
+
+# Arquivos que não pertencem ao repositório
+*.zip
+.claude/

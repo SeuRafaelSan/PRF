@@ -1,0 +1,3689 @@
+[
+  {
+    "id": "prf_2021",
+    "concursoId": "prf-policial",
+    "year": 2021,
+    "role": "Policial Rodoviário Federal",
+    "title": "PRF – Policial Rodoviário Federal – 2021 – Cebraspe",
+    "banca": "Cebraspe",
+    "questionsCount": 120,
+    "essay": "Prova discursiva (texto dissertativo)",
+    "examUrl": "https://cdn.cebraspe.org.br/concursos/PRF_21/arquivos/578_PRF_001_01.PDF",
+    "answerUrl": "https://cdn.cebraspe.org.br/concursos/PRF_21/arquivos/GAB_DEFINITIVO_578_PRF_001_01.PDF",
+    "description": "Prova do último concurso da PRF (Edital nº 1/2021), mesmo cargo e mesma banca, aplicada em 9/5/2021. Itens 1 a 8 de língua estrangeira (aqui, o caderno de inglês) e itens 9 a 120 no caderno único. Itens Certo/Errado; gabarito oficial definitivo do Cebraspe. 10 item(ns) anulado(s) (1, 39, 45, 67, 69, 76, 83, 89, 98, 99), mantidos só no mapa. 89 itens completos no banco \"Prova Real\"; os demais estão apenas mapeados (fora do edital da PRF de 2021, dependentes de figura ou de resoluções do CONTRAN revogadas/consolidadas depois da prova).",
+    "category": "prf-policial",
+    "stats": [
+      {
+        "subject": "Legislação de Trânsito",
+        "count": 30,
+        "percentage": 25,
+        "color": "#ef4444"
+      },
+      {
+        "subject": "Língua Portuguesa",
+        "count": 18,
+        "percentage": 15,
+        "color": "#3b82f6"
+      },
+      {
+        "subject": "Língua Estrangeira (Inglês ou Espanhol)",
+        "count": 8,
+        "percentage": 6.7,
+        "color": "#06b6d4"
+      },
+      {
+        "subject": "Informática",
+        "count": 7,
+        "percentage": 5.8,
+        "color": "#0ea5e9"
+      },
+      {
+        "subject": "Direito Administrativo",
+        "count": 7,
+        "percentage": 5.8,
+        "color": "#10b981"
+      },
+      {
+        "subject": "Direito Constitucional",
+        "count": 7,
+        "percentage": 5.8,
+        "color": "#22c55e"
+      },
+      {
+        "subject": "Raciocínio Lógico-Matemático",
+        "count": 6,
+        "percentage": 5,
+        "color": "#8b5cf6"
+      },
+      {
+        "subject": "Ética e Cidadania",
+        "count": 6,
+        "percentage": 5,
+        "color": "#14b8a6"
+      },
+      {
+        "subject": "Legislação Especial",
+        "count": 6,
+        "percentage": 5,
+        "color": "#a855f7"
+      },
+      {
+        "subject": "Física",
+        "count": 5,
+        "percentage": 4.2,
+        "color": "#f97316"
+      },
+      {
+        "subject": "Geopolítica",
+        "count": 5,
+        "percentage": 4.2,
+        "color": "#84cc16"
+      },
+      {
+        "subject": "Direito Penal",
+        "count": 5,
+        "percentage": 4.2,
+        "color": "#f59e0b"
+      },
+      {
+        "subject": "Direito Processual Penal",
+        "count": 5,
+        "percentage": 4.2,
+        "color": "#eab308"
+      },
+      {
+        "subject": "Direitos Humanos",
+        "count": 5,
+        "percentage": 4.2,
+        "color": "#ec4899"
+      }
+    ],
+    "topTopics": [
+      {
+        "name": "Compreensão de texto escrito em língua inglesa",
+        "count": 6,
+        "subjectGroup": "Língua Estrangeira (Inglês ou Espanhol)"
+      },
+      {
+        "name": "Compreensão e interpretação de textos",
+        "count": 6,
+        "subjectGroup": "Língua Portuguesa"
+      },
+      {
+        "name": "Resoluções do CONTRAN: tempo de direção e registrador de velocidade e tempo",
+        "count": 6,
+        "subjectGroup": "Legislação de Trânsito"
+      },
+      {
+        "name": "Resoluções do CONTRAN: pesos, dimensões e transporte de cargas",
+        "count": 6,
+        "subjectGroup": "Legislação de Trânsito"
+      },
+      {
+        "name": "Correspondência oficial (Manual de Redação da Presidência da República)",
+        "count": 5,
+        "subjectGroup": "Língua Portuguesa"
+      },
+      {
+        "name": "Funções afim, quadrática, exponencial e logarítmica: análise e aplicações",
+        "count": 4,
+        "subjectGroup": "Raciocínio Lógico-Matemático"
+      }
+    ],
+    "analysisSummary": "110 de 110 itens válidos (100%) tratam de disciplinas do edital da PRF de 2021. Maior peso: Legislação de Trânsito (30), Língua Portuguesa (18), Língua Estrangeira (Inglês ou Espanhol) (8).",
+    "fullQuestions": [
+      {
+        "number": 1,
+        "subject": "Língua Estrangeira (Inglês ou Espanhol)",
+        "topic": "Compreensão de texto escrito em língua inglesa (item anulado)"
+      },
+      {
+        "number": 2,
+        "subject": "Língua Estrangeira (Inglês ou Espanhol)",
+        "topic": "Compreensão de texto escrito em língua inglesa"
+      },
+      {
+        "number": 3,
+        "subject": "Língua Estrangeira (Inglês ou Espanhol)",
+        "topic": "Compreensão de texto escrito em língua inglesa"
+      },
+      {
+        "number": 4,
+        "subject": "Língua Estrangeira (Inglês ou Espanhol)",
+        "topic": "Compreensão de texto escrito em língua inglesa"
+      },
+      {
+        "number": 5,
+        "subject": "Língua Estrangeira (Inglês ou Espanhol)",
+        "topic": "Compreensão de texto escrito em língua inglesa"
+      },
+      {
+        "number": 6,
+        "subject": "Língua Estrangeira (Inglês ou Espanhol)",
+        "topic": "Compreensão de texto escrito em língua inglesa"
+      },
+      {
+        "number": 7,
+        "subject": "Língua Estrangeira (Inglês ou Espanhol)",
+        "topic": "Itens gramaticais relevantes para a compreensão (língua inglesa)"
+      },
+      {
+        "number": 8,
+        "subject": "Língua Estrangeira (Inglês ou Espanhol)",
+        "topic": "Compreensão de texto escrito em língua inglesa"
+      },
+      {
+        "number": 9,
+        "subject": "Língua Portuguesa",
+        "topic": "Compreensão e interpretação de textos"
+      },
+      {
+        "number": 10,
+        "subject": "Língua Portuguesa",
+        "topic": "Reescrita de frases e parágrafos do texto"
+      },
+      {
+        "number": 11,
+        "subject": "Língua Portuguesa",
+        "topic": "Compreensão e interpretação de textos"
+      },
+      {
+        "number": 12,
+        "subject": "Língua Portuguesa",
+        "topic": "Compreensão e interpretação de textos"
+      },
+      {
+        "number": 13,
+        "subject": "Língua Portuguesa",
+        "topic": "Compreensão e interpretação de textos"
+      },
+      {
+        "number": 14,
+        "subject": "Língua Portuguesa",
+        "topic": "Compreensão e interpretação de textos"
+      },
+      {
+        "number": 15,
+        "subject": "Língua Portuguesa",
+        "topic": "Mecanismos de coesão textual: referenciação, conectores, tempos e modos verbais"
+      },
+      {
+        "number": 16,
+        "subject": "Língua Portuguesa",
+        "topic": "Compreensão e interpretação de textos"
+      },
+      {
+        "number": 17,
+        "subject": "Língua Portuguesa",
+        "topic": "Significação das palavras"
+      },
+      {
+        "number": 18,
+        "subject": "Língua Portuguesa",
+        "topic": "Concordância verbal e nominal"
+      },
+      {
+        "number": 19,
+        "subject": "Língua Portuguesa",
+        "topic": "Mecanismos de coesão textual: referenciação, conectores, tempos e modos verbais"
+      },
+      {
+        "number": 20,
+        "subject": "Língua Portuguesa",
+        "topic": "Reescrita de frases e parágrafos do texto"
+      },
+      {
+        "number": 21,
+        "subject": "Língua Portuguesa",
+        "topic": "Estrutura morfossintática do período: classes de palavras, coordenação e subordinação"
+      },
+      {
+        "number": 22,
+        "subject": "Língua Portuguesa",
+        "topic": "Correspondência oficial (Manual de Redação da Presidência da República)"
+      },
+      {
+        "number": 23,
+        "subject": "Língua Portuguesa",
+        "topic": "Correspondência oficial (Manual de Redação da Presidência da República)"
+      },
+      {
+        "number": 24,
+        "subject": "Língua Portuguesa",
+        "topic": "Correspondência oficial (Manual de Redação da Presidência da República)"
+      },
+      {
+        "number": 25,
+        "subject": "Língua Portuguesa",
+        "topic": "Correspondência oficial (Manual de Redação da Presidência da República)"
+      },
+      {
+        "number": 26,
+        "subject": "Língua Portuguesa",
+        "topic": "Correspondência oficial (Manual de Redação da Presidência da República)"
+      },
+      {
+        "number": 27,
+        "subject": "Raciocínio Lógico-Matemático",
+        "topic": "Funções afim, quadrática, exponencial e logarítmica: análise e aplicações"
+      },
+      {
+        "number": 28,
+        "subject": "Raciocínio Lógico-Matemático",
+        "topic": "Funções afim, quadrática, exponencial e logarítmica: análise e aplicações"
+      },
+      {
+        "number": 29,
+        "subject": "Raciocínio Lógico-Matemático",
+        "topic": "Funções afim, quadrática, exponencial e logarítmica: análise e aplicações"
+      },
+      {
+        "number": 30,
+        "subject": "Raciocínio Lógico-Matemático",
+        "topic": "Funções afim, quadrática, exponencial e logarítmica: análise e aplicações"
+      },
+      {
+        "number": 31,
+        "subject": "Raciocínio Lógico-Matemático",
+        "topic": "Sequências numéricas, progressão aritmética e progressão geométrica"
+      },
+      {
+        "number": 32,
+        "subject": "Raciocínio Lógico-Matemático",
+        "topic": "Sequências numéricas, progressão aritmética e progressão geométrica"
+      },
+      {
+        "number": 33,
+        "subject": "Informática",
+        "topic": "Internet, intranet e navegadores"
+      },
+      {
+        "number": 34,
+        "subject": "Informática",
+        "topic": "Noções de sistema operacional (ambiente Windows)"
+      },
+      {
+        "number": 35,
+        "subject": "Informática",
+        "topic": "Ferramentas de busca, correio eletrônico, redes sociais e ferramentas colaborativas"
+      },
+      {
+        "number": 36,
+        "subject": "Informática",
+        "topic": "Transformação digital: Internet das coisas, big data e inteligência artificial"
+      },
+      {
+        "number": 37,
+        "subject": "Informática",
+        "topic": "Segurança: vírus, worms, phishing e pragas virtuais"
+      },
+      {
+        "number": 38,
+        "subject": "Informática",
+        "topic": "Computação na nuvem (cloud computing)"
+      },
+      {
+        "number": 39,
+        "subject": "Informática",
+        "topic": "Aplicativos de segurança: antivírus, firewall, anti-spyware e VPN (item anulado)"
+      },
+      {
+        "number": 40,
+        "subject": "Física",
+        "topic": "Cinemática escalar e vetorial"
+      },
+      {
+        "number": 41,
+        "subject": "Física",
+        "topic": "Leis de Newton e suas aplicações"
+      },
+      {
+        "number": 42,
+        "subject": "Física",
+        "topic": "Cinemática escalar e vetorial"
+      },
+      {
+        "number": 43,
+        "subject": "Física",
+        "topic": "Quantidade de movimento, impulso e colisões"
+      },
+      {
+        "number": 44,
+        "subject": "Física",
+        "topic": "Quantidade de movimento, impulso e colisões"
+      },
+      {
+        "number": 45,
+        "subject": "Ética e Cidadania",
+        "topic": "Código de Ética do Servidor Público Civil Federal (Decreto nº 1.171/1994) (item anulado)"
+      },
+      {
+        "number": 46,
+        "subject": "Ética e Cidadania",
+        "topic": "Código de Ética do Servidor Público Civil Federal (Decreto nº 1.171/1994)"
+      },
+      {
+        "number": 47,
+        "subject": "Ética e Cidadania",
+        "topic": "Política de governança da administração pública federal (Decreto nº 9.203/2017)"
+      },
+      {
+        "number": 48,
+        "subject": "Ética e Cidadania",
+        "topic": "Sistema de Gestão da Ética e Comissões de Ética (Decreto nº 6.029/2007)"
+      },
+      {
+        "number": 49,
+        "subject": "Ética e Cidadania",
+        "topic": "Transparência e acesso à informação (Lei nº 12.527/2011 e Decreto nº 7.724/2012)"
+      },
+      {
+        "number": 50,
+        "subject": "Ética e Cidadania",
+        "topic": "Conflito de interesses e nepotismo (Lei nº 12.813/2013 e Decreto nº 7.203/2010)"
+      },
+      {
+        "number": 51,
+        "subject": "Geopolítica",
+        "topic": "Rede de transporte no Brasil: modais e principais infraestruturas"
+      },
+      {
+        "number": 52,
+        "subject": "Geopolítica",
+        "topic": "Rede de transporte no Brasil: modais e principais infraestruturas"
+      },
+      {
+        "number": 53,
+        "subject": "Geopolítica",
+        "topic": "Rede de transporte no Brasil: modais e principais infraestruturas"
+      },
+      {
+        "number": 54,
+        "subject": "Geopolítica",
+        "topic": "Estrutura urbana brasileira e grandes metrópoles"
+      },
+      {
+        "number": 55,
+        "subject": "Geopolítica",
+        "topic": "Estrutura urbana brasileira e grandes metrópoles"
+      },
+      {
+        "number": 56,
+        "subject": "Legislação de Trânsito",
+        "topic": "CTB: limites de velocidade"
+      },
+      {
+        "number": 57,
+        "subject": "Legislação de Trânsito",
+        "topic": "CTB: veículos, equipamentos obrigatórios, registro e licenciamento"
+      },
+      {
+        "number": 58,
+        "subject": "Legislação de Trânsito",
+        "topic": "CTB: infrações, penalidades e medidas administrativas"
+      },
+      {
+        "number": 59,
+        "subject": "Legislação de Trânsito",
+        "topic": "Lei nº 5.970/1973: remoção de pessoas e veículos em acidentes de trânsito"
+      },
+      {
+        "number": 60,
+        "subject": "Legislação de Trânsito",
+        "topic": "CTB: habilitação"
+      },
+      {
+        "number": 61,
+        "subject": "Legislação de Trânsito",
+        "topic": "Resoluções do CONTRAN: fiscalização (videomonitoramento, velocidade e Manual de Fiscalização)"
+      },
+      {
+        "number": 62,
+        "subject": "Legislação de Trânsito",
+        "topic": "Resoluções do CONTRAN: identificação, documentos e equipamentos dos veículos"
+      },
+      {
+        "number": 63,
+        "subject": "Legislação de Trânsito",
+        "topic": "Resoluções do CONTRAN: educação e campanhas de trânsito"
+      },
+      {
+        "number": 64,
+        "subject": "Legislação de Trânsito",
+        "topic": "Resoluções do CONTRAN: fiscalização (videomonitoramento, velocidade e Manual de Fiscalização)"
+      },
+      {
+        "number": 65,
+        "subject": "Legislação de Trânsito",
+        "topic": "Resoluções do CONTRAN: identificação, documentos e equipamentos dos veículos"
+      },
+      {
+        "number": 66,
+        "subject": "Legislação de Trânsito",
+        "topic": "Resoluções do CONTRAN: fiscalização (videomonitoramento, velocidade e Manual de Fiscalização)"
+      },
+      {
+        "number": 67,
+        "subject": "Legislação de Trânsito",
+        "topic": "Resoluções do CONTRAN: educação e campanhas de trânsito (item anulado)"
+      },
+      {
+        "number": 68,
+        "subject": "Legislação de Trânsito",
+        "topic": "Resoluções do CONTRAN: motocicletas, capacete e transporte de bicicletas e passageiros"
+      },
+      {
+        "number": 69,
+        "subject": "Legislação de Trânsito",
+        "topic": "Resoluções do CONTRAN: identificação, documentos e equipamentos dos veículos (item anulado)"
+      },
+      {
+        "number": 70,
+        "subject": "Legislação de Trânsito",
+        "topic": "Resoluções do CONTRAN: identificação, documentos e equipamentos dos veículos"
+      },
+      {
+        "number": 71,
+        "subject": "Legislação de Trânsito",
+        "topic": "Resoluções do CONTRAN: tempo de direção e registrador de velocidade e tempo"
+      },
+      {
+        "number": 72,
+        "subject": "Legislação de Trânsito",
+        "topic": "Resoluções do CONTRAN: tempo de direção e registrador de velocidade e tempo"
+      },
+      {
+        "number": 73,
+        "subject": "Legislação de Trânsito",
+        "topic": "Resoluções do CONTRAN: tempo de direção e registrador de velocidade e tempo"
+      },
+      {
+        "number": 74,
+        "subject": "Legislação de Trânsito",
+        "topic": "Resoluções do CONTRAN: pesos, dimensões e transporte de cargas"
+      },
+      {
+        "number": 75,
+        "subject": "Legislação de Trânsito",
+        "topic": "Resoluções do CONTRAN: pesos, dimensões e transporte de cargas"
+      },
+      {
+        "number": 76,
+        "subject": "Legislação de Trânsito",
+        "topic": "Resoluções do CONTRAN: pesos, dimensões e transporte de cargas (item anulado)"
+      },
+      {
+        "number": 77,
+        "subject": "Legislação de Trânsito",
+        "topic": "Resoluções do CONTRAN: tempo de direção e registrador de velocidade e tempo"
+      },
+      {
+        "number": 78,
+        "subject": "Legislação de Trânsito",
+        "topic": "Resoluções do CONTRAN: tempo de direção e registrador de velocidade e tempo"
+      },
+      {
+        "number": 79,
+        "subject": "Legislação de Trânsito",
+        "topic": "Resoluções do CONTRAN: tempo de direção e registrador de velocidade e tempo"
+      },
+      {
+        "number": 80,
+        "subject": "Legislação de Trânsito",
+        "topic": "Resoluções do CONTRAN: educação e campanhas de trânsito"
+      },
+      {
+        "number": 81,
+        "subject": "Legislação de Trânsito",
+        "topic": "Resoluções do CONTRAN: pesos, dimensões e transporte de cargas"
+      },
+      {
+        "number": 82,
+        "subject": "Legislação de Trânsito",
+        "topic": "Resoluções do CONTRAN: pesos, dimensões e transporte de cargas"
+      },
+      {
+        "number": 83,
+        "subject": "Legislação de Trânsito",
+        "topic": "Resoluções do CONTRAN: pesos, dimensões e transporte de cargas (item anulado)"
+      },
+      {
+        "number": 84,
+        "subject": "Legislação de Trânsito",
+        "topic": "Resoluções do CONTRAN: pesos, dimensões e transporte de cargas"
+      },
+      {
+        "number": 85,
+        "subject": "Legislação de Trânsito",
+        "topic": "Resoluções do CONTRAN: pesos, dimensões e transporte de cargas"
+      },
+      {
+        "number": 86,
+        "subject": "Direito Administrativo",
+        "topic": "Controle da Administração Pública"
+      },
+      {
+        "number": 87,
+        "subject": "Direito Administrativo",
+        "topic": "Organização administrativa: centralização, descentralização e administração indireta"
+      },
+      {
+        "number": 88,
+        "subject": "Direito Administrativo",
+        "topic": "Licitação: princípios, contratação direta, modalidades e procedimento"
+      },
+      {
+        "number": 89,
+        "subject": "Direito Administrativo",
+        "topic": "Poderes administrativos; uso e abuso do poder (item anulado)"
+      },
+      {
+        "number": 90,
+        "subject": "Direito Administrativo",
+        "topic": "Regime jurídico-administrativo e princípios da Administração Pública"
+      },
+      {
+        "number": 91,
+        "subject": "Direito Administrativo",
+        "topic": "Carreira de Policial Rodoviário Federal (Lei nº 9.654/1998 e Decreto nº 8.282/2014)"
+      },
+      {
+        "number": 92,
+        "subject": "Direito Administrativo",
+        "topic": "Carreira de Policial Rodoviário Federal (Lei nº 9.654/1998 e Decreto nº 8.282/2014)"
+      },
+      {
+        "number": 93,
+        "subject": "Direito Constitucional",
+        "topic": "Direitos e deveres individuais e coletivos"
+      },
+      {
+        "number": 94,
+        "subject": "Direito Constitucional",
+        "topic": "Direitos e deveres individuais e coletivos"
+      },
+      {
+        "number": 95,
+        "subject": "Direito Constitucional",
+        "topic": "Direitos sociais, nacionalidade, cidadania e direitos políticos"
+      },
+      {
+        "number": 96,
+        "subject": "Direito Constitucional",
+        "topic": "Direitos e deveres individuais e coletivos"
+      },
+      {
+        "number": 97,
+        "subject": "Direito Constitucional",
+        "topic": "Garantias e remédios constitucionais"
+      },
+      {
+        "number": 98,
+        "subject": "Direito Constitucional",
+        "topic": "Defesa do Estado e das instituições democráticas; Forças Armadas (item anulado)"
+      },
+      {
+        "number": 99,
+        "subject": "Direito Constitucional",
+        "topic": "Defesa do Estado e das instituições democráticas; Forças Armadas (item anulado)"
+      },
+      {
+        "number": 100,
+        "subject": "Direito Penal",
+        "topic": "Crimes contra a fé pública"
+      },
+      {
+        "number": 101,
+        "subject": "Direito Penal",
+        "topic": "Crimes contra a fé pública"
+      },
+      {
+        "number": 102,
+        "subject": "Direito Penal",
+        "topic": "Crimes contra a Administração Pública"
+      },
+      {
+        "number": 103,
+        "subject": "Direito Penal",
+        "topic": "Crimes contra a Administração Pública"
+      },
+      {
+        "number": 104,
+        "subject": "Direito Penal",
+        "topic": "Tipicidade: dolo, culpa, erro de tipo, tentativa, crime impossível e punibilidade"
+      },
+      {
+        "number": 105,
+        "subject": "Direito Processual Penal",
+        "topic": "Busca e apreensão: pessoal e domiciliar"
+      },
+      {
+        "number": 106,
+        "subject": "Direito Processual Penal",
+        "topic": "Prisão e prisão em flagrante"
+      },
+      {
+        "number": 107,
+        "subject": "Direito Processual Penal",
+        "topic": "Identificação criminal (CF, art. 5º, LVIII, e Lei nº 12.037/2009)"
+      },
+      {
+        "number": 108,
+        "subject": "Direito Processual Penal",
+        "topic": "Prova: conceito, ônus, provas ilícitas e meios de prova"
+      },
+      {
+        "number": 109,
+        "subject": "Direito Processual Penal",
+        "topic": "Prisão e prisão em flagrante"
+      },
+      {
+        "number": 110,
+        "subject": "Legislação Especial",
+        "topic": "Lei nº 8.072/1990 (crimes hediondos)"
+      },
+      {
+        "number": 111,
+        "subject": "Legislação Especial",
+        "topic": "Lei nº 13.869/2019 (abuso de autoridade)"
+      },
+      {
+        "number": 112,
+        "subject": "Legislação Especial",
+        "topic": "Lei nº 5.553/1968 e Lei nº 12.037/2009 (documentos e identificação criminal)"
+      },
+      {
+        "number": 113,
+        "subject": "Legislação Especial",
+        "topic": "Lei nº 11.343/2006 (Lei de Drogas)"
+      },
+      {
+        "number": 114,
+        "subject": "Legislação Especial",
+        "topic": "Lei nº 10.826/2003 (Estatuto do Desarmamento – crimes e penas)"
+      },
+      {
+        "number": 115,
+        "subject": "Legislação Especial",
+        "topic": "Lei nº 9.455/1997 (tortura)"
+      },
+      {
+        "number": 116,
+        "subject": "Direitos Humanos",
+        "topic": "Direitos humanos na Constituição Federal e tratados internacionais"
+      },
+      {
+        "number": 117,
+        "subject": "Direitos Humanos",
+        "topic": "Direitos humanos na Constituição Federal e tratados internacionais"
+      },
+      {
+        "number": 118,
+        "subject": "Direitos Humanos",
+        "topic": "Direitos humanos na Constituição Federal e tratados internacionais"
+      },
+      {
+        "number": 119,
+        "subject": "Direitos Humanos",
+        "topic": "Declaração Universal dos Direitos Humanos"
+      },
+      {
+        "number": 120,
+        "subject": "Direitos Humanos",
+        "topic": "Direitos humanos na Constituição Federal e tratados internacionais"
+      }
+    ]
+  },
+  {
+    "id": "prf_2019",
+    "concursoId": "prf-policial",
+    "year": 2019,
+    "role": "Policial Rodoviário Federal",
+    "title": "PRF – Policial Rodoviário Federal – 2019 – Cespe/Cebraspe",
+    "banca": "Cespe/Cebraspe",
+    "questionsCount": 120,
+    "essay": "Prova discursiva (texto dissertativo)",
+    "examUrl": "https://cdn.cebraspe.org.br/concursos/PRF_18/arquivos/440_PRF_001_00_PAG_9.PDF",
+    "answerUrl": "https://cdn.cebraspe.org.br/concursos/PRF_18/arquivos/GAB_DEFINITIVO_MATRIZ_440_PRF_001_00_PAG_9.PDF",
+    "description": "Prova do concurso PRF regido pelo Edital nº 1/2018, mesmo cargo e mesma banca, aplicada em 2019. Itens Certo/Errado; gabarito oficial definitivo do Cebraspe. 12 item(ns) anulado(s) (3, 31, 33, 61, 62, 72, 73, 75, 83, 91, 109, 113), mantidos só no mapa. 87 itens completos no banco \"Prova Real\"; os demais estão apenas mapeados (fora do edital da PRF de 2021, dependentes de figura ou de resoluções do CONTRAN revogadas/consolidadas depois da prova).",
+    "category": "prf-policial",
+    "stats": [
+      {
+        "subject": "Legislação de Trânsito",
+        "count": 40,
+        "percentage": 33.3,
+        "color": "#ef4444"
+      },
+      {
+        "subject": "Língua Portuguesa",
+        "count": 20,
+        "percentage": 16.7,
+        "color": "#3b82f6"
+      },
+      {
+        "subject": "Raciocínio Lógico-Matemático",
+        "count": 8,
+        "percentage": 6.7,
+        "color": "#8b5cf6"
+      },
+      {
+        "subject": "Física",
+        "count": 6,
+        "percentage": 5,
+        "color": "#f97316"
+      },
+      {
+        "subject": "Informática",
+        "count": 5,
+        "percentage": 4.2,
+        "color": "#0ea5e9"
+      },
+      {
+        "subject": "Direito Administrativo",
+        "count": 5,
+        "percentage": 4.2,
+        "color": "#10b981"
+      },
+      {
+        "subject": "Direito Constitucional",
+        "count": 5,
+        "percentage": 4.2,
+        "color": "#22c55e"
+      },
+      {
+        "subject": "Direito Penal",
+        "count": 5,
+        "percentage": 4.2,
+        "color": "#f59e0b"
+      },
+      {
+        "subject": "Direito Processual Penal",
+        "count": 5,
+        "percentage": 4.2,
+        "color": "#eab308"
+      },
+      {
+        "subject": "Direitos Humanos",
+        "count": 5,
+        "percentage": 4.2,
+        "color": "#ec4899"
+      },
+      {
+        "subject": "Ética e Cidadania",
+        "count": 4,
+        "percentage": 3.3,
+        "color": "#14b8a6"
+      },
+      {
+        "subject": "Geopolítica",
+        "count": 4,
+        "percentage": 3.3,
+        "color": "#84cc16"
+      },
+      {
+        "subject": "Legislação Especial",
+        "count": 4,
+        "percentage": 3.3,
+        "color": "#a855f7"
+      },
+      {
+        "subject": "História da PRF (fora do edital de 2021)",
+        "count": 2,
+        "percentage": 1.7,
+        "color": "#94a3b8"
+      },
+      {
+        "subject": "Informática – tópicos fora do edital da PRF",
+        "count": 1,
+        "percentage": 0.8,
+        "color": "#94a3b8"
+      },
+      {
+        "subject": "Legislação fora do edital da PRF",
+        "count": 1,
+        "percentage": 0.8,
+        "color": "#94a3b8"
+      }
+    ],
+    "topTopics": [
+      {
+        "name": "CTB: crimes de trânsito",
+        "count": 9,
+        "subjectGroup": "Legislação de Trânsito"
+      },
+      {
+        "name": "Compreensão e interpretação de textos",
+        "count": 6,
+        "subjectGroup": "Língua Portuguesa"
+      },
+      {
+        "name": "Resoluções do CONTRAN: motocicletas, capacete e transporte de bicicletas e passageiros",
+        "count": 6,
+        "subjectGroup": "Legislação de Trânsito"
+      },
+      {
+        "name": "Mecanismos de coesão textual: referenciação, conectores, tempos e modos verbais",
+        "count": 5,
+        "subjectGroup": "Língua Portuguesa"
+      },
+      {
+        "name": "CTB: autuação, notificação e processo administrativo",
+        "count": 5,
+        "subjectGroup": "Legislação de Trânsito"
+      },
+      {
+        "name": "Código de Ética do Servidor Público Civil Federal (Decreto nº 1.171/1994)",
+        "count": 4,
+        "subjectGroup": "Ética e Cidadania"
+      }
+    ],
+    "analysisSummary": "105 de 108 itens válidos (97%) tratam de disciplinas do edital da PRF de 2021. Maior peso: Legislação de Trânsito (40), Língua Portuguesa (20), Raciocínio Lógico-Matemático (8).",
+    "fullQuestions": [
+      {
+        "number": 1,
+        "subject": "Língua Portuguesa",
+        "topic": "Significação das palavras"
+      },
+      {
+        "number": 2,
+        "subject": "Língua Portuguesa",
+        "topic": "Compreensão e interpretação de textos"
+      },
+      {
+        "number": 3,
+        "subject": "Língua Portuguesa",
+        "topic": "Colocação dos pronomes átonos (item anulado)"
+      },
+      {
+        "number": 4,
+        "subject": "Língua Portuguesa",
+        "topic": "Estrutura morfossintática do período: classes de palavras, coordenação e subordinação"
+      },
+      {
+        "number": 5,
+        "subject": "Língua Portuguesa",
+        "topic": "Emprego do sinal indicativo de crase"
+      },
+      {
+        "number": 6,
+        "subject": "Língua Portuguesa",
+        "topic": "Emprego dos sinais de pontuação"
+      },
+      {
+        "number": 7,
+        "subject": "Língua Portuguesa",
+        "topic": "Mecanismos de coesão textual: referenciação, conectores, tempos e modos verbais"
+      },
+      {
+        "number": 8,
+        "subject": "Língua Portuguesa",
+        "topic": "Significação das palavras"
+      },
+      {
+        "number": 9,
+        "subject": "Língua Portuguesa",
+        "topic": "Compreensão e interpretação de textos"
+      },
+      {
+        "number": 10,
+        "subject": "Língua Portuguesa",
+        "topic": "Mecanismos de coesão textual: referenciação, conectores, tempos e modos verbais"
+      },
+      {
+        "number": 11,
+        "subject": "Língua Portuguesa",
+        "topic": "Reescrita de frases e parágrafos do texto"
+      },
+      {
+        "number": 12,
+        "subject": "Língua Portuguesa",
+        "topic": "Mecanismos de coesão textual: referenciação, conectores, tempos e modos verbais"
+      },
+      {
+        "number": 13,
+        "subject": "Língua Portuguesa",
+        "topic": "Mecanismos de coesão textual: referenciação, conectores, tempos e modos verbais"
+      },
+      {
+        "number": 14,
+        "subject": "Língua Portuguesa",
+        "topic": "Compreensão e interpretação de textos"
+      },
+      {
+        "number": 15,
+        "subject": "Língua Portuguesa",
+        "topic": "Emprego dos sinais de pontuação"
+      },
+      {
+        "number": 16,
+        "subject": "Língua Portuguesa",
+        "topic": "Estrutura morfossintática do período: classes de palavras, coordenação e subordinação"
+      },
+      {
+        "number": 17,
+        "subject": "Língua Portuguesa",
+        "topic": "Compreensão e interpretação de textos"
+      },
+      {
+        "number": 18,
+        "subject": "Língua Portuguesa",
+        "topic": "Compreensão e interpretação de textos"
+      },
+      {
+        "number": 19,
+        "subject": "Língua Portuguesa",
+        "topic": "Mecanismos de coesão textual: referenciação, conectores, tempos e modos verbais"
+      },
+      {
+        "number": 20,
+        "subject": "Língua Portuguesa",
+        "topic": "Compreensão e interpretação de textos"
+      },
+      {
+        "number": 21,
+        "subject": "Raciocínio Lógico-Matemático",
+        "topic": "Sequências numéricas, progressão aritmética e progressão geométrica"
+      },
+      {
+        "number": 22,
+        "subject": "Raciocínio Lógico-Matemático",
+        "topic": "Sequências numéricas, progressão aritmética e progressão geométrica"
+      },
+      {
+        "number": 23,
+        "subject": "Raciocínio Lógico-Matemático",
+        "topic": "Sequências numéricas, progressão aritmética e progressão geométrica"
+      },
+      {
+        "number": 24,
+        "subject": "Raciocínio Lógico-Matemático",
+        "topic": "Figuras planas e espaciais: escalas, vistas, projeções e planificações"
+      },
+      {
+        "number": 25,
+        "subject": "Raciocínio Lógico-Matemático",
+        "topic": "Figuras planas e espaciais: escalas, vistas, projeções e planificações"
+      },
+      {
+        "number": 26,
+        "subject": "Raciocínio Lógico-Matemático",
+        "topic": "Figuras planas e espaciais: escalas, vistas, projeções e planificações"
+      },
+      {
+        "number": 27,
+        "subject": "Raciocínio Lógico-Matemático",
+        "topic": "Funções afim, quadrática, exponencial e logarítmica: análise e aplicações"
+      },
+      {
+        "number": 28,
+        "subject": "Raciocínio Lógico-Matemático",
+        "topic": "Funções afim, quadrática, exponencial e logarítmica: análise e aplicações"
+      },
+      {
+        "number": 29,
+        "subject": "Informática",
+        "topic": "Internet, intranet e navegadores"
+      },
+      {
+        "number": 30,
+        "subject": "Informática",
+        "topic": "Acesso a distância, transferência de arquivos e multimídia"
+      },
+      {
+        "number": 31,
+        "subject": "Informática – tópicos fora do edital da PRF",
+        "topic": "Redes de computadores: qualidade de serviço (item anulado)"
+      },
+      {
+        "number": 32,
+        "subject": "Informática",
+        "topic": "Segurança: vírus, worms, phishing e pragas virtuais"
+      },
+      {
+        "number": 33,
+        "subject": "Informática",
+        "topic": "Aplicativos de segurança: antivírus, firewall, anti-spyware e VPN (item anulado)"
+      },
+      {
+        "number": 34,
+        "subject": "Informática",
+        "topic": "Computação na nuvem (cloud computing)"
+      },
+      {
+        "number": 35,
+        "subject": "Física",
+        "topic": "Cinemática escalar e vetorial"
+      },
+      {
+        "number": 36,
+        "subject": "Física",
+        "topic": "Cinemática escalar e vetorial"
+      },
+      {
+        "number": 37,
+        "subject": "Física",
+        "topic": "Trabalho, potência, energia e conservação de energia"
+      },
+      {
+        "number": 38,
+        "subject": "Física",
+        "topic": "Movimento circular"
+      },
+      {
+        "number": 39,
+        "subject": "Física",
+        "topic": "Movimento circular"
+      },
+      {
+        "number": 40,
+        "subject": "Física",
+        "topic": "Quantidade de movimento, impulso e colisões"
+      },
+      {
+        "number": 41,
+        "subject": "Ética e Cidadania",
+        "topic": "Código de Ética do Servidor Público Civil Federal (Decreto nº 1.171/1994)"
+      },
+      {
+        "number": 42,
+        "subject": "Ética e Cidadania",
+        "topic": "Código de Ética do Servidor Público Civil Federal (Decreto nº 1.171/1994)"
+      },
+      {
+        "number": 43,
+        "subject": "Ética e Cidadania",
+        "topic": "Código de Ética do Servidor Público Civil Federal (Decreto nº 1.171/1994)"
+      },
+      {
+        "number": 44,
+        "subject": "Ética e Cidadania",
+        "topic": "Código de Ética do Servidor Público Civil Federal (Decreto nº 1.171/1994)"
+      },
+      {
+        "number": 45,
+        "subject": "Geopolítica",
+        "topic": "Rede de transporte no Brasil: modais e principais infraestruturas"
+      },
+      {
+        "number": 46,
+        "subject": "Geopolítica",
+        "topic": "Rede de transporte no Brasil: modais e principais infraestruturas"
+      },
+      {
+        "number": 47,
+        "subject": "Geopolítica",
+        "topic": "Integração do Brasil ao processo de internacionalização da economia"
+      },
+      {
+        "number": 48,
+        "subject": "Geopolítica",
+        "topic": "Integração entre indústria, estrutura urbana e setor agrícola; divisão inter-regional do trabalho"
+      },
+      {
+        "number": 49,
+        "subject": "História da PRF (fora do edital de 2021)",
+        "topic": "História da PRF"
+      },
+      {
+        "number": 50,
+        "subject": "História da PRF (fora do edital de 2021)",
+        "topic": "História da PRF"
+      },
+      {
+        "number": 51,
+        "subject": "Legislação de Trânsito",
+        "topic": "CTB: crimes de trânsito"
+      },
+      {
+        "number": 52,
+        "subject": "Legislação de Trânsito",
+        "topic": "CTB: crimes de trânsito"
+      },
+      {
+        "number": 53,
+        "subject": "Legislação de Trânsito",
+        "topic": "CTB: crimes de trânsito"
+      },
+      {
+        "number": 54,
+        "subject": "Legislação de Trânsito",
+        "topic": "CTB: crimes de trânsito"
+      },
+      {
+        "number": 55,
+        "subject": "Legislação de Trânsito",
+        "topic": "CTB: crimes de trânsito"
+      },
+      {
+        "number": 56,
+        "subject": "Legislação de Trânsito",
+        "topic": "CTB: crimes de trânsito"
+      },
+      {
+        "number": 57,
+        "subject": "Legislação de Trânsito",
+        "topic": "CTB: crimes de trânsito"
+      },
+      {
+        "number": 58,
+        "subject": "Legislação de Trânsito",
+        "topic": "CTB: crimes de trânsito"
+      },
+      {
+        "number": 59,
+        "subject": "Legislação de Trânsito",
+        "topic": "CTB: crimes de trânsito"
+      },
+      {
+        "number": 60,
+        "subject": "Legislação de Trânsito",
+        "topic": "CTB: infrações, penalidades e medidas administrativas"
+      },
+      {
+        "number": 61,
+        "subject": "Legislação de Trânsito",
+        "topic": "CTB: infrações, penalidades e medidas administrativas (item anulado)"
+      },
+      {
+        "number": 62,
+        "subject": "Legislação de Trânsito",
+        "topic": "CTB: infrações, penalidades e medidas administrativas (item anulado)"
+      },
+      {
+        "number": 63,
+        "subject": "Legislação de Trânsito",
+        "topic": "CTB: infrações, penalidades e medidas administrativas"
+      },
+      {
+        "number": 64,
+        "subject": "Legislação de Trânsito",
+        "topic": "CTB: infrações, penalidades e medidas administrativas"
+      },
+      {
+        "number": 65,
+        "subject": "Legislação de Trânsito",
+        "topic": "CTB: autuação, notificação e processo administrativo"
+      },
+      {
+        "number": 66,
+        "subject": "Legislação de Trânsito",
+        "topic": "CTB: autuação, notificação e processo administrativo"
+      },
+      {
+        "number": 67,
+        "subject": "Legislação de Trânsito",
+        "topic": "CTB: limites de velocidade"
+      },
+      {
+        "number": 68,
+        "subject": "Legislação de Trânsito",
+        "topic": "CTB: sinalização de trânsito"
+      },
+      {
+        "number": 69,
+        "subject": "Legislação de Trânsito",
+        "topic": "CTB: Sistema Nacional de Trânsito e competências da PRF"
+      },
+      {
+        "number": 70,
+        "subject": "Legislação de Trânsito",
+        "topic": "CTB: Sistema Nacional de Trânsito e competências da PRF"
+      },
+      {
+        "number": 71,
+        "subject": "Legislação de Trânsito",
+        "topic": "CTB e Resolução CONTRAN nº 432/2013: fiscalização de álcool e outras substâncias"
+      },
+      {
+        "number": 72,
+        "subject": "Legislação de Trânsito",
+        "topic": "Resoluções do CONTRAN: motocicletas, capacete e transporte de bicicletas e passageiros (item anulado)"
+      },
+      {
+        "number": 73,
+        "subject": "Legislação de Trânsito",
+        "topic": "Resoluções do CONTRAN: identificação, documentos e equipamentos dos veículos (item anulado)"
+      },
+      {
+        "number": 74,
+        "subject": "Legislação de Trânsito",
+        "topic": "Resoluções do CONTRAN: fiscalização (videomonitoramento, velocidade e Manual de Fiscalização)"
+      },
+      {
+        "number": 75,
+        "subject": "Legislação de Trânsito",
+        "topic": "Resoluções do CONTRAN: fiscalização (videomonitoramento, velocidade e Manual de Fiscalização) (item anulado)"
+      },
+      {
+        "number": 76,
+        "subject": "Legislação de Trânsito",
+        "topic": "Resoluções do CONTRAN: motocicletas, capacete e transporte de bicicletas e passageiros"
+      },
+      {
+        "number": 77,
+        "subject": "Legislação de Trânsito",
+        "topic": "Resoluções do CONTRAN: motocicletas, capacete e transporte de bicicletas e passageiros"
+      },
+      {
+        "number": 78,
+        "subject": "Legislação de Trânsito",
+        "topic": "Resoluções do CONTRAN: motocicletas, capacete e transporte de bicicletas e passageiros"
+      },
+      {
+        "number": 79,
+        "subject": "Legislação de Trânsito",
+        "topic": "Resoluções do CONTRAN: tempo de direção e registrador de velocidade e tempo"
+      },
+      {
+        "number": 80,
+        "subject": "Legislação de Trânsito",
+        "topic": "Resoluções do CONTRAN: tempo de direção e registrador de velocidade e tempo"
+      },
+      {
+        "number": 81,
+        "subject": "Legislação de Trânsito",
+        "topic": "Resoluções do CONTRAN: pesos, dimensões e transporte de cargas"
+      },
+      {
+        "number": 82,
+        "subject": "Legislação de Trânsito",
+        "topic": "Resoluções do CONTRAN: pesos, dimensões e transporte de cargas"
+      },
+      {
+        "number": 83,
+        "subject": "Legislação de Trânsito",
+        "topic": "Resoluções do CONTRAN: pesos, dimensões e transporte de cargas (item anulado)"
+      },
+      {
+        "number": 84,
+        "subject": "Legislação de Trânsito",
+        "topic": "Resoluções do CONTRAN: pesos, dimensões e transporte de cargas"
+      },
+      {
+        "number": 85,
+        "subject": "Legislação de Trânsito",
+        "topic": "Resoluções do CONTRAN: motocicletas, capacete e transporte de bicicletas e passageiros"
+      },
+      {
+        "number": 86,
+        "subject": "Legislação de Trânsito",
+        "topic": "Resoluções do CONTRAN: motocicletas, capacete e transporte de bicicletas e passageiros"
+      },
+      {
+        "number": 87,
+        "subject": "Legislação de Trânsito",
+        "topic": "Resoluções do CONTRAN: motocicletas, capacete e transporte de bicicletas e passageiros"
+      },
+      {
+        "number": 88,
+        "subject": "Legislação de Trânsito",
+        "topic": "CTB: autuação, notificação e processo administrativo"
+      },
+      {
+        "number": 89,
+        "subject": "Legislação de Trânsito",
+        "topic": "CTB: autuação, notificação e processo administrativo"
+      },
+      {
+        "number": 90,
+        "subject": "Legislação de Trânsito",
+        "topic": "CTB: autuação, notificação e processo administrativo"
+      },
+      {
+        "number": 91,
+        "subject": "Direito Administrativo",
+        "topic": "Agentes públicos e Lei nº 8.112/1990 (item anulado)"
+      },
+      {
+        "number": 92,
+        "subject": "Direito Administrativo",
+        "topic": "Ato administrativo: conceito, requisitos, atributos, classificação e espécies"
+      },
+      {
+        "number": 93,
+        "subject": "Direito Administrativo",
+        "topic": "Poderes administrativos; uso e abuso do poder"
+      },
+      {
+        "number": 94,
+        "subject": "Direito Administrativo",
+        "topic": "Poderes administrativos; uso e abuso do poder"
+      },
+      {
+        "number": 95,
+        "subject": "Direito Administrativo",
+        "topic": "Responsabilidade civil do Estado"
+      },
+      {
+        "number": 96,
+        "subject": "Direito Constitucional",
+        "topic": "Direitos e deveres individuais e coletivos"
+      },
+      {
+        "number": 97,
+        "subject": "Direito Constitucional",
+        "topic": "Segurança pública e atribuições constitucionais da PRF (art. 144 da CF)"
+      },
+      {
+        "number": 98,
+        "subject": "Direito Constitucional",
+        "topic": "Direitos sociais, nacionalidade, cidadania e direitos políticos"
+      },
+      {
+        "number": 99,
+        "subject": "Direito Constitucional",
+        "topic": "Direitos e deveres individuais e coletivos"
+      },
+      {
+        "number": 100,
+        "subject": "Direito Constitucional",
+        "topic": "Segurança pública e atribuições constitucionais da PRF (art. 144 da CF)"
+      },
+      {
+        "number": 101,
+        "subject": "Direito Penal",
+        "topic": "Crimes contra a Administração Pública"
+      },
+      {
+        "number": 102,
+        "subject": "Direito Penal",
+        "topic": "Crimes contra a Administração Pública"
+      },
+      {
+        "number": 103,
+        "subject": "Direito Processual Penal",
+        "topic": "Prisão e prisão em flagrante"
+      },
+      {
+        "number": 104,
+        "subject": "Direito Processual Penal",
+        "topic": "Prisão e prisão em flagrante"
+      },
+      {
+        "number": 105,
+        "subject": "Direito Processual Penal",
+        "topic": "Prisão e prisão em flagrante"
+      },
+      {
+        "number": 106,
+        "subject": "Direito Penal",
+        "topic": "Princípios básicos do Direito Penal"
+      },
+      {
+        "number": 107,
+        "subject": "Direito Penal",
+        "topic": "Princípios básicos do Direito Penal"
+      },
+      {
+        "number": 108,
+        "subject": "Direito Penal",
+        "topic": "Crimes contra a pessoa"
+      },
+      {
+        "number": 109,
+        "subject": "Direito Processual Penal",
+        "topic": "Busca e apreensão: pessoal e domiciliar (item anulado)"
+      },
+      {
+        "number": 110,
+        "subject": "Direito Processual Penal",
+        "topic": "Busca e apreensão: pessoal e domiciliar"
+      },
+      {
+        "number": 111,
+        "subject": "Legislação Especial",
+        "topic": "Lei nº 10.826/2003 (Estatuto do Desarmamento – crimes e penas)"
+      },
+      {
+        "number": 112,
+        "subject": "Legislação Especial",
+        "topic": "Lei nº 8.069/1990 (Estatuto da Criança e do Adolescente)"
+      },
+      {
+        "number": 113,
+        "subject": "Legislação Especial",
+        "topic": "Lei nº 11.343/2006 (Lei de Drogas) (item anulado)"
+      },
+      {
+        "number": 114,
+        "subject": "Legislação fora do edital da PRF",
+        "topic": "Política Nacional de Enfrentamento ao Tráfico de Pessoas"
+      },
+      {
+        "number": 115,
+        "subject": "Legislação Especial",
+        "topic": "Lei nº 9.605/1998 (crimes ambientais)"
+      },
+      {
+        "number": 116,
+        "subject": "Direitos Humanos",
+        "topic": "Teoria geral e afirmação histórica dos direitos humanos"
+      },
+      {
+        "number": 117,
+        "subject": "Direitos Humanos",
+        "topic": "Convenção Americana sobre Direitos Humanos (Decreto nº 678/1992)"
+      },
+      {
+        "number": 118,
+        "subject": "Direitos Humanos",
+        "topic": "Teoria geral e afirmação histórica dos direitos humanos"
+      },
+      {
+        "number": 119,
+        "subject": "Direitos Humanos",
+        "topic": "Direitos humanos na Constituição Federal e tratados internacionais"
+      },
+      {
+        "number": 120,
+        "subject": "Direitos Humanos",
+        "topic": "Direitos humanos na Constituição Federal e tratados internacionais"
+      }
+    ]
+  },
+  {
+    "id": "prf_2013",
+    "concursoId": "prf-policial",
+    "year": 2013,
+    "role": "Policial Rodoviário Federal",
+    "title": "PRF – Policial Rodoviário Federal – 2013 – Cespe/UnB",
+    "banca": "Cespe/UnB",
+    "questionsCount": 120,
+    "essay": "Prova discursiva (texto dissertativo)",
+    "examUrl": "https://cdn.cebraspe.org.br/concursos/DPRF_13/arquivos/DPRF13_001_01.pdf",
+    "answerUrl": "https://cdn.cebraspe.org.br/concursos/DPRF_13/arquivos/Gab_Definitivo_DPRF13_001_01.PDF",
+    "description": "Prova do concurso PRF regido pelo Edital nº 1/2013, mesmo cargo e mesma banca (então Cespe/UnB), aplicada em 11/8/2013. O conteúdo programático era diferente do atual (incluía ética, história e práticas policiais). Itens Certo/Errado; gabarito oficial definitivo do Cebraspe. 2 item(ns) anulado(s) (47, 50), mantidos só no mapa. 84 itens completos no banco \"Prova Real\"; os demais estão apenas mapeados (fora do edital da PRF de 2021, dependentes de figura ou de resoluções do CONTRAN revogadas/consolidadas depois da prova).",
+    "category": "prf-policial",
+    "stats": [
+      {
+        "subject": "Língua Portuguesa",
+        "count": 15,
+        "percentage": 12.5,
+        "color": "#3b82f6"
+      },
+      {
+        "subject": "Direito Constitucional",
+        "count": 14,
+        "percentage": 11.7,
+        "color": "#22c55e"
+      },
+      {
+        "subject": "Direito Administrativo",
+        "count": 12,
+        "percentage": 10,
+        "color": "#10b981"
+      },
+      {
+        "subject": "Direito Penal",
+        "count": 12,
+        "percentage": 10,
+        "color": "#f59e0b"
+      },
+      {
+        "subject": "Raciocínio Lógico-Matemático",
+        "count": 10,
+        "percentage": 8.3,
+        "color": "#8b5cf6"
+      },
+      {
+        "subject": "Legislação Especial",
+        "count": 10,
+        "percentage": 8.3,
+        "color": "#a855f7"
+      },
+      {
+        "subject": "Direito Processual Penal",
+        "count": 9,
+        "percentage": 7.5,
+        "color": "#eab308"
+      },
+      {
+        "subject": "Legislação fora do edital da PRF",
+        "count": 8,
+        "percentage": 6.7,
+        "color": "#94a3b8"
+      },
+      {
+        "subject": "Direitos Humanos",
+        "count": 7,
+        "percentage": 5.8,
+        "color": "#ec4899"
+      },
+      {
+        "subject": "Ética e Cidadania",
+        "count": 5,
+        "percentage": 4.2,
+        "color": "#14b8a6"
+      },
+      {
+        "subject": "Outros conteúdos fora do edital da PRF",
+        "count": 5,
+        "percentage": 4.2,
+        "color": "#94a3b8"
+      },
+      {
+        "subject": "Informática – tópicos fora do edital da PRF",
+        "count": 3,
+        "percentage": 2.5,
+        "color": "#94a3b8"
+      },
+      {
+        "subject": "Física",
+        "count": 3,
+        "percentage": 2.5,
+        "color": "#f97316"
+      },
+      {
+        "subject": "Física – tópicos fora do edital da PRF",
+        "count": 3,
+        "percentage": 2.5,
+        "color": "#94a3b8"
+      },
+      {
+        "subject": "Informática",
+        "count": 2,
+        "percentage": 1.7,
+        "color": "#0ea5e9"
+      },
+      {
+        "subject": "Legislação de Trânsito",
+        "count": 2,
+        "percentage": 1.7,
+        "color": "#ef4444"
+      }
+    ],
+    "topTopics": [
+      {
+        "name": "Funções afim, quadrática, exponencial e logarítmica: análise e aplicações",
+        "count": 5,
+        "subjectGroup": "Raciocínio Lógico-Matemático"
+      },
+      {
+        "name": "Código de Ética do Servidor Público Civil Federal (Decreto nº 1.171/1994)",
+        "count": 5,
+        "subjectGroup": "Ética e Cidadania"
+      },
+      {
+        "name": "Agentes públicos e Lei nº 8.112/1990",
+        "count": 5,
+        "subjectGroup": "Direito Administrativo"
+      },
+      {
+        "name": "Compreensão e interpretação de textos",
+        "count": 4,
+        "subjectGroup": "Língua Portuguesa"
+      },
+      {
+        "name": "Direitos e deveres individuais e coletivos",
+        "count": 4,
+        "subjectGroup": "Direito Constitucional"
+      },
+      {
+        "name": "Teoria geral e afirmação histórica dos direitos humanos",
+        "count": 4,
+        "subjectGroup": "Direitos Humanos"
+      }
+    ],
+    "analysisSummary": "100 de 118 itens válidos (85%) tratam de disciplinas do edital da PRF de 2021. Maior peso: Língua Portuguesa (15), Direito Constitucional (14), Direito Administrativo (12).",
+    "fullQuestions": [
+      {
+        "number": 1,
+        "subject": "Língua Portuguesa",
+        "topic": "Significação das palavras"
+      },
+      {
+        "number": 2,
+        "subject": "Língua Portuguesa",
+        "topic": "Mecanismos de coesão textual: referenciação, conectores, tempos e modos verbais"
+      },
+      {
+        "number": 3,
+        "subject": "Língua Portuguesa",
+        "topic": "Mecanismos de coesão textual: referenciação, conectores, tempos e modos verbais"
+      },
+      {
+        "number": 4,
+        "subject": "Língua Portuguesa",
+        "topic": "Reconhecimento de tipos e gêneros textuais"
+      },
+      {
+        "number": 5,
+        "subject": "Língua Portuguesa",
+        "topic": "Estrutura morfossintática do período: classes de palavras, coordenação e subordinação"
+      },
+      {
+        "number": 6,
+        "subject": "Língua Portuguesa",
+        "topic": "Compreensão e interpretação de textos"
+      },
+      {
+        "number": 7,
+        "subject": "Língua Portuguesa",
+        "topic": "Domínio da ortografia oficial"
+      },
+      {
+        "number": 8,
+        "subject": "Língua Portuguesa",
+        "topic": "Compreensão e interpretação de textos"
+      },
+      {
+        "number": 9,
+        "subject": "Língua Portuguesa",
+        "topic": "Reescrita de frases e parágrafos do texto"
+      },
+      {
+        "number": 10,
+        "subject": "Língua Portuguesa",
+        "topic": "Compreensão e interpretação de textos"
+      },
+      {
+        "number": 11,
+        "subject": "Língua Portuguesa",
+        "topic": "Estrutura morfossintática do período: classes de palavras, coordenação e subordinação"
+      },
+      {
+        "number": 12,
+        "subject": "Língua Portuguesa",
+        "topic": "Colocação dos pronomes átonos"
+      },
+      {
+        "number": 13,
+        "subject": "Língua Portuguesa",
+        "topic": "Reescrita de frases e parágrafos do texto"
+      },
+      {
+        "number": 14,
+        "subject": "Língua Portuguesa",
+        "topic": "Estrutura morfossintática do período: classes de palavras, coordenação e subordinação"
+      },
+      {
+        "number": 15,
+        "subject": "Língua Portuguesa",
+        "topic": "Compreensão e interpretação de textos"
+      },
+      {
+        "number": 16,
+        "subject": "Raciocínio Lógico-Matemático",
+        "topic": "Razão, proporção e regra de três simples e composta"
+      },
+      {
+        "number": 17,
+        "subject": "Raciocínio Lógico-Matemático",
+        "topic": "Razão, proporção e regra de três simples e composta"
+      },
+      {
+        "number": 18,
+        "subject": "Raciocínio Lógico-Matemático",
+        "topic": "Noções de estatística: médias, desvios, tabelas e gráficos"
+      },
+      {
+        "number": 19,
+        "subject": "Raciocínio Lógico-Matemático",
+        "topic": "Sequências numéricas, progressão aritmética e progressão geométrica"
+      },
+      {
+        "number": 20,
+        "subject": "Raciocínio Lógico-Matemático",
+        "topic": "Porcentagem"
+      },
+      {
+        "number": 21,
+        "subject": "Raciocínio Lógico-Matemático",
+        "topic": "Funções afim, quadrática, exponencial e logarítmica: análise e aplicações"
+      },
+      {
+        "number": 22,
+        "subject": "Raciocínio Lógico-Matemático",
+        "topic": "Funções afim, quadrática, exponencial e logarítmica: análise e aplicações"
+      },
+      {
+        "number": 23,
+        "subject": "Raciocínio Lógico-Matemático",
+        "topic": "Funções afim, quadrática, exponencial e logarítmica: análise e aplicações"
+      },
+      {
+        "number": 24,
+        "subject": "Raciocínio Lógico-Matemático",
+        "topic": "Funções afim, quadrática, exponencial e logarítmica: análise e aplicações"
+      },
+      {
+        "number": 25,
+        "subject": "Raciocínio Lógico-Matemático",
+        "topic": "Funções afim, quadrática, exponencial e logarítmica: análise e aplicações"
+      },
+      {
+        "number": 26,
+        "subject": "Direito Constitucional",
+        "topic": "Poder Executivo: atribuições e responsabilidades do Presidente da República"
+      },
+      {
+        "number": 27,
+        "subject": "Direito Constitucional",
+        "topic": "Direitos e deveres individuais e coletivos"
+      },
+      {
+        "number": 28,
+        "subject": "Direito Constitucional",
+        "topic": "Princípios fundamentais e separação dos Poderes"
+      },
+      {
+        "number": 29,
+        "subject": "Direito Constitucional",
+        "topic": "Princípios fundamentais e separação dos Poderes"
+      },
+      {
+        "number": 30,
+        "subject": "Direito Constitucional",
+        "topic": "Direitos sociais, nacionalidade, cidadania e direitos políticos"
+      },
+      {
+        "number": 31,
+        "subject": "Direito Constitucional",
+        "topic": "Direitos e deveres individuais e coletivos"
+      },
+      {
+        "number": 32,
+        "subject": "Direito Constitucional",
+        "topic": "Direitos e deveres individuais e coletivos"
+      },
+      {
+        "number": 33,
+        "subject": "Direito Constitucional",
+        "topic": "Direitos e deveres individuais e coletivos"
+      },
+      {
+        "number": 34,
+        "subject": "Direito Constitucional",
+        "topic": "Garantias e remédios constitucionais"
+      },
+      {
+        "number": 35,
+        "subject": "Direito Constitucional",
+        "topic": "Organização político-administrativa do Estado"
+      },
+      {
+        "number": 36,
+        "subject": "Direito Administrativo",
+        "topic": "Responsabilidade civil do Estado"
+      },
+      {
+        "number": 37,
+        "subject": "Legislação fora do edital da PRF",
+        "topic": "Improbidade administrativa (CF, art. 37, § 4º)"
+      },
+      {
+        "number": 38,
+        "subject": "Direito Constitucional",
+        "topic": "União: bens e competências (arts. 20 a 24 da CF)"
+      },
+      {
+        "number": 39,
+        "subject": "Direito Constitucional",
+        "topic": "Poder Judiciário: competências"
+      },
+      {
+        "number": 40,
+        "subject": "Direito Constitucional",
+        "topic": "Poder Executivo: atribuições e responsabilidades do Presidente da República"
+      },
+      {
+        "number": 41,
+        "subject": "Ética e Cidadania",
+        "topic": "Código de Ética do Servidor Público Civil Federal (Decreto nº 1.171/1994)"
+      },
+      {
+        "number": 42,
+        "subject": "Ética e Cidadania",
+        "topic": "Código de Ética do Servidor Público Civil Federal (Decreto nº 1.171/1994)"
+      },
+      {
+        "number": 43,
+        "subject": "Ética e Cidadania",
+        "topic": "Código de Ética do Servidor Público Civil Federal (Decreto nº 1.171/1994)"
+      },
+      {
+        "number": 44,
+        "subject": "Ética e Cidadania",
+        "topic": "Código de Ética do Servidor Público Civil Federal (Decreto nº 1.171/1994)"
+      },
+      {
+        "number": 45,
+        "subject": "Ética e Cidadania",
+        "topic": "Código de Ética do Servidor Público Civil Federal (Decreto nº 1.171/1994)"
+      },
+      {
+        "number": 46,
+        "subject": "Informática – tópicos fora do edital da PRF",
+        "topic": "Editor de textos (BrOffice Writer)"
+      },
+      {
+        "number": 47,
+        "subject": "Informática – tópicos fora do edital da PRF",
+        "topic": "Editor de textos (BrOffice Writer) (item anulado)"
+      },
+      {
+        "number": 48,
+        "subject": "Informática – tópicos fora do edital da PRF",
+        "topic": "Planilha eletrônica (BrOffice Calc)"
+      },
+      {
+        "number": 49,
+        "subject": "Informática",
+        "topic": "Segurança: vírus, worms, phishing e pragas virtuais"
+      },
+      {
+        "number": 50,
+        "subject": "Informática",
+        "topic": "Computação na nuvem (cloud computing) (item anulado)"
+      },
+      {
+        "number": 51,
+        "subject": "Direito Administrativo",
+        "topic": "Responsabilidade civil do Estado"
+      },
+      {
+        "number": 52,
+        "subject": "Direito Administrativo",
+        "topic": "Ato administrativo: conceito, requisitos, atributos, classificação e espécies"
+      },
+      {
+        "number": 53,
+        "subject": "Direito Administrativo",
+        "topic": "Agentes públicos e Lei nº 8.112/1990"
+      },
+      {
+        "number": 54,
+        "subject": "Direito Administrativo",
+        "topic": "Ato administrativo: conceito, requisitos, atributos, classificação e espécies"
+      },
+      {
+        "number": 55,
+        "subject": "Direito Administrativo",
+        "topic": "Organização administrativa: centralização, descentralização e administração indireta"
+      },
+      {
+        "number": 56,
+        "subject": "Direito Administrativo",
+        "topic": "Controle da Administração Pública"
+      },
+      {
+        "number": 57,
+        "subject": "Direito Administrativo",
+        "topic": "Agentes públicos e Lei nº 8.112/1990"
+      },
+      {
+        "number": 58,
+        "subject": "Direito Administrativo",
+        "topic": "Agentes públicos e Lei nº 8.112/1990"
+      },
+      {
+        "number": 59,
+        "subject": "Direito Administrativo",
+        "topic": "Agentes públicos e Lei nº 8.112/1990"
+      },
+      {
+        "number": 60,
+        "subject": "Direito Administrativo",
+        "topic": "Agentes públicos e Lei nº 8.112/1990"
+      },
+      {
+        "number": 61,
+        "subject": "Legislação fora do edital da PRF",
+        "topic": "Improbidade administrativa (Lei nº 8.429/1992)"
+      },
+      {
+        "number": 62,
+        "subject": "Direito Administrativo",
+        "topic": "Ato administrativo: conceito, requisitos, atributos, classificação e espécies"
+      },
+      {
+        "number": 63,
+        "subject": "Direito Penal",
+        "topic": "Princípios básicos do Direito Penal"
+      },
+      {
+        "number": 64,
+        "subject": "Direito Penal",
+        "topic": "Tipicidade: dolo, culpa, erro de tipo, tentativa, crime impossível e punibilidade"
+      },
+      {
+        "number": 65,
+        "subject": "Direito Penal",
+        "topic": "Princípios básicos do Direito Penal"
+      },
+      {
+        "number": 66,
+        "subject": "Direito Penal",
+        "topic": "Aplicação da lei penal no tempo e no espaço"
+      },
+      {
+        "number": 67,
+        "subject": "Direito Penal",
+        "topic": "Culpabilidade, imputabilidade e erro de proibição"
+      },
+      {
+        "number": 68,
+        "subject": "Direito Penal",
+        "topic": "Ilicitude e causas de exclusão; excesso punível"
+      },
+      {
+        "number": 69,
+        "subject": "Direito Penal",
+        "topic": "Concurso de pessoas"
+      },
+      {
+        "number": 70,
+        "subject": "Direito Penal",
+        "topic": "Crimes contra o patrimônio"
+      },
+      {
+        "number": 71,
+        "subject": "Direito Penal",
+        "topic": "Crimes contra a Administração Pública"
+      },
+      {
+        "number": 72,
+        "subject": "Direito Penal",
+        "topic": "Crimes contra a Administração Pública"
+      },
+      {
+        "number": 73,
+        "subject": "Direito Penal",
+        "topic": "Crimes contra o patrimônio"
+      },
+      {
+        "number": 74,
+        "subject": "Legislação Especial",
+        "topic": "Lei nº 8.072/1990 (crimes hediondos)"
+      },
+      {
+        "number": 75,
+        "subject": "Direito Processual Penal",
+        "topic": "Lei processual penal: interpretação e aplicação analógica"
+      },
+      {
+        "number": 76,
+        "subject": "Direito Processual Penal",
+        "topic": "Ação penal"
+      },
+      {
+        "number": 77,
+        "subject": "Direito Processual Penal",
+        "topic": "Diligências investigatórias e inquérito policial (arts. 6º e 13 do CPP)"
+      },
+      {
+        "number": 78,
+        "subject": "Direito Processual Penal",
+        "topic": "Ação penal"
+      },
+      {
+        "number": 79,
+        "subject": "Direito Constitucional",
+        "topic": "Garantias e remédios constitucionais"
+      },
+      {
+        "number": 80,
+        "subject": "Direito Processual Penal",
+        "topic": "Prisão e prisão em flagrante"
+      },
+      {
+        "number": 81,
+        "subject": "Direito Processual Penal",
+        "topic": "Prisão e prisão em flagrante"
+      },
+      {
+        "number": 82,
+        "subject": "Direito Processual Penal",
+        "topic": "Prova: conceito, ônus, provas ilícitas e meios de prova"
+      },
+      {
+        "number": 83,
+        "subject": "Direito Processual Penal",
+        "topic": "Procedimento dos crimes de responsabilidade dos funcionários públicos"
+      },
+      {
+        "number": 84,
+        "subject": "Direito Processual Penal",
+        "topic": "Competência da Justiça Federal"
+      },
+      {
+        "number": 85,
+        "subject": "Legislação fora do edital da PRF",
+        "topic": "Estatuto do Desarmamento: autorização de porte (fora do Capítulo IV)"
+      },
+      {
+        "number": 86,
+        "subject": "Legislação Especial",
+        "topic": "Lei nº 13.869/2019 (abuso de autoridade)"
+      },
+      {
+        "number": 87,
+        "subject": "Legislação Especial",
+        "topic": "Lei nº 11.343/2006 (Lei de Drogas)"
+      },
+      {
+        "number": 88,
+        "subject": "Legislação fora do edital da PRF",
+        "topic": "Lei das Contravenções Penais"
+      },
+      {
+        "number": 89,
+        "subject": "Legislação fora do edital da PRF",
+        "topic": "Crimes de preconceito de raça ou cor (Lei nº 7.716/1989)"
+      },
+      {
+        "number": 90,
+        "subject": "Legislação Especial",
+        "topic": "Lei nº 12.850/2013 (organizações criminosas)"
+      },
+      {
+        "number": 91,
+        "subject": "Legislação Especial",
+        "topic": "Lei nº 9.099/1995 (juizados especiais criminais)"
+      },
+      {
+        "number": 92,
+        "subject": "Legislação fora do edital da PRF",
+        "topic": "Estatuto do Idoso"
+      },
+      {
+        "number": 93,
+        "subject": "Legislação Especial",
+        "topic": "Lei nº 9.605/1998 (crimes ambientais)"
+      },
+      {
+        "number": 94,
+        "subject": "Legislação fora do edital da PRF",
+        "topic": "Lei Maria da Penha"
+      },
+      {
+        "number": 95,
+        "subject": "Direito Penal",
+        "topic": "Crimes contra a pessoa"
+      },
+      {
+        "number": 96,
+        "subject": "Legislação Especial",
+        "topic": "Lei nº 9.455/1997 (tortura)"
+      },
+      {
+        "number": 97,
+        "subject": "Outros conteúdos fora do edital da PRF",
+        "topic": "Uso da força e práticas policiais no espaço público"
+      },
+      {
+        "number": 98,
+        "subject": "Outros conteúdos fora do edital da PRF",
+        "topic": "Uso da força e práticas policiais no espaço público"
+      },
+      {
+        "number": 99,
+        "subject": "Outros conteúdos fora do edital da PRF",
+        "topic": "Cidadania e pluralismo jurídico"
+      },
+      {
+        "number": 100,
+        "subject": "Outros conteúdos fora do edital da PRF",
+        "topic": "Cidadania e pluralismo jurídico"
+      },
+      {
+        "number": 101,
+        "subject": "Direitos Humanos",
+        "topic": "Direitos humanos na Constituição Federal e tratados internacionais"
+      },
+      {
+        "number": 102,
+        "subject": "Direitos Humanos",
+        "topic": "Direitos humanos na Constituição Federal e tratados internacionais"
+      },
+      {
+        "number": 103,
+        "subject": "Direitos Humanos",
+        "topic": "Teoria geral e afirmação histórica dos direitos humanos"
+      },
+      {
+        "number": 104,
+        "subject": "Direitos Humanos",
+        "topic": "Teoria geral e afirmação histórica dos direitos humanos"
+      },
+      {
+        "number": 105,
+        "subject": "Direitos Humanos",
+        "topic": "Teoria geral e afirmação histórica dos direitos humanos"
+      },
+      {
+        "number": 106,
+        "subject": "Outros conteúdos fora do edital da PRF",
+        "topic": "Programa Nacional de Direitos Humanos"
+      },
+      {
+        "number": 107,
+        "subject": "Direitos Humanos",
+        "topic": "Teoria geral e afirmação histórica dos direitos humanos"
+      },
+      {
+        "number": 108,
+        "subject": "Direitos Humanos",
+        "topic": "Declaração Universal dos Direitos Humanos"
+      },
+      {
+        "number": 109,
+        "subject": "Legislação Especial",
+        "topic": "Decreto nº 1.655/1995 e competências da PRF"
+      },
+      {
+        "number": 110,
+        "subject": "Legislação Especial",
+        "topic": "Decreto nº 1.655/1995 e competências da PRF"
+      },
+      {
+        "number": 111,
+        "subject": "Legislação Especial",
+        "topic": "Decreto nº 1.655/1995 e competências da PRF"
+      },
+      {
+        "number": 112,
+        "subject": "Legislação de Trânsito",
+        "topic": "CTB: infrações, penalidades e medidas administrativas"
+      },
+      {
+        "number": 113,
+        "subject": "Legislação de Trânsito",
+        "topic": "CTB: infrações, penalidades e medidas administrativas"
+      },
+      {
+        "number": 114,
+        "subject": "Legislação fora do edital da PRF",
+        "topic": "Estatuto do Desarmamento: porte funcional (fora do Capítulo IV)"
+      },
+      {
+        "number": 115,
+        "subject": "Física",
+        "topic": "Trabalho, potência, energia e conservação de energia"
+      },
+      {
+        "number": 116,
+        "subject": "Física",
+        "topic": "Trabalho, potência, energia e conservação de energia"
+      },
+      {
+        "number": 117,
+        "subject": "Física",
+        "topic": "Quantidade de movimento, impulso e colisões"
+      },
+      {
+        "number": 118,
+        "subject": "Física – tópicos fora do edital da PRF",
+        "topic": "Movimento harmônico simples"
+      },
+      {
+        "number": 119,
+        "subject": "Física – tópicos fora do edital da PRF",
+        "topic": "Movimento harmônico simples"
+      },
+      {
+        "number": 120,
+        "subject": "Física – tópicos fora do edital da PRF",
+        "topic": "Ondas: efeito Doppler"
+      }
+    ]
+  },
+  {
+    "id": "pf_2021_agente",
+    "concursoId": "prf-policial",
+    "year": 2021,
+    "role": "Agente de Polícia Federal (cargo equivalente)",
+    "title": "PF – Agente de Polícia Federal – 2021 – Cebraspe",
+    "banca": "Cebraspe",
+    "questionsCount": 120,
+    "essay": "Prova discursiva (texto dissertativo)",
+    "examUrl": "https://cdn.cebraspe.org.br/concursos/PF_21/arquivos/CARGO_2_AGENTE_DE_POLCIA_FEDERAL.PDF",
+    "answerUrl": "https://cdn.cebraspe.org.br/concursos/PF_21/arquivos/GAB_DEFINITIVO_MATRIZ_577_PF_002_00.PDF",
+    "description": "Cargo policial federal equivalente (Agente de Polícia Federal), mesma banca e mesmo modelo Certo/Errado de 120 itens, 2021. Completa as cinco provas porque a PRF só teve três concursos com provas disponíveis no site do Cebraspe. Itens Certo/Errado; gabarito oficial definitivo do Cebraspe. 5 item(ns) anulado(s) (28, 92, 106, 108, 119), mantidos só no mapa. 50 itens completos no banco \"Prova Real\"; os demais estão apenas mapeados (fora do edital da PRF de 2021, dependentes de figura ou de resoluções do CONTRAN revogadas/consolidadas depois da prova).",
+    "category": "prf-policial",
+    "stats": [
+      {
+        "subject": "Informática – tópicos fora do edital da PRF",
+        "count": 26,
+        "percentage": 21.7,
+        "color": "#94a3b8"
+      },
+      {
+        "subject": "Língua Portuguesa",
+        "count": 24,
+        "percentage": 20,
+        "color": "#3b82f6"
+      },
+      {
+        "subject": "Contabilidade (fora do edital da PRF)",
+        "count": 24,
+        "percentage": 20,
+        "color": "#94a3b8"
+      },
+      {
+        "subject": "Estatística (fora do edital da PRF)",
+        "count": 12,
+        "percentage": 10,
+        "color": "#94a3b8"
+      },
+      {
+        "subject": "Informática",
+        "count": 10,
+        "percentage": 8.3,
+        "color": "#0ea5e9"
+      },
+      {
+        "subject": "Raciocínio Lógico-Matemático",
+        "count": 6,
+        "percentage": 5,
+        "color": "#8b5cf6"
+      },
+      {
+        "subject": "Raciocínio Lógico – lógica proposicional (fora do edital da PRF)",
+        "count": 6,
+        "percentage": 5,
+        "color": "#94a3b8"
+      },
+      {
+        "subject": "Direito Administrativo",
+        "count": 3,
+        "percentage": 2.5,
+        "color": "#10b981"
+      },
+      {
+        "subject": "Direito Constitucional",
+        "count": 3,
+        "percentage": 2.5,
+        "color": "#22c55e"
+      },
+      {
+        "subject": "Direito Processual Penal",
+        "count": 2,
+        "percentage": 1.7,
+        "color": "#eab308"
+      },
+      {
+        "subject": "Legislação Especial",
+        "count": 2,
+        "percentage": 1.7,
+        "color": "#a855f7"
+      },
+      {
+        "subject": "Direito Penal",
+        "count": 1,
+        "percentage": 0.8,
+        "color": "#f59e0b"
+      },
+      {
+        "subject": "Legislação fora do edital da PRF",
+        "count": 1,
+        "percentage": 0.8,
+        "color": "#94a3b8"
+      }
+    ],
+    "topTopics": [
+      {
+        "name": "Correspondência oficial (Manual de Redação da Presidência da República)",
+        "count": 6,
+        "subjectGroup": "Língua Portuguesa"
+      },
+      {
+        "name": "Compreensão e interpretação de textos",
+        "count": 4,
+        "subjectGroup": "Língua Portuguesa"
+      },
+      {
+        "name": "Estrutura morfossintática do período: classes de palavras, coordenação e subordinação",
+        "count": 4,
+        "subjectGroup": "Língua Portuguesa"
+      },
+      {
+        "name": "Noções básicas de contagem e probabilidade",
+        "count": 4,
+        "subjectGroup": "Raciocínio Lógico-Matemático"
+      },
+      {
+        "name": "Mecanismos de coesão textual: referenciação, conectores, tempos e modos verbais",
+        "count": 3,
+        "subjectGroup": "Língua Portuguesa"
+      },
+      {
+        "name": "Internet, intranet e navegadores",
+        "count": 3,
+        "subjectGroup": "Informática"
+      }
+    ],
+    "analysisSummary": "50 de 115 itens válidos (43%) tratam de disciplinas do edital da PRF de 2021. Maior peso: Informática – tópicos fora do edital da PRF (26), Língua Portuguesa (24), Contabilidade (fora do edital da PRF) (24).",
+    "fullQuestions": [
+      {
+        "number": 1,
+        "subject": "Língua Portuguesa",
+        "topic": "Compreensão e interpretação de textos"
+      },
+      {
+        "number": 2,
+        "subject": "Língua Portuguesa",
+        "topic": "Mecanismos de coesão textual: referenciação, conectores, tempos e modos verbais"
+      },
+      {
+        "number": 3,
+        "subject": "Língua Portuguesa",
+        "topic": "Mecanismos de coesão textual: referenciação, conectores, tempos e modos verbais"
+      },
+      {
+        "number": 4,
+        "subject": "Língua Portuguesa",
+        "topic": "Mecanismos de coesão textual: referenciação, conectores, tempos e modos verbais"
+      },
+      {
+        "number": 5,
+        "subject": "Língua Portuguesa",
+        "topic": "Reescrita de frases e parágrafos do texto"
+      },
+      {
+        "number": 6,
+        "subject": "Língua Portuguesa",
+        "topic": "Estrutura morfossintática do período: classes de palavras, coordenação e subordinação"
+      },
+      {
+        "number": 7,
+        "subject": "Língua Portuguesa",
+        "topic": "Significação das palavras"
+      },
+      {
+        "number": 8,
+        "subject": "Língua Portuguesa",
+        "topic": "Estrutura morfossintática do período: classes de palavras, coordenação e subordinação"
+      },
+      {
+        "number": 9,
+        "subject": "Língua Portuguesa",
+        "topic": "Compreensão e interpretação de textos"
+      },
+      {
+        "number": 10,
+        "subject": "Língua Portuguesa",
+        "topic": "Emprego dos sinais de pontuação"
+      },
+      {
+        "number": 11,
+        "subject": "Língua Portuguesa",
+        "topic": "Estrutura morfossintática do período: classes de palavras, coordenação e subordinação"
+      },
+      {
+        "number": 12,
+        "subject": "Língua Portuguesa",
+        "topic": "Compreensão e interpretação de textos"
+      },
+      {
+        "number": 13,
+        "subject": "Língua Portuguesa",
+        "topic": "Concordância verbal e nominal"
+      },
+      {
+        "number": 14,
+        "subject": "Língua Portuguesa",
+        "topic": "Emprego dos sinais de pontuação"
+      },
+      {
+        "number": 15,
+        "subject": "Língua Portuguesa",
+        "topic": "Concordância verbal e nominal"
+      },
+      {
+        "number": 16,
+        "subject": "Língua Portuguesa",
+        "topic": "Compreensão e interpretação de textos"
+      },
+      {
+        "number": 17,
+        "subject": "Língua Portuguesa",
+        "topic": "Significação das palavras"
+      },
+      {
+        "number": 18,
+        "subject": "Língua Portuguesa",
+        "topic": "Estrutura morfossintática do período: classes de palavras, coordenação e subordinação"
+      },
+      {
+        "number": 19,
+        "subject": "Língua Portuguesa",
+        "topic": "Correspondência oficial (Manual de Redação da Presidência da República)"
+      },
+      {
+        "number": 20,
+        "subject": "Língua Portuguesa",
+        "topic": "Correspondência oficial (Manual de Redação da Presidência da República)"
+      },
+      {
+        "number": 21,
+        "subject": "Língua Portuguesa",
+        "topic": "Correspondência oficial (Manual de Redação da Presidência da República)"
+      },
+      {
+        "number": 22,
+        "subject": "Língua Portuguesa",
+        "topic": "Correspondência oficial (Manual de Redação da Presidência da República)"
+      },
+      {
+        "number": 23,
+        "subject": "Língua Portuguesa",
+        "topic": "Correspondência oficial (Manual de Redação da Presidência da República)"
+      },
+      {
+        "number": 24,
+        "subject": "Língua Portuguesa",
+        "topic": "Correspondência oficial (Manual de Redação da Presidência da República)"
+      },
+      {
+        "number": 25,
+        "subject": "Direito Administrativo",
+        "topic": "Agentes públicos e Lei nº 8.112/1990"
+      },
+      {
+        "number": 26,
+        "subject": "Direito Administrativo",
+        "topic": "Poderes administrativos; uso e abuso do poder"
+      },
+      {
+        "number": 27,
+        "subject": "Direito Administrativo",
+        "topic": "Controle da Administração Pública"
+      },
+      {
+        "number": 28,
+        "subject": "Direito Constitucional",
+        "topic": "Segurança pública e atribuições constitucionais da PRF (art. 144 da CF) (item anulado)"
+      },
+      {
+        "number": 29,
+        "subject": "Direito Constitucional",
+        "topic": "Direitos e deveres individuais e coletivos"
+      },
+      {
+        "number": 30,
+        "subject": "Direito Constitucional",
+        "topic": "Direitos sociais, nacionalidade, cidadania e direitos políticos"
+      },
+      {
+        "number": 31,
+        "subject": "Direito Processual Penal",
+        "topic": "Prova: conceito, ônus, provas ilícitas e meios de prova"
+      },
+      {
+        "number": 32,
+        "subject": "Direito Penal",
+        "topic": "Crimes contra a Administração Pública"
+      },
+      {
+        "number": 33,
+        "subject": "Direito Processual Penal",
+        "topic": "Prisão e prisão em flagrante"
+      },
+      {
+        "number": 34,
+        "subject": "Legislação Especial",
+        "topic": "Lei nº 11.343/2006 (Lei de Drogas)"
+      },
+      {
+        "number": 35,
+        "subject": "Legislação fora do edital da PRF",
+        "topic": "Lei de Migração (Lei nº 13.445/2017)"
+      },
+      {
+        "number": 36,
+        "subject": "Legislação Especial",
+        "topic": "Lei nº 9.605/1998 (crimes ambientais)"
+      },
+      {
+        "number": 37,
+        "subject": "Estatística (fora do edital da PRF)",
+        "topic": "Probabilidade, inferência e regressão"
+      },
+      {
+        "number": 38,
+        "subject": "Estatística (fora do edital da PRF)",
+        "topic": "Probabilidade, inferência e regressão"
+      },
+      {
+        "number": 39,
+        "subject": "Estatística (fora do edital da PRF)",
+        "topic": "Probabilidade, inferência e regressão"
+      },
+      {
+        "number": 40,
+        "subject": "Estatística (fora do edital da PRF)",
+        "topic": "Probabilidade, inferência e regressão"
+      },
+      {
+        "number": 41,
+        "subject": "Estatística (fora do edital da PRF)",
+        "topic": "Probabilidade, inferência e regressão"
+      },
+      {
+        "number": 42,
+        "subject": "Estatística (fora do edital da PRF)",
+        "topic": "Probabilidade, inferência e regressão"
+      },
+      {
+        "number": 43,
+        "subject": "Estatística (fora do edital da PRF)",
+        "topic": "Probabilidade, inferência e regressão"
+      },
+      {
+        "number": 44,
+        "subject": "Estatística (fora do edital da PRF)",
+        "topic": "Probabilidade, inferência e regressão"
+      },
+      {
+        "number": 45,
+        "subject": "Estatística (fora do edital da PRF)",
+        "topic": "Probabilidade, inferência e regressão"
+      },
+      {
+        "number": 46,
+        "subject": "Estatística (fora do edital da PRF)",
+        "topic": "Probabilidade, inferência e regressão"
+      },
+      {
+        "number": 47,
+        "subject": "Estatística (fora do edital da PRF)",
+        "topic": "Probabilidade, inferência e regressão"
+      },
+      {
+        "number": 48,
+        "subject": "Estatística (fora do edital da PRF)",
+        "topic": "Probabilidade, inferência e regressão"
+      },
+      {
+        "number": 49,
+        "subject": "Raciocínio Lógico-Matemático",
+        "topic": "Noções básicas de contagem e probabilidade"
+      },
+      {
+        "number": 50,
+        "subject": "Raciocínio Lógico-Matemático",
+        "topic": "Noções básicas de contagem e probabilidade"
+      },
+      {
+        "number": 51,
+        "subject": "Raciocínio Lógico-Matemático",
+        "topic": "Noções básicas de contagem e probabilidade"
+      },
+      {
+        "number": 52,
+        "subject": "Raciocínio Lógico – lógica proposicional (fora do edital da PRF)",
+        "topic": "Lógica proposicional: equivalências, negação e validade de argumentos"
+      },
+      {
+        "number": 53,
+        "subject": "Raciocínio Lógico – lógica proposicional (fora do edital da PRF)",
+        "topic": "Lógica proposicional: equivalências, negação e validade de argumentos"
+      },
+      {
+        "number": 54,
+        "subject": "Raciocínio Lógico – lógica proposicional (fora do edital da PRF)",
+        "topic": "Lógica proposicional: equivalências, negação e validade de argumentos"
+      },
+      {
+        "number": 55,
+        "subject": "Raciocínio Lógico – lógica proposicional (fora do edital da PRF)",
+        "topic": "Lógica proposicional: equivalências, negação e validade de argumentos"
+      },
+      {
+        "number": 56,
+        "subject": "Raciocínio Lógico – lógica proposicional (fora do edital da PRF)",
+        "topic": "Lógica proposicional: equivalências, negação e validade de argumentos"
+      },
+      {
+        "number": 57,
+        "subject": "Raciocínio Lógico – lógica proposicional (fora do edital da PRF)",
+        "topic": "Lógica proposicional: equivalências, negação e validade de argumentos"
+      },
+      {
+        "number": 58,
+        "subject": "Raciocínio Lógico-Matemático",
+        "topic": "Noções básicas de teoria dos conjuntos"
+      },
+      {
+        "number": 59,
+        "subject": "Raciocínio Lógico-Matemático",
+        "topic": "Noções básicas de teoria dos conjuntos"
+      },
+      {
+        "number": 60,
+        "subject": "Raciocínio Lógico-Matemático",
+        "topic": "Noções básicas de contagem e probabilidade"
+      },
+      {
+        "number": 61,
+        "subject": "Informática",
+        "topic": "Ferramentas de busca, correio eletrônico, redes sociais e ferramentas colaborativas"
+      },
+      {
+        "number": 62,
+        "subject": "Informática",
+        "topic": "Internet, intranet e navegadores"
+      },
+      {
+        "number": 63,
+        "subject": "Informática",
+        "topic": "Internet, intranet e navegadores"
+      },
+      {
+        "number": 64,
+        "subject": "Informática – tópicos fora do edital da PRF",
+        "topic": "Sistema operacional Linux"
+      },
+      {
+        "number": 65,
+        "subject": "Informática – tópicos fora do edital da PRF",
+        "topic": "Planilha eletrônica (Excel)"
+      },
+      {
+        "number": 66,
+        "subject": "Informática – tópicos fora do edital da PRF",
+        "topic": "Redes de computadores: protocolos e modelos de camadas"
+      },
+      {
+        "number": 67,
+        "subject": "Informática – tópicos fora do edital da PRF",
+        "topic": "Redes de computadores: protocolos e modelos de camadas"
+      },
+      {
+        "number": 68,
+        "subject": "Informática",
+        "topic": "Internet, intranet e navegadores"
+      },
+      {
+        "number": 69,
+        "subject": "Informática",
+        "topic": "Aplicativos de segurança: antivírus, firewall, anti-spyware e VPN"
+      },
+      {
+        "number": 70,
+        "subject": "Informática",
+        "topic": "Segurança: vírus, worms, phishing e pragas virtuais"
+      },
+      {
+        "number": 71,
+        "subject": "Informática",
+        "topic": "Computação na nuvem (cloud computing)"
+      },
+      {
+        "number": 72,
+        "subject": "Informática",
+        "topic": "Computação na nuvem (cloud computing)"
+      },
+      {
+        "number": 73,
+        "subject": "Informática – tópicos fora do edital da PRF",
+        "topic": "Teoria geral de sistemas, sistemas de informação e dado/informação/conhecimento"
+      },
+      {
+        "number": 74,
+        "subject": "Informática – tópicos fora do edital da PRF",
+        "topic": "Teoria geral de sistemas, sistemas de informação e dado/informação/conhecimento"
+      },
+      {
+        "number": 75,
+        "subject": "Informática – tópicos fora do edital da PRF",
+        "topic": "Teoria geral de sistemas, sistemas de informação e dado/informação/conhecimento"
+      },
+      {
+        "number": 76,
+        "subject": "Informática – tópicos fora do edital da PRF",
+        "topic": "Teoria geral de sistemas, sistemas de informação e dado/informação/conhecimento"
+      },
+      {
+        "number": 77,
+        "subject": "Informática – tópicos fora do edital da PRF",
+        "topic": "Teoria geral de sistemas, sistemas de informação e dado/informação/conhecimento"
+      },
+      {
+        "number": 78,
+        "subject": "Informática – tópicos fora do edital da PRF",
+        "topic": "Teoria geral de sistemas, sistemas de informação e dado/informação/conhecimento"
+      },
+      {
+        "number": 79,
+        "subject": "Informática – tópicos fora do edital da PRF",
+        "topic": "Redes de computadores: protocolos e modelos de camadas"
+      },
+      {
+        "number": 80,
+        "subject": "Informática – tópicos fora do edital da PRF",
+        "topic": "Redes de computadores: protocolos e modelos de camadas"
+      },
+      {
+        "number": 81,
+        "subject": "Informática – tópicos fora do edital da PRF",
+        "topic": "Redes de computadores: protocolos e modelos de camadas"
+      },
+      {
+        "number": 82,
+        "subject": "Informática – tópicos fora do edital da PRF",
+        "topic": "Redes de computadores: protocolos e modelos de camadas"
+      },
+      {
+        "number": 83,
+        "subject": "Informática – tópicos fora do edital da PRF",
+        "topic": "Metadados de arquivos"
+      },
+      {
+        "number": 84,
+        "subject": "Informática – tópicos fora do edital da PRF",
+        "topic": "Programação em Python e R"
+      },
+      {
+        "number": 85,
+        "subject": "Informática – tópicos fora do edital da PRF",
+        "topic": "Programação em Python e R"
+      },
+      {
+        "number": 86,
+        "subject": "Informática",
+        "topic": "Transformação digital: Internet das coisas, big data e inteligência artificial"
+      },
+      {
+        "number": 87,
+        "subject": "Informática – tópicos fora do edital da PRF",
+        "topic": "Mineração de dados: entropia da informação"
+      },
+      {
+        "number": 88,
+        "subject": "Informática",
+        "topic": "Transformação digital: Internet das coisas, big data e inteligência artificial"
+      },
+      {
+        "number": 89,
+        "subject": "Informática – tópicos fora do edital da PRF",
+        "topic": "Banco de dados, dados estruturados, SQL e API"
+      },
+      {
+        "number": 90,
+        "subject": "Informática – tópicos fora do edital da PRF",
+        "topic": "Banco de dados, dados estruturados, SQL e API"
+      },
+      {
+        "number": 91,
+        "subject": "Informática – tópicos fora do edital da PRF",
+        "topic": "Banco de dados, dados estruturados, SQL e API"
+      },
+      {
+        "number": 92,
+        "subject": "Informática – tópicos fora do edital da PRF",
+        "topic": "Banco de dados, dados estruturados, SQL e API (item anulado)"
+      },
+      {
+        "number": 93,
+        "subject": "Informática – tópicos fora do edital da PRF",
+        "topic": "Banco de dados, dados estruturados, SQL e API"
+      },
+      {
+        "number": 94,
+        "subject": "Informática – tópicos fora do edital da PRF",
+        "topic": "Banco de dados, dados estruturados, SQL e API"
+      },
+      {
+        "number": 95,
+        "subject": "Informática – tópicos fora do edital da PRF",
+        "topic": "Banco de dados, dados estruturados, SQL e API"
+      },
+      {
+        "number": 96,
+        "subject": "Informática – tópicos fora do edital da PRF",
+        "topic": "Banco de dados, dados estruturados, SQL e API"
+      },
+      {
+        "number": 97,
+        "subject": "Contabilidade (fora do edital da PRF)",
+        "topic": "Contabilidade geral e pronunciamentos contábeis"
+      },
+      {
+        "number": 98,
+        "subject": "Contabilidade (fora do edital da PRF)",
+        "topic": "Contabilidade geral e pronunciamentos contábeis"
+      },
+      {
+        "number": 99,
+        "subject": "Contabilidade (fora do edital da PRF)",
+        "topic": "Contabilidade geral e pronunciamentos contábeis"
+      },
+      {
+        "number": 100,
+        "subject": "Contabilidade (fora do edital da PRF)",
+        "topic": "Contabilidade geral e pronunciamentos contábeis"
+      },
+      {
+        "number": 101,
+        "subject": "Contabilidade (fora do edital da PRF)",
+        "topic": "Contabilidade geral e pronunciamentos contábeis"
+      },
+      {
+        "number": 102,
+        "subject": "Contabilidade (fora do edital da PRF)",
+        "topic": "Contabilidade geral e pronunciamentos contábeis"
+      },
+      {
+        "number": 103,
+        "subject": "Contabilidade (fora do edital da PRF)",
+        "topic": "Contabilidade geral e pronunciamentos contábeis"
+      },
+      {
+        "number": 104,
+        "subject": "Contabilidade (fora do edital da PRF)",
+        "topic": "Contabilidade geral e pronunciamentos contábeis"
+      },
+      {
+        "number": 105,
+        "subject": "Contabilidade (fora do edital da PRF)",
+        "topic": "Contabilidade geral e pronunciamentos contábeis"
+      },
+      {
+        "number": 106,
+        "subject": "Contabilidade (fora do edital da PRF)",
+        "topic": "Contabilidade geral e pronunciamentos contábeis (item anulado)"
+      },
+      {
+        "number": 107,
+        "subject": "Contabilidade (fora do edital da PRF)",
+        "topic": "Contabilidade geral e pronunciamentos contábeis"
+      },
+      {
+        "number": 108,
+        "subject": "Contabilidade (fora do edital da PRF)",
+        "topic": "Contabilidade geral e pronunciamentos contábeis (item anulado)"
+      },
+      {
+        "number": 109,
+        "subject": "Contabilidade (fora do edital da PRF)",
+        "topic": "Contabilidade geral e pronunciamentos contábeis"
+      },
+      {
+        "number": 110,
+        "subject": "Contabilidade (fora do edital da PRF)",
+        "topic": "Contabilidade geral e pronunciamentos contábeis"
+      },
+      {
+        "number": 111,
+        "subject": "Contabilidade (fora do edital da PRF)",
+        "topic": "Contabilidade geral e pronunciamentos contábeis"
+      },
+      {
+        "number": 112,
+        "subject": "Contabilidade (fora do edital da PRF)",
+        "topic": "Contabilidade geral e pronunciamentos contábeis"
+      },
+      {
+        "number": 113,
+        "subject": "Contabilidade (fora do edital da PRF)",
+        "topic": "Contabilidade geral e pronunciamentos contábeis"
+      },
+      {
+        "number": 114,
+        "subject": "Contabilidade (fora do edital da PRF)",
+        "topic": "Contabilidade geral e pronunciamentos contábeis"
+      },
+      {
+        "number": 115,
+        "subject": "Contabilidade (fora do edital da PRF)",
+        "topic": "Contabilidade geral e pronunciamentos contábeis"
+      },
+      {
+        "number": 116,
+        "subject": "Contabilidade (fora do edital da PRF)",
+        "topic": "Contabilidade geral e pronunciamentos contábeis"
+      },
+      {
+        "number": 117,
+        "subject": "Contabilidade (fora do edital da PRF)",
+        "topic": "Contabilidade geral e pronunciamentos contábeis"
+      },
+      {
+        "number": 118,
+        "subject": "Contabilidade (fora do edital da PRF)",
+        "topic": "Contabilidade geral e pronunciamentos contábeis"
+      },
+      {
+        "number": 119,
+        "subject": "Contabilidade (fora do edital da PRF)",
+        "topic": "Contabilidade geral e pronunciamentos contábeis (item anulado)"
+      },
+      {
+        "number": 120,
+        "subject": "Contabilidade (fora do edital da PRF)",
+        "topic": "Contabilidade geral e pronunciamentos contábeis"
+      }
+    ]
+  },
+  {
+    "id": "pf_2018_agente",
+    "concursoId": "prf-policial",
+    "year": 2018,
+    "role": "Agente de Polícia Federal (cargo equivalente)",
+    "title": "PF – Agente de Polícia Federal – 2018 – Cespe/Cebraspe",
+    "banca": "Cespe/Cebraspe",
+    "questionsCount": 120,
+    "essay": "Prova discursiva (texto dissertativo)",
+    "examUrl": "https://cdn.cebraspe.org.br/concursos/PF_18/arquivos/MATRIZ_408_DGPPF012__PAG_9.PDF",
+    "answerUrl": "https://cdn.cebraspe.org.br/concursos/PF_18/arquivos/GAB_DEFINITIVO_408_DGPPF012__PAG_9.PDF",
+    "description": "Cargo policial federal equivalente (Agente de Polícia Federal, caderno do cargo 12), mesma banca e mesmo modelo Certo/Errado de 120 itens, 2018. Itens Certo/Errado; gabarito oficial definitivo do Cebraspe. 6 item(ns) anulado(s) (29, 30, 51, 78, 91, 117), mantidos só no mapa. 57 itens completos no banco \"Prova Real\"; os demais estão apenas mapeados (fora do edital da PRF de 2021, dependentes de figura ou de resoluções do CONTRAN revogadas/consolidadas depois da prova).",
+    "category": "prf-policial",
+    "stats": [
+      {
+        "subject": "Língua Portuguesa",
+        "count": 24,
+        "percentage": 20,
+        "color": "#3b82f6"
+      },
+      {
+        "subject": "Contabilidade (fora do edital da PRF)",
+        "count": 24,
+        "percentage": 20,
+        "color": "#94a3b8"
+      },
+      {
+        "subject": "Informática",
+        "count": 18,
+        "percentage": 15,
+        "color": "#0ea5e9"
+      },
+      {
+        "subject": "Informática – tópicos fora do edital da PRF",
+        "count": 18,
+        "percentage": 15,
+        "color": "#94a3b8"
+      },
+      {
+        "subject": "Estatística (fora do edital da PRF)",
+        "count": 9,
+        "percentage": 7.5,
+        "color": "#94a3b8"
+      },
+      {
+        "subject": "Raciocínio Lógico – lógica proposicional (fora do edital da PRF)",
+        "count": 6,
+        "percentage": 5,
+        "color": "#94a3b8"
+      },
+      {
+        "subject": "Raciocínio Lógico-Matemático",
+        "count": 5,
+        "percentage": 4.2,
+        "color": "#8b5cf6"
+      },
+      {
+        "subject": "Direito Administrativo",
+        "count": 4,
+        "percentage": 3.3,
+        "color": "#10b981"
+      },
+      {
+        "subject": "Direito Constitucional",
+        "count": 4,
+        "percentage": 3.3,
+        "color": "#22c55e"
+      },
+      {
+        "subject": "Direito Processual Penal",
+        "count": 3,
+        "percentage": 2.5,
+        "color": "#eab308"
+      },
+      {
+        "subject": "Direito Penal",
+        "count": 2,
+        "percentage": 1.7,
+        "color": "#f59e0b"
+      },
+      {
+        "subject": "Legislação Especial",
+        "count": 2,
+        "percentage": 1.7,
+        "color": "#a855f7"
+      },
+      {
+        "subject": "Legislação fora do edital da PRF",
+        "count": 1,
+        "percentage": 0.8,
+        "color": "#94a3b8"
+      }
+    ],
+    "topTopics": [
+      {
+        "name": "Compreensão e interpretação de textos",
+        "count": 9,
+        "subjectGroup": "Língua Portuguesa"
+      },
+      {
+        "name": "Mecanismos de coesão textual: referenciação, conectores, tempos e modos verbais",
+        "count": 4,
+        "subjectGroup": "Língua Portuguesa"
+      },
+      {
+        "name": "Emprego dos sinais de pontuação",
+        "count": 3,
+        "subjectGroup": "Língua Portuguesa"
+      },
+      {
+        "name": "Correspondência oficial (Manual de Redação da Presidência da República)",
+        "count": 3,
+        "subjectGroup": "Língua Portuguesa"
+      },
+      {
+        "name": "Noções básicas de contagem e probabilidade",
+        "count": 3,
+        "subjectGroup": "Raciocínio Lógico-Matemático"
+      },
+      {
+        "name": "Internet, intranet e navegadores",
+        "count": 3,
+        "subjectGroup": "Informática"
+      }
+    ],
+    "analysisSummary": "60 de 114 itens válidos (53%) tratam de disciplinas do edital da PRF de 2021. Maior peso: Língua Portuguesa (24), Contabilidade (fora do edital da PRF) (24), Informática (18).",
+    "fullQuestions": [
+      {
+        "number": 1,
+        "subject": "Língua Portuguesa",
+        "topic": "Compreensão e interpretação de textos"
+      },
+      {
+        "number": 2,
+        "subject": "Língua Portuguesa",
+        "topic": "Compreensão e interpretação de textos"
+      },
+      {
+        "number": 3,
+        "subject": "Língua Portuguesa",
+        "topic": "Compreensão e interpretação de textos"
+      },
+      {
+        "number": 4,
+        "subject": "Língua Portuguesa",
+        "topic": "Compreensão e interpretação de textos"
+      },
+      {
+        "number": 5,
+        "subject": "Língua Portuguesa",
+        "topic": "Compreensão e interpretação de textos"
+      },
+      {
+        "number": 6,
+        "subject": "Língua Portuguesa",
+        "topic": "Emprego dos sinais de pontuação"
+      },
+      {
+        "number": 7,
+        "subject": "Língua Portuguesa",
+        "topic": "Mecanismos de coesão textual: referenciação, conectores, tempos e modos verbais"
+      },
+      {
+        "number": 8,
+        "subject": "Língua Portuguesa",
+        "topic": "Emprego do sinal indicativo de crase"
+      },
+      {
+        "number": 9,
+        "subject": "Língua Portuguesa",
+        "topic": "Correspondência oficial (Manual de Redação da Presidência da República)"
+      },
+      {
+        "number": 10,
+        "subject": "Língua Portuguesa",
+        "topic": "Correspondência oficial (Manual de Redação da Presidência da República)"
+      },
+      {
+        "number": 11,
+        "subject": "Língua Portuguesa",
+        "topic": "Correspondência oficial (Manual de Redação da Presidência da República)"
+      },
+      {
+        "number": 12,
+        "subject": "Língua Portuguesa",
+        "topic": "Reconhecimento de tipos e gêneros textuais"
+      },
+      {
+        "number": 13,
+        "subject": "Língua Portuguesa",
+        "topic": "Compreensão e interpretação de textos"
+      },
+      {
+        "number": 14,
+        "subject": "Língua Portuguesa",
+        "topic": "Compreensão e interpretação de textos"
+      },
+      {
+        "number": 15,
+        "subject": "Língua Portuguesa",
+        "topic": "Compreensão e interpretação de textos"
+      },
+      {
+        "number": 16,
+        "subject": "Língua Portuguesa",
+        "topic": "Compreensão e interpretação de textos"
+      },
+      {
+        "number": 17,
+        "subject": "Língua Portuguesa",
+        "topic": "Reescrita de frases e parágrafos do texto"
+      },
+      {
+        "number": 18,
+        "subject": "Língua Portuguesa",
+        "topic": "Mecanismos de coesão textual: referenciação, conectores, tempos e modos verbais"
+      },
+      {
+        "number": 19,
+        "subject": "Língua Portuguesa",
+        "topic": "Mecanismos de coesão textual: referenciação, conectores, tempos e modos verbais"
+      },
+      {
+        "number": 20,
+        "subject": "Língua Portuguesa",
+        "topic": "Mecanismos de coesão textual: referenciação, conectores, tempos e modos verbais"
+      },
+      {
+        "number": 21,
+        "subject": "Língua Portuguesa",
+        "topic": "Estrutura morfossintática do período: classes de palavras, coordenação e subordinação"
+      },
+      {
+        "number": 22,
+        "subject": "Língua Portuguesa",
+        "topic": "Emprego do sinal indicativo de crase"
+      },
+      {
+        "number": 23,
+        "subject": "Língua Portuguesa",
+        "topic": "Emprego dos sinais de pontuação"
+      },
+      {
+        "number": 24,
+        "subject": "Língua Portuguesa",
+        "topic": "Emprego dos sinais de pontuação"
+      },
+      {
+        "number": 25,
+        "subject": "Direito Administrativo",
+        "topic": "Organização administrativa: centralização, descentralização e administração indireta"
+      },
+      {
+        "number": 26,
+        "subject": "Direito Administrativo",
+        "topic": "Organização administrativa: centralização, descentralização e administração indireta"
+      },
+      {
+        "number": 27,
+        "subject": "Direito Administrativo",
+        "topic": "Controle da Administração Pública"
+      },
+      {
+        "number": 28,
+        "subject": "Direito Administrativo",
+        "topic": "Controle da Administração Pública"
+      },
+      {
+        "number": 29,
+        "subject": "Direito Constitucional",
+        "topic": "Defesa do Estado e das instituições democráticas; Forças Armadas (item anulado)"
+      },
+      {
+        "number": 30,
+        "subject": "Direito Constitucional",
+        "topic": "Defesa do Estado e das instituições democráticas; Forças Armadas (item anulado)"
+      },
+      {
+        "number": 31,
+        "subject": "Direito Constitucional",
+        "topic": "Segurança pública e atribuições constitucionais da PRF (art. 144 da CF)"
+      },
+      {
+        "number": 32,
+        "subject": "Direito Constitucional",
+        "topic": "Segurança pública e atribuições constitucionais da PRF (art. 144 da CF)"
+      },
+      {
+        "number": 33,
+        "subject": "Direito Penal",
+        "topic": "Crimes contra o patrimônio"
+      },
+      {
+        "number": 34,
+        "subject": "Direito Penal",
+        "topic": "Aplicação da lei penal no tempo e no espaço"
+      },
+      {
+        "number": 35,
+        "subject": "Direito Processual Penal",
+        "topic": "Diligências investigatórias e inquérito policial (arts. 6º e 13 do CPP)"
+      },
+      {
+        "number": 36,
+        "subject": "Direito Processual Penal",
+        "topic": "Prova: conceito, ônus, provas ilícitas e meios de prova"
+      },
+      {
+        "number": 37,
+        "subject": "Direito Processual Penal",
+        "topic": "Prisão e prisão em flagrante"
+      },
+      {
+        "number": 38,
+        "subject": "Legislação Especial",
+        "topic": "Lei nº 11.343/2006 (Lei de Drogas)"
+      },
+      {
+        "number": 39,
+        "subject": "Legislação fora do edital da PRF",
+        "topic": "Lei de Migração (Lei nº 13.445/2017)"
+      },
+      {
+        "number": 40,
+        "subject": "Legislação Especial",
+        "topic": "Lei nº 9.605/1998 (crimes ambientais)"
+      },
+      {
+        "number": 41,
+        "subject": "Raciocínio Lógico-Matemático",
+        "topic": "Noções básicas de contagem e probabilidade"
+      },
+      {
+        "number": 42,
+        "subject": "Estatística (fora do edital da PRF)",
+        "topic": "Inferência, distribuição normal e regressão"
+      },
+      {
+        "number": 43,
+        "subject": "Estatística (fora do edital da PRF)",
+        "topic": "Inferência, distribuição normal e regressão"
+      },
+      {
+        "number": 44,
+        "subject": "Estatística (fora do edital da PRF)",
+        "topic": "Inferência, distribuição normal e regressão"
+      },
+      {
+        "number": 45,
+        "subject": "Estatística (fora do edital da PRF)",
+        "topic": "Inferência, distribuição normal e regressão"
+      },
+      {
+        "number": 46,
+        "subject": "Estatística (fora do edital da PRF)",
+        "topic": "Inferência, distribuição normal e regressão"
+      },
+      {
+        "number": 47,
+        "subject": "Estatística (fora do edital da PRF)",
+        "topic": "Inferência, distribuição normal e regressão"
+      },
+      {
+        "number": 48,
+        "subject": "Estatística (fora do edital da PRF)",
+        "topic": "Inferência, distribuição normal e regressão"
+      },
+      {
+        "number": 49,
+        "subject": "Estatística (fora do edital da PRF)",
+        "topic": "Inferência, distribuição normal e regressão"
+      },
+      {
+        "number": 50,
+        "subject": "Estatística (fora do edital da PRF)",
+        "topic": "Inferência, distribuição normal e regressão"
+      },
+      {
+        "number": 51,
+        "subject": "Raciocínio Lógico – lógica proposicional (fora do edital da PRF)",
+        "topic": "Lógica proposicional: conectivos, tabela-verdade e equivalências (item anulado)"
+      },
+      {
+        "number": 52,
+        "subject": "Raciocínio Lógico – lógica proposicional (fora do edital da PRF)",
+        "topic": "Lógica proposicional: conectivos, tabela-verdade e equivalências"
+      },
+      {
+        "number": 53,
+        "subject": "Raciocínio Lógico – lógica proposicional (fora do edital da PRF)",
+        "topic": "Lógica proposicional: conectivos, tabela-verdade e equivalências"
+      },
+      {
+        "number": 54,
+        "subject": "Raciocínio Lógico – lógica proposicional (fora do edital da PRF)",
+        "topic": "Lógica proposicional: conectivos, tabela-verdade e equivalências"
+      },
+      {
+        "number": 55,
+        "subject": "Raciocínio Lógico – lógica proposicional (fora do edital da PRF)",
+        "topic": "Lógica proposicional: conectivos, tabela-verdade e equivalências"
+      },
+      {
+        "number": 56,
+        "subject": "Raciocínio Lógico – lógica proposicional (fora do edital da PRF)",
+        "topic": "Lógica proposicional: conectivos, tabela-verdade e equivalências"
+      },
+      {
+        "number": 57,
+        "subject": "Raciocínio Lógico-Matemático",
+        "topic": "Noções básicas de teoria dos conjuntos"
+      },
+      {
+        "number": 58,
+        "subject": "Raciocínio Lógico-Matemático",
+        "topic": "Noções básicas de contagem e probabilidade"
+      },
+      {
+        "number": 59,
+        "subject": "Raciocínio Lógico-Matemático",
+        "topic": "Noções básicas de contagem e probabilidade"
+      },
+      {
+        "number": 60,
+        "subject": "Raciocínio Lógico-Matemático",
+        "topic": "Noções básicas de teoria dos conjuntos"
+      },
+      {
+        "number": 61,
+        "subject": "Informática",
+        "topic": "Internet, intranet e navegadores"
+      },
+      {
+        "number": 62,
+        "subject": "Informática",
+        "topic": "Internet, intranet e navegadores"
+      },
+      {
+        "number": 63,
+        "subject": "Informática",
+        "topic": "Aplicativos de segurança: antivírus, firewall, anti-spyware e VPN"
+      },
+      {
+        "number": 64,
+        "subject": "Informática",
+        "topic": "Internet, intranet e navegadores"
+      },
+      {
+        "number": 65,
+        "subject": "Informática",
+        "topic": "Acesso a distância, transferência de arquivos e multimídia"
+      },
+      {
+        "number": 66,
+        "subject": "Informática",
+        "topic": "Segurança: vírus, worms, phishing e pragas virtuais"
+      },
+      {
+        "number": 67,
+        "subject": "Informática",
+        "topic": "Segurança: vírus, worms, phishing e pragas virtuais"
+      },
+      {
+        "number": 68,
+        "subject": "Informática",
+        "topic": "Aplicativos de segurança: antivírus, firewall, anti-spyware e VPN"
+      },
+      {
+        "number": 69,
+        "subject": "Informática",
+        "topic": "Ferramentas de busca, correio eletrônico, redes sociais e ferramentas colaborativas"
+      },
+      {
+        "number": 70,
+        "subject": "Informática",
+        "topic": "Computação na nuvem (cloud computing)"
+      },
+      {
+        "number": 71,
+        "subject": "Informática",
+        "topic": "Computação na nuvem (cloud computing)"
+      },
+      {
+        "number": 72,
+        "subject": "Informática",
+        "topic": "Computação na nuvem (cloud computing)"
+      },
+      {
+        "number": 73,
+        "subject": "Informática – tópicos fora do edital da PRF",
+        "topic": "Teoria geral de sistemas"
+      },
+      {
+        "number": 74,
+        "subject": "Informática",
+        "topic": "Ferramentas de busca, correio eletrônico, redes sociais e ferramentas colaborativas"
+      },
+      {
+        "number": 75,
+        "subject": "Informática",
+        "topic": "Acesso a distância, transferência de arquivos e multimídia"
+      },
+      {
+        "number": 76,
+        "subject": "Informática",
+        "topic": "Acesso a distância, transferência de arquivos e multimídia"
+      },
+      {
+        "number": 77,
+        "subject": "Informática – tópicos fora do edital da PRF",
+        "topic": "Pacote de escritório, sistemas de informação e banco de dados"
+      },
+      {
+        "number": 78,
+        "subject": "Informática – tópicos fora do edital da PRF",
+        "topic": "Pacote de escritório, sistemas de informação e banco de dados (item anulado)"
+      },
+      {
+        "number": 79,
+        "subject": "Informática – tópicos fora do edital da PRF",
+        "topic": "Pacote de escritório, sistemas de informação e banco de dados"
+      },
+      {
+        "number": 80,
+        "subject": "Informática – tópicos fora do edital da PRF",
+        "topic": "Pacote de escritório, sistemas de informação e banco de dados"
+      },
+      {
+        "number": 81,
+        "subject": "Informática – tópicos fora do edital da PRF",
+        "topic": "Pacote de escritório, sistemas de informação e banco de dados"
+      },
+      {
+        "number": 82,
+        "subject": "Informática – tópicos fora do edital da PRF",
+        "topic": "Pacote de escritório, sistemas de informação e banco de dados"
+      },
+      {
+        "number": 83,
+        "subject": "Informática – tópicos fora do edital da PRF",
+        "topic": "Pacote de escritório, sistemas de informação e banco de dados"
+      },
+      {
+        "number": 84,
+        "subject": "Informática",
+        "topic": "Transformação digital: Internet das coisas, big data e inteligência artificial"
+      },
+      {
+        "number": 85,
+        "subject": "Informática",
+        "topic": "Transformação digital: Internet das coisas, big data e inteligência artificial"
+      },
+      {
+        "number": 86,
+        "subject": "Informática",
+        "topic": "Transformação digital: Internet das coisas, big data e inteligência artificial"
+      },
+      {
+        "number": 87,
+        "subject": "Informática – tópicos fora do edital da PRF",
+        "topic": "Redes de computadores e programação em Python e R"
+      },
+      {
+        "number": 88,
+        "subject": "Informática – tópicos fora do edital da PRF",
+        "topic": "Redes de computadores e programação em Python e R"
+      },
+      {
+        "number": 89,
+        "subject": "Informática – tópicos fora do edital da PRF",
+        "topic": "Redes de computadores e programação em Python e R"
+      },
+      {
+        "number": 90,
+        "subject": "Informática – tópicos fora do edital da PRF",
+        "topic": "Redes de computadores e programação em Python e R"
+      },
+      {
+        "number": 91,
+        "subject": "Informática – tópicos fora do edital da PRF",
+        "topic": "Redes de computadores e programação em Python e R (item anulado)"
+      },
+      {
+        "number": 92,
+        "subject": "Informática – tópicos fora do edital da PRF",
+        "topic": "Redes de computadores e programação em Python e R"
+      },
+      {
+        "number": 93,
+        "subject": "Informática – tópicos fora do edital da PRF",
+        "topic": "Redes de computadores e programação em Python e R"
+      },
+      {
+        "number": 94,
+        "subject": "Informática – tópicos fora do edital da PRF",
+        "topic": "Redes de computadores e programação em Python e R"
+      },
+      {
+        "number": 95,
+        "subject": "Informática – tópicos fora do edital da PRF",
+        "topic": "Redes de computadores e programação em Python e R"
+      },
+      {
+        "number": 96,
+        "subject": "Informática – tópicos fora do edital da PRF",
+        "topic": "Redes de computadores e programação em Python e R"
+      },
+      {
+        "number": 97,
+        "subject": "Contabilidade (fora do edital da PRF)",
+        "topic": "Contabilidade geral"
+      },
+      {
+        "number": 98,
+        "subject": "Contabilidade (fora do edital da PRF)",
+        "topic": "Contabilidade geral"
+      },
+      {
+        "number": 99,
+        "subject": "Contabilidade (fora do edital da PRF)",
+        "topic": "Contabilidade geral"
+      },
+      {
+        "number": 100,
+        "subject": "Contabilidade (fora do edital da PRF)",
+        "topic": "Contabilidade geral"
+      },
+      {
+        "number": 101,
+        "subject": "Contabilidade (fora do edital da PRF)",
+        "topic": "Contabilidade geral"
+      },
+      {
+        "number": 102,
+        "subject": "Contabilidade (fora do edital da PRF)",
+        "topic": "Contabilidade geral"
+      },
+      {
+        "number": 103,
+        "subject": "Contabilidade (fora do edital da PRF)",
+        "topic": "Contabilidade geral"
+      },
+      {
+        "number": 104,
+        "subject": "Contabilidade (fora do edital da PRF)",
+        "topic": "Contabilidade geral"
+      },
+      {
+        "number": 105,
+        "subject": "Contabilidade (fora do edital da PRF)",
+        "topic": "Contabilidade geral"
+      },
+      {
+        "number": 106,
+        "subject": "Contabilidade (fora do edital da PRF)",
+        "topic": "Contabilidade geral"
+      },
+      {
+        "number": 107,
+        "subject": "Contabilidade (fora do edital da PRF)",
+        "topic": "Contabilidade geral"
+      },
+      {
+        "number": 108,
+        "subject": "Contabilidade (fora do edital da PRF)",
+        "topic": "Contabilidade geral"
+      },
+      {
+        "number": 109,
+        "subject": "Contabilidade (fora do edital da PRF)",
+        "topic": "Contabilidade geral"
+      },
+      {
+        "number": 110,
+        "subject": "Contabilidade (fora do edital da PRF)",
+        "topic": "Contabilidade geral"
+      },
+      {
+        "number": 111,
+        "subject": "Contabilidade (fora do edital da PRF)",
+        "topic": "Contabilidade geral"
+      },
+      {
+        "number": 112,
+        "subject": "Contabilidade (fora do edital da PRF)",
+        "topic": "Contabilidade geral"
+      },
+      {
+        "number": 113,
+        "subject": "Contabilidade (fora do edital da PRF)",
+        "topic": "Contabilidade geral"
+      },
+      {
+        "number": 114,
+        "subject": "Contabilidade (fora do edital da PRF)",
+        "topic": "Contabilidade geral"
+      },
+      {
+        "number": 115,
+        "subject": "Contabilidade (fora do edital da PRF)",
+        "topic": "Contabilidade geral"
+      },
+      {
+        "number": 116,
+        "subject": "Contabilidade (fora do edital da PRF)",
+        "topic": "Contabilidade geral"
+      },
+      {
+        "number": 117,
+        "subject": "Contabilidade (fora do edital da PRF)",
+        "topic": "Contabilidade geral (item anulado)"
+      },
+      {
+        "number": 118,
+        "subject": "Contabilidade (fora do edital da PRF)",
+        "topic": "Contabilidade geral"
+      },
+      {
+        "number": 119,
+        "subject": "Contabilidade (fora do edital da PRF)",
+        "topic": "Contabilidade geral"
+      },
+      {
+        "number": 120,
+        "subject": "Contabilidade (fora do edital da PRF)",
+        "topic": "Contabilidade geral"
+      }
+    ]
+  }
+]

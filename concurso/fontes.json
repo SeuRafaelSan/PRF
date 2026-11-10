@@ -1,0 +1,136 @@
+{
+  "edital": [
+    {
+      "descricao": "Edital Concurso PRF nº 1, de 18/01/2021 – abertura (Cebraspe/PRF)",
+      "url": "https://cdn.cebraspe.org.br/concursos/PRF_21/arquivos/ED_1_PRF_2021_ABERTURA.PDF",
+      "acessadoEm": "2026-11-10",
+      "sha256": "1d1460e62050be1e077c61aed862f91d62d24febcd9490bf56026257ed8a1183"
+    },
+    {
+      "descricao": "Edital Concurso PRF nº 2, de 26/01/2021 – retificação (Legislação de Trânsito e Direito Penal)",
+      "url": "https://cdn.cebraspe.org.br/concursos/PRF_21/arquivos/ED_2_PRF_2021_RETIFICACAO.PDF",
+      "acessadoEm": "2026-11-10",
+      "sha256": "d8f3b5660030883f754b6ab5c4ccab383e2253b6a7941ee96ef53dfae05c8c45"
+    },
+    {
+      "descricao": "Edital Concurso PRF nº 5/2021 – retificação, reabertura de inscrições e novo cronograma",
+      "url": "https://cdn.cebraspe.org.br/concursos/PRF_21/arquivos/ED_5_PRF_2021_REABERTURA.PDF",
+      "acessadoEm": "2026-11-10",
+      "sha256": "336399f6f84576ec8fbd8b69b2ee3f1316f1ae1fad3898290d4cba72f36e0cd2"
+    },
+    {
+      "descricao": "Edital Concurso PRF nº 11/2021 – resultado final na prova objetiva (fonte da nota de corte: menor nota objetiva da ampla concorrência entre os classificados para a correção da discursiva = 73,00)",
+      "url": "https://cdn.cebraspe.org.br/concursos/PRF_21/arquivos/ED_11_PRF_2021_FINAL_OBJETIVA_PROV_DISCURSIVA.PDF",
+      "acessadoEm": "2026-11-10",
+      "sha256": "96bbd8c23910306558ad2aa484b8b59cc8a526a600ac0aee36f8638c1044d953"
+    },
+    {
+      "descricao": "Edital Concurso PRF nº 119 – prorrogação da validade do concurso de 2021",
+      "url": "https://cdn.cebraspe.org.br/concursos/PRF_21/arquivos/763E25636BF5FB11533273184FD817627BFB0D04B62810175968E04EA0BD4393.pdf",
+      "acessadoEm": "2026-11-10",
+      "sha256": "41efe0414d0dbf99219f80f66d1d7ee6f7c9440ec7d1433d5113eeebbf8d5008"
+    },
+    {
+      "descricao": "Página oficial do concurso PRF 2021 no Cebraspe",
+      "url": "https://www.cebraspe.org.br/concursos/PRF_21",
+      "acessadoEm": "2026-11-10"
+    }
+  ],
+  "provas": [
+    {
+      "descricao": "Cebraspe – Polícia Rodoviária Federal – Policial Rodoviário Federal – 2021 – Caderno 578_PRF_001_01 (itens 9 a 120)",
+      "url": "https://cdn.cebraspe.org.br/concursos/PRF_21/arquivos/578_PRF_001_01.PDF",
+      "acessadoEm": "2026-11-10",
+      "sha256": "6c795d351085976400c140bf89a06bf9ff9fcbb0624a7401b991caa961d7a02f"
+    },
+    {
+      "descricao": "Cebraspe – Polícia Rodoviária Federal – Policial Rodoviário Federal – 2021 – Caderno de Língua Inglesa (itens 1 a 8)",
+      "url": "https://cdn.cebraspe.org.br/concursos/PRF_21/arquivos/578_PRF_ING_01.PDF",
+      "acessadoEm": "2026-11-10",
+      "sha256": "a822464ff171e2c8a4182793f614f2968422a59f3817fd4894ff95732126fceb"
+    },
+    {
+      "descricao": "Cespe/Cebraspe – Polícia Rodoviária Federal – Policial Rodoviário Federal – 2019 – Caderno 440_PRF_001_00",
+      "url": "https://cdn.cebraspe.org.br/concursos/PRF_18/arquivos/440_PRF_001_00_PAG_9.PDF",
+      "acessadoEm": "2026-11-10",
+      "sha256": "e9d4a9d8bef2c1321695df82599488225c8c9c84fb4475a68729390d12022c49"
+    },
+    {
+      "descricao": "Cespe/UnB – Departamento de Polícia Rodoviária Federal – Policial Rodoviário Federal – 2013 – Caderno DPRF13_001_01",
+      "url": "https://cdn.cebraspe.org.br/concursos/DPRF_13/arquivos/DPRF13_001_01.pdf",
+      "acessadoEm": "2026-11-10",
+      "sha256": "a42670303e9e2a41f15587135fac322b7139b2c8d3c2161f2b99535bebf5de3e"
+    },
+    {
+      "descricao": "Cebraspe – Polícia Federal – Agente de Polícia Federal (cargo equivalente) – 2021 – Caderno do cargo 2 – Agente de Polícia Federal",
+      "url": "https://cdn.cebraspe.org.br/concursos/PF_21/arquivos/CARGO_2_AGENTE_DE_POLCIA_FEDERAL.PDF",
+      "acessadoEm": "2026-11-10",
+      "sha256": "5464654f02abfcafe921eaa65c4f30bf9c267d80e667b7b35a8ca9e3f115b42f"
+    },
+    {
+      "descricao": "Cespe/Cebraspe – Polícia Federal – Agente de Polícia Federal (cargo equivalente) – 2018 – Caderno do cargo 12 – Agente de Polícia Federal",
+      "url": "https://cdn.cebraspe.org.br/concursos/PF_18/arquivos/MATRIZ_408_DGPPF012__PAG_9.PDF",
+      "acessadoEm": "2026-11-10",
+      "sha256": "0db90f82694c174092c4a1271d94acae54b19ad86e093be1abc2f1e38ef1c937"
+    }
+  ],
+  "gabaritos": [
+    {
+      "descricao": "Cebraspe – Polícia Rodoviária Federal – Policial Rodoviário Federal – 2021 – Gabarito definitivo – itens 9 a 120",
+      "url": "https://cdn.cebraspe.org.br/concursos/PRF_21/arquivos/GAB_DEFINITIVO_578_PRF_001_01.PDF",
+      "acessadoEm": "2026-11-10",
+      "sha256": "48b945fad23ba4ac4af8ef2eb48f097a8fe1fe078d7abaa7773e519cc7d7cab5"
+    },
+    {
+      "descricao": "Cebraspe – Polícia Rodoviária Federal – Policial Rodoviário Federal – 2021 – Gabarito definitivo – Língua Inglesa",
+      "url": "https://cdn.cebraspe.org.br/concursos/PRF_21/arquivos/GAB_DEFINITIVO_578_PRF_ING_01.PDF",
+      "acessadoEm": "2026-11-10",
+      "sha256": "42941321359886c0dd8d4eb3c0feee6f438882d5301f5198d7976d6b1b8fbd2f"
+    },
+    {
+      "descricao": "Cespe/Cebraspe – Polícia Rodoviária Federal – Policial Rodoviário Federal – 2019 – Gabarito definitivo",
+      "url": "https://cdn.cebraspe.org.br/concursos/PRF_18/arquivos/GAB_DEFINITIVO_MATRIZ_440_PRF_001_00_PAG_9.PDF",
+      "acessadoEm": "2026-11-10",
+      "sha256": "3ff3f423d75d3727fbba4736d0573150dc16cbd84e39d02a744fd0d0a02d026c"
+    },
+    {
+      "descricao": "Cespe/UnB – Departamento de Polícia Rodoviária Federal – Policial Rodoviário Federal – 2013 – Gabarito definitivo",
+      "url": "https://cdn.cebraspe.org.br/concursos/DPRF_13/arquivos/Gab_Definitivo_DPRF13_001_01.PDF",
+      "acessadoEm": "2026-11-10",
+      "sha256": "920ef0df637fd5c16cb3b96d87ae7afc2da95d413fddd2a53ac55d518d250e00"
+    },
+    {
+      "descricao": "Cebraspe – Polícia Federal – Agente de Polícia Federal (cargo equivalente) – 2021 – Gabarito definitivo – cargo 2",
+      "url": "https://cdn.cebraspe.org.br/concursos/PF_21/arquivos/GAB_DEFINITIVO_MATRIZ_577_PF_002_00.PDF",
+      "acessadoEm": "2026-11-10",
+      "sha256": "36c70e3ad6bce79ae872333b0bc4cbb4848cd843b6ed7f56516b8a16902dbe3b"
+    },
+    {
+      "descricao": "Cespe/Cebraspe – Polícia Federal – Agente de Polícia Federal (cargo equivalente) – 2018 – Gabarito definitivo – cargo 12",
+      "url": "https://cdn.cebraspe.org.br/concursos/PF_18/arquivos/GAB_DEFINITIVO_408_DGPPF012__PAG_9.PDF",
+      "acessadoEm": "2026-11-10",
+      "sha256": "0915a7a3a5f1bd67ad4538d6d8a7a25bc30ccddb7fd363acf6c00586227ae016"
+    }
+  ],
+  "discursivas": [
+    {
+      "descricao": "Prova discursiva PRF 2021",
+      "url": "https://cdn.cebraspe.org.br/concursos/PRF_21/arquivos/PRF_21_PROVA_DISCURSIVA.PDF",
+      "acessadoEm": "2026-11-10",
+      "sha256": "2f4e887ea8966959ec3992e41ce4b56994c92ce8defd060c282bcfe145bcef15"
+    },
+    {
+      "descricao": "Padrão de resposta definitivo – discursiva PRF 2021",
+      "url": "https://cdn.cebraspe.org.br/concursos/PRF_21/arquivos/PRF_21_PADRAO_DE_RESPOSTA_DEFINITIVO.PDF",
+      "acessadoEm": "2026-11-10",
+      "sha256": "5d95b8876e8a74bcbee5c896f55e07af6330b6324f7af8e8b9829bf2fb017211"
+    },
+    {
+      "descricao": "Prova discursiva PRF 2019",
+      "url": "https://cdn.cebraspe.org.br/concursos/PRF_18/arquivos/440_PRF_DISC01_01.PDF",
+      "acessadoEm": "2026-11-10",
+      "sha256": "e4edc3191ab0d049d87c9dc714890c63ab49935d74edd170600b5876c73f0cdd"
+    }
+  ],
+  "observacoes": "Todos os editais, cadernos e gabaritos definitivos foram baixados do site oficial do Cebraspe (cdn.cebraspe.org.br). Não há edital novo da PRF publicado até 2026-11-10; a plataforma usa o Edital nº 1/2021 (com a retificação nº 2/2021) e é provisória. Os PDFs ficam em montador/pacotes/prf-policial/fontes/."
+}

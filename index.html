@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="robots" content="noindex, nofollow, noarchive" />
+    <title>%CONCURSO_TITULO%</title>
+    
+    <!-- Preload Brand Logo for Instant Render -->
+    <link rel="preload" as="image" href="/brand/logoRA.webp" />
+
+    <!-- Google Fonts for Handwritten Paper Mind Map Style -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@600;700&family=Kalam:wght@700&family=Patrick+Hand&display=swap" rel="stylesheet">
+    
+    <!-- KaTeX CSS for High-Precision Mathematical & Technical Formulas -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.css" crossorigin="anonymous">
+    
+    <!-- Favicon & Mobile Touch Icons -->
+    <link rel="shortcut icon" href="/brand/logoRA.png" type="image/png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/brand/logoRA.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/brand/logoRA.png" />
+    <link rel="icon" type="image/webp" href="/brand/logoRA.webp" />
+    <link rel="apple-touch-icon" href="/brand/logoRA.png" />
+
+    <!-- Open Graph / WhatsApp / Facebook Sharing Tags -->
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="R. Alves Concursos" />
+    <meta property="og:title" content="%CONCURSO_TITULO%" />
+    <meta property="og:description" content="%CONCURSO_DESCRICAO%" />
+    
+    <!-- WhatsApp & Social Thumbnail (Square 400x400, <300KB) -->
+    <meta property="og:image" content="/og-whatsapp.jpg" />
+    <meta property="og:image:secure_url" content="/og-whatsapp.jpg" />
+    <meta property="og:image:type" content="image/jpeg" />
+    <meta property="og:image:width" content="400" />
+    <meta property="og:image:height" content="400" />
+    <meta property="og:image:alt" content="Logo R. Alves Concursos" />
+
+    <meta property="og:image" content="/og-whatsapp.png" />
+    <meta property="og:image:secure_url" content="/og-whatsapp.png" />
+    <meta property="og:image:type" content="image/png" />
+    <meta property="og:image:width" content="400" />
+    <meta property="og:image:height" content="400" />
+
+    <!-- Link Image Source for WhatsApp & Telegram legacy scrapers -->
+    <link rel="image_src" href="/og-whatsapp.jpg" />
+
+    <!-- Twitter / X Card Meta Tags -->
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="%CONCURSO_TITULO%" />
+    <meta name="twitter:description" content="%CONCURSO_DESCRICAO%" />
+    <meta name="twitter:image" content="/og-whatsapp.jpg" />
+    <meta name="twitter:image:alt" content="Logo R. Alves Concursos" />
+
+    <!-- Schema.org Structured Data (JSON-LD) -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "EducationalApplication",
+      "name": "R. Alves - Preparatório %CONCURSO_SIGLA%",
+      "applicationCategory": "EducationalApplication",
+      "operatingSystem": "All",
+      "description": "%CONCURSO_DESCRICAO%",
+      "image": "/og-whatsapp.jpg",
+      "logo": "/brand/logoRA.png",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "BRL"
+      }
+    }
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
+

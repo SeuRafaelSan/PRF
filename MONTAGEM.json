@@ -1,0 +1,11 @@
+{
+  "concursoId": "prf-policial",
+  "montadoEm": "2026-11-10T12:52:44.789Z",
+  "origemPacote": "modelo-vazio",
+  "statusVerificacao": "rascunho",
+  "validacao": {
+    "erros": 0,
+    "pendencias": 32,
+    "avisos": 2
+  }
+}

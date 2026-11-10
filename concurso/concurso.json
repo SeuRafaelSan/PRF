@@ -1,0 +1,1082 @@
+{
+  "versaoPacote": 1,
+  "id": "prf-policial",
+  "shortTitle": "PRF",
+  "fullName": "POLÍCIA RODOVIÁRIA FEDERAL",
+  "cargo": "Policial Rodoviário Federal",
+  "orgao": "Polícia Rodoviária Federal (PRF) – Ministério da Justiça e Segurança Pública",
+  "editalCode": "Edital Concurso PRF nº 1, de 18/01/2021 (retificado pelo Edital nº 2, de 26/01/2021) – último edital publicado",
+  "editalUrl": "https://cdn.cebraspe.org.br/concursos/PRF_21/arquivos/ED_1_PRF_2021_ABERTURA.PDF",
+  "vagas": "1.500 vagas em 2021 (1.125 ampla, 300 negros, 75 PcD) · subsídio de R$ 9.899,88 no edital de 2021",
+  "banca": "Cebraspe",
+  "ano": "2021 (novo edital aguardado; não publicado até 10/11/2026)",
+  "tag": "PRF • Policial Rodoviário Federal • Edital nº 1/2021",
+  "colorScheme": {
+    "primary": "#0b1f3a",
+    "secondary": "#facc15",
+    "border": "border-yellow-500/40",
+    "bgBadge": "bg-yellow-400/15",
+    "textBadge": "text-yellow-900 font-bold",
+    "iconBg": "bg-blue-950/80"
+  },
+  "edital": {
+    "gerais": [
+      {
+        "title": "Língua Portuguesa",
+        "badge": "Bloco I",
+        "topics": [
+          "1 Compreensão e interpretação de textos de gêneros variados.",
+          "2 Reconhecimento de tipos e gêneros textuais.",
+          "3 Domínio da ortografia oficial.",
+          "4 Domínio dos mecanismos de coesão textual. 4.1 Emprego de elementos de referenciação, substituição e repetição, de conectores e de outros elementos de sequenciação textual. 4.2 Emprego de tempos e modos verbais.",
+          "5 Domínio da estrutura morfossintática do período. 5.1 Emprego das classes de palavras. 5.2 Relações de coordenação entre orações e entre termos da oração. 5.3 Relações de subordinação entre orações e entre termos da oração. 5.4 Emprego dos sinais de pontuação. 5.5 Concordância verbal e nominal. 5.6 Regência verbal e nominal. 5.7 Emprego do sinal indicativo de crase. 5.8 Colocação dos pronomes átonos.",
+          "6 Reescrita de frases e parágrafos do texto. 6.1 Significação das palavras. 6.2 Substituição de palavras ou de trechos de texto. 6.3 Reorganização da estrutura de orações e de períodos do texto. 6.4 Reescrita de textos de diferentes gêneros e níveis de formalidade.",
+          "7 Correspondência oficial (conforme Manual de Redação da Presidência da República). 7.1 Aspectos gerais da redação oficial. 7.2 Finalidade dos expedientes oficiais. 7.3 Adequação da linguagem ao tipo de documento. 7.4 Adequação do formato do texto ao gênero."
+        ]
+      },
+      {
+        "title": "Raciocínio Lógico-Matemático",
+        "badge": "Bloco I",
+        "topics": [
+          "1 Modelagem de situações-problema por meio de equações do 1º e 2º graus e sistemas lineares.",
+          "2 Noção de função. 2.1 Análise gráfica. 2.2 Funções afim, quadrática, exponencial e logarítmica. 2.3 Aplicações.",
+          "3 Taxas de variação de grandezas. 3.1 Razão e proporção com aplicações. 3.2 Regra de três simples e composta.",
+          "4 Porcentagem.",
+          "5 Regularidades e padrões em sequências. 5.1 Sequências numéricas. 5.2 Progressão aritmética e progressão geométrica.",
+          "6 Noções básicas de contagem, probabilidade e estatística.",
+          "7 Descrição e análise de dados. 7.1 Leitura e interpretação de tabelas e gráficos apresentados em diferentes linguagens e representações. 7.2 Cálculo de médias e análise de desvios de conjuntos de dados.",
+          "8 Noções básicas de teoria dos conjuntos.",
+          "9 Análise e interpretação de diferentes representações de figuras planas, como desenhos, mapas e plantas. 9.1 Utilização de escalas. 9.2 Visualização de figuras espaciais em diferentes posições. 9.3 Representações bidimensionais de projeções, planificações e cortes.",
+          "10 Métrica. 10.1 Áreas e volumes. 10.2 Estimativas. 10.3 Aplicações."
+        ]
+      },
+      {
+        "title": "Informática",
+        "badge": "Bloco I",
+        "topics": [
+          "1 Conceito de internet e intranet.",
+          "2 Conceitos e modos de utilização de tecnologias, ferramentas, aplicativos e procedimentos associados a internet/intranet. 2.1 Ferramentas e aplicativos comerciais de navegação, de correio eletrônico, de grupos de discussão, de busca, de pesquisa, de redes sociais e ferramentas colaborativas. 2.2 Noções de sistema operacional (ambiente Windows). 2.3 Acesso a distância a computadores, transferência de informação e arquivos, aplicativos de áudio, vídeo e multimídia.",
+          "3 Transformação digital. 3.1 Internet das coisas (IoT). 3.2 Big data. 3.3 Inteligência artificial.",
+          "4 Conceitos de proteção e segurança. 4.1 Noções de vírus, worms, phishing e pragas virtuais. 4.2 Aplicativos para segurança (antivírus, firewall, anti-spyware, VPN, etc.).",
+          "5 Computação na nuvem (cloud computing)."
+        ]
+      },
+      {
+        "title": "Física",
+        "badge": "Bloco I",
+        "topics": [
+          "1 Cinemática escalar, cinemática vetorial.",
+          "2 Movimento circular.",
+          "3 Leis de Newton e suas aplicações.",
+          "4 Trabalho.",
+          "5 Potência.",
+          "6 Energia cinética, energia potencial, atrito.",
+          "7 Conservação de energia e suas transformações.",
+          "8 Quantidade de movimento e conservação da quantidade de movimento, impulso.",
+          "9 Colisões."
+        ]
+      },
+      {
+        "title": "Ética e Cidadania",
+        "badge": "Bloco I",
+        "topics": [
+          "1 Ética e moral.",
+          "2 Ética, princípios e valores.",
+          "3 Ética e função pública: integridade.",
+          "4 Ética no setor público. 4.1 Princípios da Administração Pública: moralidade (art. 37 da CF). 4.2 Deveres dos servidores públicos: moralidade administrativa (Lei nº 8.112/1990, art. 116, IX). 4.3 Política de governança da administração pública federal (Decreto nº 9.203/2017). 4.4 Promoção da ética e de regras de conduta para servidores. 4.4.1 Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal (Decreto nº 1.171/1994). 4.4.2 Sistema de Gestão da Ética do Poder Executivo Federal e Comissões de Ética (Decreto nº 6.029/2007). 4.4.3 Código de Conduta da Alta Administração Federal (Exposição de Motivos nº 37/2000).",
+          "5 Ética e democracia: exercício da cidadania. 5.1 Promoção da transparência ativa e do acesso à informação (Lei nº 12.527/2011 e Decreto nº 7.724/2012). 5.2 Tratamento de conflitos de interesses e nepotismo (Lei nº 12.813/2013 e Decreto nº 7.203/2010)."
+        ]
+      },
+      {
+        "title": "Geopolítica",
+        "badge": "Bloco I",
+        "topics": [
+          "1 O Brasil político: nação e território.",
+          "2 Organização do Estado Brasileiro.",
+          "3 A divisão inter-regional do trabalho e da produção no Brasil.",
+          "4 A estrutura urbana brasileira e as grandes metrópoles.",
+          "5 Distribuição espacial da população no Brasil e movimentos migratórios internos.",
+          "6 Integração entre indústria e estrutura urbana e setor agrícola no Brasil.",
+          "7 Rede de transporte no Brasil: modais e principais infraestruturas.",
+          "8 A integração do Brasil ao processo de internacionalização da economia.",
+          "9 Geografia e gestão ambiental.",
+          "10 Macrodivisão natural do espaço brasileiro: biomas, domínios e ecossistemas."
+        ]
+      },
+      {
+        "title": "Língua Estrangeira (Inglês ou Espanhol)",
+        "badge": "Bloco I",
+        "topics": [
+          "I Língua Inglesa: 1 Compreensão de texto escrito em língua inglesa. 2 Itens gramaticais relevantes para a compreensão dos conteúdos semânticos.",
+          "II Língua Espanhola: 1 Compreensão de texto escrito em língua espanhola. 2 Itens gramaticais relevantes para a compreensão dos conteúdos semânticos."
+        ]
+      }
+    ],
+    "especificos": [
+      {
+        "title": "Legislação de Trânsito",
+        "badge": "Bloco II",
+        "topics": [
+          "1 Lei nº 9.503/1997 (Código de Trânsito Brasileiro) e suas alterações, inclusive as da Lei nº 14.071/2020.",
+          "2 Lei nº 5.970/1973.",
+          "3 Resoluções do Conselho Nacional de Trânsito (CONTRAN) e suas alterações (redação do Edital nº 2/2021): 04/1998; 14/1998; 24/1998; 36/1998; 92/1999, exceto os anexos; 110/2000; 160/2004; 210/2006; 211/2006; 216/2006; 227/2007, exceto os anexos; 253/2007; 254/2007; 290/2008; 349/2010; 360/2010; 432/2013; 441/2013; 471/2013; 508/2014; 520/2015; 525/2015; 552/2015, exceto os anexos; 561/2015, exceto as fichas; 667/2017, exceto os anexos; 735/2018, exceto os anexos; 740/2018; 780/2019; 789/2020, Anexo I; 798/2020; 803/2020; 806/2020; 809/2020; 810/2020."
+        ]
+      },
+      {
+        "title": "Direito Administrativo",
+        "badge": "Bloco III",
+        "topics": [
+          "1 Noções de organização administrativa. 1.1 Centralização, descentralização, concentração e desconcentração. 1.2 Administração direta e indireta. 1.3 Autarquias, fundações, empresas públicas e sociedades de economia mista.",
+          "2 Ato administrativo. 2.1 Conceito, requisitos, atributos, classificação e espécies.",
+          "3 Agentes públicos. 3.1 Legislação pertinente. 3.1.1 Lei nº 8.112/1990 e suas alterações. 3.1.2 Disposições constitucionais aplicáveis. 3.2 Disposições doutrinárias. 3.2.1 Conceito. 3.2.2 Espécies. 3.2.3 Cargo, emprego e função pública. 3.3 Carreira de policial rodoviário federal. 3.3.1 Lei nº 9.654/1998 e suas alterações (carreira de PRF). 3.3.2 Lei nº 12.855/2013 (indenização fronteiras). 3.3.3 Lei nº 13.712/2018 (indenização PRF). 3.3.4 Decreto nº 8.282/2014 (carreira de PRF).",
+          "4 Poderes administrativos. 4.1 Hierárquico, disciplinar, regulamentar e de polícia. 4.2 Uso e abuso do poder.",
+          "5 Licitação. 5.1 Princípios. 5.2 Contratação direta: dispensa e inexigibilidade. 5.3 Modalidades. 5.4 Tipos. 5.5 Procedimento.",
+          "6 Controle da Administração Pública. 6.1 Controle exercido pela Administração Pública. 6.2 Controle judicial. 6.3 Controle legislativo.",
+          "7 Responsabilidade civil do Estado. 7.1 Responsabilidade civil do Estado no direito brasileiro. 7.1.1 Responsabilidade por ato comissivo do Estado. 7.1.2 Responsabilidade por omissão do Estado. 7.2 Requisitos para a demonstração da responsabilidade do Estado. 7.3 Causas excludentes e atenuantes da responsabilidade do Estado.",
+          "8 Regime jurídico-administrativo. 8.1 Conceito. 8.2 Princípios expressos e implícitos da Administração Pública."
+        ]
+      },
+      {
+        "title": "Direito Constitucional",
+        "badge": "Bloco III",
+        "topics": [
+          "1 Poder constituinte. 1.1 Fundamentos do poder constituinte. 1.2 Poder constituinte originário e derivado. 1.3 Reforma e revisão constitucionais. 1.4 Limitação do poder de revisão. 1.5 Emendas à Constituição.",
+          "2 Fundamentos constitucionais dos direitos e deveres fundamentais. 2.1 Direitos e deveres individuais e coletivos. 2.2 Direito à vida, à liberdade, à igualdade, à segurança e à propriedade. 2.3 Direitos sociais, nacionalidade, cidadania e direitos políticos. 2.4 Garantias constitucionais individuais. 2.5 Garantias dos direitos coletivos, sociais e políticos. 2.6 Remédios constitucionais.",
+          "3 Poder Executivo. 3.1 Forma e sistema de governo. 3.2 Chefia de Estado e chefia de governo. 3.3 Atribuições e responsabilidades do presidente da República. 3.4 Da União: bens e competências (arts. 20 a 24 da CF).",
+          "4 Defesa do Estado e das instituições democráticas. 4.1 Forças Armadas (art. 142, CF). 4.2 Segurança pública (art. 144 da CF). 4.3 Organização da segurança pública. 4.4 Atribuições constitucionais da Polícia Rodoviária Federal.",
+          "5 Ordem social. 5.1 Base e objetivos da ordem social. 5.2 Seguridade social. 5.3 Meio ambiente. 5.4 Família, criança, adolescente, idoso, índio."
+        ]
+      },
+      {
+        "title": "Direito Penal",
+        "badge": "Bloco III",
+        "topics": [
+          "1 Princípios básicos.",
+          "2 Aplicação da lei penal. 2.1 Lei penal no tempo. 2.1.1 Tempo do crime. 2.1.2 Conflito de leis penais no tempo. 2.2 Lei penal no espaço. 2.2.1 Lugar do crime. 2.2.2 Territorialidade. 2.2.3 Extraterritorialidade.",
+          "3 Tipicidade. 3.1 Crime doloso e crime culposo. 3.2 Erro de tipo. 3.3 Crime consumado e tentado. 3.4 Crime impossível. 3.5 Punibilidade e causas de extinção.",
+          "4 Ilicitude. 4.1 Causas de exclusão da ilicitude. 4.2 Excesso punível.",
+          "5 Culpabilidade. 5.1 Causas de exclusão da culpabilidade. 5.2 Imputabilidade. 5.3 Erro de proibição.",
+          "6 Crimes. 6.1 Crimes contra a pessoa. 6.2 Crimes contra o patrimônio. 6.3 Crimes contra a dignidade sexual. 6.4 Crimes contra a incolumidade pública. 6.5 Crimes contra a fé pública. 6.6 Crimes contra a Administração Pública."
+        ]
+      },
+      {
+        "title": "Direito Processual Penal",
+        "badge": "Bloco III",
+        "topics": [
+          "1 Ação penal. 1.1 Conceito. 1.2 Características. 1.3 Espécies. 1.4 Condições.",
+          "2 Termo Circunstanciado de Ocorrência (Lei nº 9.099/1995). 2.1 Atos processuais: forma, lugar e tempo.",
+          "3 Prova. 3.1 Conceito, objeto, classificação. 3.2 Preservação de local de crime. 3.3 Requisitos e ônus da prova. 3.4 Provas ilícitas. 3.5 Meios de prova: pericial, interrogatório, confissão, perguntas ao ofendido, testemunhas, reconhecimento de pessoas e coisas, acareação, documentos, indícios. 3.6 Busca e apreensão: pessoal, domiciliar, requisitos, restrições, horários.",
+          "4 Prisão. 4.1 Conceito, formalidades, espécies e mandado de prisão e cumprimento. 4.2 Prisão em flagrante.",
+          "5 Identificação Criminal (art. 5º, LVIII, da Constituição Federal e art. 3º da Lei nº 12.037/2009).",
+          "6 Diligências Investigatórias (art. 6º e 13 do CPP)."
+        ]
+      },
+      {
+        "title": "Legislação Especial",
+        "badge": "Bloco III",
+        "topics": [
+          "1 Lei nº 5.553/1968 e Lei nº 12.037/2009.",
+          "2 Lei nº 8.069/1990 e suas alterações.",
+          "3 Lei nº 8.072/1990 e suas alterações.",
+          "4 Decreto nº 1.655/1995 e art. 47 do Decreto nº 9.662/2019.",
+          "5 Lei nº 9.099/1995 e suas alterações.",
+          "6 Lei nº 9.455/1997 e suas alterações.",
+          "7 Lei nº 9.605/1998 e suas alterações: Capítulos III e V.",
+          "8 Lei nº 10.826/2003 e suas alterações: Capítulo IV.",
+          "9 Lei nº 11.343/2006 e suas alterações.",
+          "10 Lei nº 12.850/2013 e suas alterações.",
+          "11 Lei nº 13.675/2018.",
+          "12 Lei nº 13.869/2019."
+        ]
+      },
+      {
+        "title": "Direitos Humanos",
+        "badge": "Bloco III",
+        "topics": [
+          "1 Direitos humanos na Constituição Federal. 1.1 A Constituição Federal e os tratados internacionais de direitos humanos.",
+          "2 Declaração Universal dos Direitos Humanos.",
+          "3 Convenção Americana sobre Direitos Humanos (Decreto nº 678/1992)."
+        ]
+      }
+    ]
+  },
+  "preditiveInsights": {
+    "headline": "Raio-X Preditivo — PRF Policial Rodoviário Federal",
+    "description": "Análise de 5 provas Cebraspe no modelo Certo/Errado de 120 itens: PRF 2021, PRF 2019 e PRF 2013 (mesmo cargo) e Agente da Polícia Federal 2021 e 2018 (cargo equivalente). 565 itens válidos mapeados, 425 deles em disciplinas do edital da PRF de 2021; 367 itens completos com gabarito oficial e comentário no banco \"Prova Real\".",
+    "prioritySubjects": [
+      {
+        "subject": "Língua Portuguesa",
+        "weight": "Muito Alto",
+        "color": "#3b82f6",
+        "questionsEst": 17
+      },
+      {
+        "subject": "Legislação de Trânsito",
+        "weight": "Muito Alto",
+        "color": "#ef4444",
+        "questionsEst": 21
+      },
+      {
+        "subject": "Informática",
+        "weight": "Alto",
+        "color": "#0ea5e9",
+        "questionsEst": 4
+      },
+      {
+        "subject": "Raciocínio Lógico-Matemático",
+        "weight": "Alto",
+        "color": "#8b5cf6",
+        "questionsEst": 8
+      },
+      {
+        "subject": "Direito Administrativo",
+        "weight": "Médio",
+        "color": "#10b981",
+        "questionsEst": 7
+      },
+      {
+        "subject": "Direito Constitucional",
+        "weight": "Médio",
+        "color": "#22c55e",
+        "questionsEst": 8
+      },
+      {
+        "subject": "Direito Penal",
+        "weight": "Médio",
+        "color": "#f59e0b",
+        "questionsEst": 7
+      },
+      {
+        "subject": "Direito Processual Penal",
+        "weight": "Médio",
+        "color": "#eab308",
+        "questionsEst": 6
+      },
+      {
+        "subject": "Legislação Especial",
+        "weight": "Médio",
+        "color": "#a855f7",
+        "questionsEst": 6
+      },
+      {
+        "subject": "Direitos Humanos",
+        "weight": "Médio",
+        "color": "#ec4899",
+        "questionsEst": 6
+      },
+      {
+        "subject": "Física",
+        "weight": "Baixo",
+        "color": "#f97316",
+        "questionsEst": 5
+      },
+      {
+        "subject": "Ética e Cidadania",
+        "weight": "Baixo",
+        "color": "#14b8a6",
+        "questionsEst": 5
+      },
+      {
+        "subject": "Geopolítica",
+        "weight": "Baixo",
+        "color": "#84cc16",
+        "questionsEst": 3
+      },
+      {
+        "subject": "Língua Estrangeira (Inglês ou Espanhol)",
+        "weight": "Baixo",
+        "color": "#06b6d4",
+        "questionsEst": 2
+      }
+    ],
+    "topExamTips": [
+      "São 120 itens Certo/Errado: cada erro anula um acerto. Deixar em branco vale zero; errar vale −1 (Edital nº 1/2021, item 9.12.2).",
+      "Mínimos eliminatórios: 15 pontos no Bloco I, 10 no Bloco II, 10 no Bloco III e 50 no conjunto (item 9.12.4).",
+      "Nota de corte de 2021: só tiveram a discursiva corrigida, na ampla concorrência, os candidatos com pelo menos 73,00 pontos líquidos na objetiva (Edital nº 11/2021).",
+      "Legislação de Trânsito tem um bloco inteiro (30 itens): nas 3 provas da PRF foram 62 itens válidos de trânsito.",
+      "A discursiva vale 20 pontos, tem até 30 linhas e cobrou nos dois últimos concursos temas de trânsito (crimes de trânsito, Lei Seca, combate às infrações nas rodovias federais).",
+      "O edital da PRF não fixa o número de itens por disciplina, só por bloco. As médias por disciplina desta página vêm das provas anteriores."
+    ]
+  },
+  "plataforma": {
+    "titulo": "Plataforma R. Alves - PRF Policial Rodoviário Federal",
+    "descricao": "Plataforma preparatória para o concurso da Polícia Rodoviária Federal (Cebraspe) – cargo de Policial Rodoviário Federal. Edital completo, itens Certo/Errado no padrão Cebraspe, provas anteriores com raio-x, simulador de nota e laboratório de discursiva.",
+    "siglaCurta": "PRF",
+    "suporteTexto": "receber orientações de estudo para o concurso de Policial Rodoviário Federal da PRF"
+  },
+  "ia": {
+    "bancaEstilo": "Cebraspe",
+    "formatoQuestoes": "CE",
+    "perfilBanca": [
+      "Itens para julgamento Certo ou Errado, agrupados por um comando (\"julgue os itens a seguir\"); cada item errado anula um certo.",
+      "Muitos itens trazem situação hipotética de abordagem policial em rodovia federal (blitz, fiscalização, flagrante, acidente) seguida de assertiva.",
+      "Erros são criados trocando um detalhe: o instituto jurídico, a medida administrativa (retenção × remoção), o prazo, o percentual ou o órgão competente.",
+      "Uso frequente de termos absolutos (somente, apenas, sempre, necessariamente, independentemente) para tornar o item errado.",
+      "Língua Portuguesa cobra reescrita com manutenção de sentido e correção, referência de pronomes, pontuação e Manual de Redação da Presidência da República.",
+      "Direito cobra letra da lei (CTB, CP, CPP, leis especiais) e jurisprudência do STF e do STJ, inclusive súmulas.",
+      "Raciocínio lógico-matemático e física aparecem em situações do trabalho da PRF (fiscalização de veículos, colisões, projéteis, curvas)."
+    ],
+    "comandosTipicos": [
+      "Considerando essa situação hipotética, julgue os itens a seguir.",
+      "Com base no Código de Trânsito Brasileiro, julgue os itens subsequentes.",
+      "Em cada um dos itens a seguir, é apresentada uma situação hipotética seguida de uma assertiva a ser julgada.",
+      "Com relação às ideias e aos aspectos linguísticos do texto, julgue os itens a seguir.",
+      "Seriam mantidos a correção gramatical e os sentidos do texto caso...",
+      "À luz da Constituição Federal de 1988 e da jurisprudência do STF, julgue os itens que se seguem."
+    ],
+    "exemplosContexto": [
+      "Em uma operação de fiscalização em rodovia federal, o policial rodoviário federal abordou um condutor que apresentava odor de álcool, olhos vermelhos e fala alterada...",
+      "Durante uma blitz de rotina, o policial constatou que o chassi do veículo havia sido remarcado e o condutor ofereceu dinheiro para ser liberado...",
+      "Um caminhão foi parado próximo à fronteira com o Paraguai transportando mercadoria estrangeira sem o pagamento dos impostos...",
+      "Em uma operação da PRF, foram fiscalizados veículos ao longo de várias horas, seguindo um padrão numérico...",
+      "Um veículo de 1.000 kg faz uma curva circular em pista plana; o coeficiente de atrito entre os pneus e a pista é...",
+      "O motorista de um veículo de carga foi fiscalizado quanto ao tempo de direção e ao registrador instantâneo e inalterável de velocidade e tempo..."
+    ],
+    "perfilMaterial": "- Cargo de nível superior; prova Cebraspe de 120 itens Certo/Errado em três blocos (55, 30 e 35 itens) e discursiva de 20 pontos.\n- Bloco II é só Legislação de Trânsito: estude CTB (com a Lei nº 14.071/2020), Lei nº 5.970/1973 e as resoluções do CONTRAN do edital, com valores e prazos exatos.\n- Bloco III: Direito Administrativo, Constitucional, Penal, Processual Penal, Legislação Especial e Direitos Humanos, sempre com exemplos de atuação da PRF.\n- Mostre a letra da lei e a jurisprudência do STF/STJ; destaque exceções, pois o Cebraspe erra itens com termos absolutos.\n- Em cada capítulo, inclua itens Certo/Errado comentados no estilo da banca."
+  },
+  "redacao": {
+    "habilitada": true,
+    "modelo": "concurso-100",
+    "rotulo": "Laboratório de Discursiva – Cebraspe (texto dissertativo de até 30 linhas, 20 pontos)",
+    "temasSugeridos": [
+      {
+        "themeTitle": "A inovação legislativa como instrumento para a redução dos acidentes de transporte terrestre (ATT)",
+        "contextText": "Tema da prova discursiva PRF 2021 (Cebraspe). Textos motivadores (resumo): gráfico do IPEA com a evolução das mortes por acidentes de transporte terrestre de 1996 a 2013, período do novo CTB (1998) e da Lei Seca (2008); a criação, pelo CTB, de um capítulo próprio para os crimes de trânsito; dados da PRF sobre acidentes e óbitos associados ao consumo de álcool em 2019 e 2020.",
+        "instructions": [
+          "Redija um texto dissertativo de até 30 linhas, em norma-padrão da língua portuguesa.",
+          "Aborde: 1) o impacto da previsão dos crimes de trânsito no que se refere aos ATTs e as possíveis causas desse impacto (5,00 pontos);",
+          "2) o impacto da Lei Seca no que se refere aos ATTs e as possíveis causas desse impacto (5,00 pontos);",
+          "3) ações para a redução dos ATTs (9,00 pontos).",
+          "Apresentação e estrutura textual valem até 1,00 ponto; erros de norma-padrão descontam da nota (Edital nº 1/2021, item 10.6)."
+        ]
+      },
+      {
+        "themeTitle": "O combate às infrações de trânsito nas rodovias federais brasileiras",
+        "contextText": "Tema da prova discursiva PRF 2019 (Cespe/Cebraspe). Textos motivadores (resumo): dez anos após a Lei Seca, as autuações por embriaguez ao volante continuaram crescendo acima do aumento da frota; balanço da Operação Integrada Rodovia da PRF em Pernambuco no feriado de Natal (acidentes, feridos, mortos e autuações pela Lei Seca).",
+        "instructions": [
+          "Redija um texto dissertativo de até 30 linhas, em norma-padrão da língua portuguesa.",
+          "Aborde: 1) medidas adotadas pela PRF no combate às infrações (7,00 pontos);",
+          "2) ações da sociedade que auxiliem no combate às infrações (6,00 pontos);",
+          "3) atitudes individuais para a diminuição das infrações (6,00 pontos).",
+          "Apresentação e estrutura textual valem até 1,00 ponto."
+        ]
+      }
+    ]
+  },
+  "inteligencia": {
+    "resumoBase": "5 provas Cebraspe mapeadas: PRF 2021, 2019 e 2013 e Agente PF 2021 e 2018",
+    "descricao": "Raio-X construído a partir dos 565 itens válidos (anulados excluídos) de 5 provas Cebraspe: PRF 2021, PRF 2019 e PRF 2013 (mesmo cargo) e Agente de Polícia Federal 2021 e 2018 (cargo equivalente, usado porque só há três provas da PRF no site do Cebraspe). Cada item foi classificado manualmente pela disciplina e pelo objeto de conhecimento do Edital nº 1/2021. As probabilidades são estimativas a partir da frequência histórica (presença nas 3 provas da PRF, presença nas 5 provas e número de itens), não uma previsão garantida; o edital do próximo concurso pode mudar o conteúdo.",
+    "questoesPorProva": 120,
+    "topTopics": [
+      {
+        "name": "Língua Portuguesa: Compreensão e interpretação de textos",
+        "probability": 95,
+        "category": "Língua Portuguesa",
+        "historicalCount": "29 itens em 5 de 5 provas (3 de 3 da PRF)",
+        "trend": "critica",
+        "examSource": "Mapeado em PF 2018 (Q1, Q2, Q3, Q4, Q5, Q13…); PRF 2021 (Q9, Q11, Q12, Q13, Q14, Q16); PRF 2019 (Q2, Q9, Q14, Q17, Q18, Q20); PRF 2013 (Q6, Q8, Q10, Q15)"
+      },
+      {
+        "name": "Língua Portuguesa: Mecanismos de coesão textual: referenciação, conectores, tempos e modos verbais",
+        "probability": 95,
+        "category": "Língua Portuguesa",
+        "historicalCount": "16 itens em 5 de 5 provas (3 de 3 da PRF)",
+        "trend": "critica",
+        "examSource": "Mapeado em PRF 2019 (Q7, Q10, Q12, Q13, Q19); PF 2018 (Q7, Q18, Q19, Q20); PF 2021 (Q2, Q3, Q4); PRF 2021 (Q15, Q19)"
+      },
+      {
+        "name": "Língua Portuguesa: Estrutura morfossintática do período: classes de palavras, coordenação e subordinação",
+        "probability": 95,
+        "category": "Língua Portuguesa",
+        "historicalCount": "11 itens em 5 de 5 provas (3 de 3 da PRF)",
+        "trend": "critica",
+        "examSource": "Mapeado em PF 2021 (Q6, Q8, Q11, Q18); PRF 2013 (Q5, Q11, Q14); PRF 2019 (Q4, Q16); PRF 2021 (Q21)"
+      },
+      {
+        "name": "Direito Processual Penal: Prisão e prisão em flagrante",
+        "probability": 94,
+        "category": "Direito Processual Penal",
+        "historicalCount": "9 itens em 5 de 5 provas (3 de 3 da PRF)",
+        "trend": "critica",
+        "examSource": "Mapeado em PRF 2019 (Q103, Q104, Q105); PRF 2021 (Q106, Q109); PRF 2013 (Q80, Q81); PF 2021 (Q33)"
+      },
+      {
+        "name": "Direito Constitucional: Direitos e deveres individuais e coletivos",
+        "probability": 91,
+        "category": "Direito Constitucional",
+        "historicalCount": "10 itens em 4 de 5 provas (3 de 3 da PRF)",
+        "trend": "critica",
+        "examSource": "Mapeado em PRF 2013 (Q27, Q31, Q32, Q33); PRF 2021 (Q93, Q94, Q96); PRF 2019 (Q96, Q99); PF 2021 (Q29)"
+      },
+      {
+        "name": "Língua Portuguesa: Reescrita de frases e parágrafos do texto",
+        "probability": 91,
+        "category": "Língua Portuguesa",
+        "historicalCount": "7 itens em 5 de 5 provas (3 de 3 da PRF)",
+        "trend": "critica",
+        "examSource": "Mapeado em PRF 2021 (Q10, Q20); PRF 2013 (Q9, Q13); PRF 2019 (Q11); PF 2021 (Q5)"
+      },
+      {
+        "name": "Informática: Segurança: vírus, worms, phishing e pragas virtuais",
+        "probability": 89,
+        "category": "Informática",
+        "historicalCount": "6 itens em 5 de 5 provas (3 de 3 da PRF)",
+        "trend": "critica",
+        "examSource": "Mapeado em PF 2018 (Q66, Q67); PRF 2021 (Q37); PRF 2019 (Q32); PRF 2013 (Q49)"
+      },
+      {
+        "name": "Raciocínio Lógico-Matemático: Funções afim, quadrática, exponencial e logarítmica: análise e aplicações",
+        "probability": 87,
+        "category": "Raciocínio Lógico-Matemático",
+        "historicalCount": "11 itens em 3 de 5 provas (3 de 3 da PRF)",
+        "trend": "critica",
+        "examSource": "Mapeado em PRF 2013 (Q21, Q22, Q23, Q24, Q25); PRF 2021 (Q27, Q28, Q29, Q30); PRF 2019 (Q27, Q28)"
+      },
+      {
+        "name": "Ética e Cidadania: Código de Ética do Servidor Público Civil Federal (Decreto nº 1.171/1994)",
+        "probability": 87,
+        "category": "Ética e Cidadania",
+        "historicalCount": "10 itens em 3 de 5 provas (3 de 3 da PRF)",
+        "trend": "critica",
+        "examSource": "Mapeado em PRF 2013 (Q41, Q42, Q43, Q44, Q45); PRF 2019 (Q41, Q42, Q43, Q44); PRF 2021 (Q46)"
+      },
+      {
+        "name": "Direito Penal: Crimes contra a Administração Pública",
+        "probability": 87,
+        "category": "Direito Penal",
+        "historicalCount": "7 itens em 4 de 5 provas (3 de 3 da PRF)",
+        "trend": "critica",
+        "examSource": "Mapeado em PRF 2021 (Q102, Q103); PRF 2019 (Q101, Q102); PRF 2013 (Q71, Q72); PF 2021 (Q32)"
+      },
+      {
+        "name": "Língua Portuguesa: Significação das palavras",
+        "probability": 85,
+        "category": "Língua Portuguesa",
+        "historicalCount": "6 itens em 4 de 5 provas (3 de 3 da PRF)",
+        "trend": "critica",
+        "examSource": "Mapeado em PRF 2019 (Q1, Q8); PF 2021 (Q7, Q17); PRF 2021 (Q17); PRF 2013 (Q1)"
+      },
+      {
+        "name": "Direitos Humanos: Direitos humanos na Constituição Federal e tratados internacionais",
+        "probability": 84,
+        "category": "Direitos Humanos",
+        "historicalCount": "8 itens em 3 de 5 provas (3 de 3 da PRF)",
+        "trend": "critica",
+        "examSource": "Mapeado em PRF 2021 (Q116, Q117, Q118, Q120); PRF 2019 (Q119, Q120); PRF 2013 (Q101, Q102)"
+      },
+      {
+        "name": "Direito Constitucional: Direitos sociais, nacionalidade, cidadania e direitos políticos",
+        "probability": 82,
+        "category": "Direito Constitucional",
+        "historicalCount": "4 itens em 4 de 5 provas (3 de 3 da PRF)",
+        "trend": "critica",
+        "examSource": "Mapeado em PRF 2021 (Q95); PRF 2019 (Q98); PRF 2013 (Q30); PF 2021 (Q30)"
+      },
+      {
+        "name": "Raciocínio Lógico-Matemático: Sequências numéricas, progressão aritmética e progressão geométrica",
+        "probability": 81,
+        "category": "Raciocínio Lógico-Matemático",
+        "historicalCount": "6 itens em 3 de 5 provas (3 de 3 da PRF)",
+        "trend": "critica",
+        "examSource": "Mapeado em PRF 2019 (Q21, Q22, Q23); PRF 2021 (Q31, Q32); PRF 2013 (Q19)"
+      },
+      {
+        "name": "Legislação de Trânsito: CTB: infrações, penalidades e medidas administrativas",
+        "probability": 81,
+        "category": "Legislação de Trânsito",
+        "historicalCount": "6 itens em 3 de 5 provas (3 de 3 da PRF)",
+        "trend": "critica",
+        "examSource": "Mapeado em PRF 2019 (Q60, Q63, Q64); PRF 2013 (Q112, Q113); PRF 2021 (Q58)"
+      }
+    ],
+    "actionBlocks": [
+      {
+        "title": "Bloco I – 55 itens (mínimo de 15 pontos)",
+        "percentage": 46,
+        "description": "Conhecimentos básicos: o bloco mais longo e o que mais elimina pelo mínimo de 15 pontos líquidos. Português e informática aparecem em todas as provas.",
+        "color": "#1d4ed8",
+        "bgLight": "bg-blue-50/80",
+        "borderColor": "border-blue-300",
+        "textColor": "text-blue-900",
+        "priorities": [
+          "Língua Portuguesa – 100 itens nas provas mapeadas (média de 17 por prova da PRF)",
+          "Informática – 39 itens nas provas mapeadas (média de 4 por prova da PRF)",
+          "Raciocínio Lógico-Matemático – 35 itens nas provas mapeadas (média de 8 por prova da PRF)",
+          "Física – 14 itens nas provas mapeadas (média de 5 por prova da PRF)",
+          "Ética e Cidadania – 14 itens nas provas mapeadas (média de 5 por prova da PRF)",
+          "Geopolítica – 9 itens nas provas mapeadas (média de 3 por prova da PRF)",
+          "Língua Estrangeira (Inglês ou Espanhol) – 7 itens nas provas mapeadas (média de 2 por prova da PRF)"
+        ]
+      },
+      {
+        "title": "Bloco II – 30 itens (mínimo de 10 pontos)",
+        "percentage": 25,
+        "description": "Legislação de Trânsito: bloco exclusivo da PRF, com 30 itens só de CTB, Lei nº 5.970/1973 e resoluções do CONTRAN. É o diferencial da aprovação.",
+        "color": "#dc2626",
+        "bgLight": "bg-red-50/80",
+        "borderColor": "border-red-300",
+        "textColor": "text-red-900",
+        "priorities": [
+          "Legislação de Trânsito – 62 itens nas provas mapeadas (média de 21 por prova da PRF)"
+        ]
+      },
+      {
+        "title": "Bloco III – 35 itens (mínimo de 10 pontos)",
+        "percentage": 29,
+        "description": "Conhecimentos jurídicos: Direito Administrativo, Constitucional, Penal, Processual Penal, Legislação Especial e Direitos Humanos, sempre contextualizados na atuação da PRF.",
+        "color": "#059669",
+        "bgLight": "bg-emerald-50/80",
+        "borderColor": "border-emerald-300",
+        "textColor": "text-emerald-900",
+        "priorities": [
+          "Direito Administrativo – 29 itens nas provas mapeadas (média de 7 por prova da PRF)",
+          "Direito Constitucional – 28 itens nas provas mapeadas (média de 8 por prova da PRF)",
+          "Direito Penal – 25 itens nas provas mapeadas (média de 7 por prova da PRF)",
+          "Direito Processual Penal – 23 itens nas provas mapeadas (média de 6 por prova da PRF)",
+          "Legislação Especial – 23 itens nas provas mapeadas (média de 6 por prova da PRF)",
+          "Direitos Humanos – 17 itens nas provas mapeadas (média de 6 por prova da PRF)"
+        ]
+      }
+    ],
+    "traps": [
+      {
+        "title": "Armadilha 1: palavras absolutas (somente, apenas, sempre, nunca, necessariamente)",
+        "type": "Estilo Cebraspe",
+        "risk": "48 itens válidos usam termos restritivos ou absolutos; 31 deles (65%) têm gabarito ERRADO. Exemplos: PRF 2021 (Q33, Q68); PRF 2019 (Q41, Q46, Q53, Q55).",
+        "action": "Ao ver um termo absoluto, procure a exceção na lei. Se lembrar de uma única exceção, marque E."
+      },
+      {
+        "title": "Armadilha 2: \"independentemente de...\"",
+        "type": "Estilo Cebraspe",
+        "risk": "16 itens afirmam que algo vale \"independentemente\" de uma condição; 9 (56%) estão errados. Exemplos: PRF 2021 (Q61, Q115); PRF 2019 (Q59, Q77, Q82, Q96).",
+        "action": "Pergunte: a lei exige essa condição? Crimes de perigo concreto (CTB, art. 309), dolo, permissão da autoridade e sinalização costumam ser exigidos."
+      },
+      {
+        "title": "Armadilha 3: situação hipotética com troca de instituto",
+        "type": "Estilo Cebraspe",
+        "risk": "49 itens trazem caso concreto; 29 (59%) têm gabarito ERRADO. Nos comentários, o erro mais comum é a troca de instituto ou de consequência jurídica (ex.: retenção × remoção do veículo, dispensa × inexigibilidade, exercício regular de direito × estrito cumprimento do dever legal, descaminho × facilitação). Exemplos: PRF 2021 (Q58, Q88, Q103); PRF 2019 (Q36, Q42, Q54).",
+        "action": "Identifique o instituto correto antes de ler a assertiva e compare palavra por palavra a consequência jurídica afirmada."
+      },
+      {
+        "title": "Armadilha 4: resoluções do CONTRAN e números exatos",
+        "type": "Legislação de Trânsito",
+        "risk": "O Bloco II concentra itens com prazos, medidas e percentuais exatos das resoluções; foram anulados 4 em PRF 2021 e 6 em PRF 2019. Muitas resoluções do edital de 2021 foram revogadas e consolidadas pelo CONTRAN depois da prova.",
+        "action": "Estude pelo texto vigente das resoluções e confira, no próximo edital, a lista atualizada. Decore valores: velocidades (CTB, art. 61), tempo de direção e pesos e dimensões."
+      },
+      {
+        "title": "Armadilha 5: chute em Certo/Errado custa ponto",
+        "type": "Regra do edital",
+        "risk": "Cada item errado anula um certo (Edital nº 1/2021, item 9.12.2). Nas 5 provas, 47% dos itens válidos foram CERTOS e 53% ERRADOS: não há padrão que compense chutar.",
+        "action": "Deixe em branco o item em que não tem base. Lembre os mínimos: 15 pontos no Bloco I, 10 no II, 10 no III e 50 no total."
+      }
+    ],
+    "disciplinesPred": [
+      {
+        "discipline": "Língua Portuguesa",
+        "analysis": "100 itens válidos em 5 das 5 provas mapeadas; média de 17 itens por prova da PRF (2013, 2019 e 2021).",
+        "weightText": "Bloco I (55 itens no total do bloco; o edital não fixa o número por disciplina)",
+        "microTemas": [
+          {
+            "topic": "Compreensão e interpretação de textos",
+            "freq": "29.0%",
+            "prob": "95%",
+            "strategy": "29 item(ns) em 5 prova(s): PF 2018 (Q1, Q2, Q3, Q4, Q5, Q13…); PRF 2021 (Q9, Q11, Q12, Q13, Q14, Q16); PRF 2019 (Q2, Q9, Q14, Q17, Q18, Q20); PRF 2013 (Q6, Q8, Q10, Q15). Resolva esses itens no banco \"Prova Real\" e revise a letra da lei e a jurisprudência citada nos comentários.",
+            "focusNorm": "Edital nº 1/2021"
+          },
+          {
+            "topic": "Mecanismos de coesão textual: referenciação, conectores, tempos e modos verbais",
+            "freq": "16.0%",
+            "prob": "95%",
+            "strategy": "16 item(ns) em 5 prova(s): PRF 2019 (Q7, Q10, Q12, Q13, Q19); PF 2018 (Q7, Q18, Q19, Q20); PF 2021 (Q2, Q3, Q4); PRF 2021 (Q15, Q19). Resolva esses itens no banco \"Prova Real\" e revise a letra da lei e a jurisprudência citada nos comentários.",
+            "focusNorm": "Edital nº 1/2021"
+          },
+          {
+            "topic": "Correspondência oficial (Manual de Redação da Presidência da República)",
+            "freq": "14.0%",
+            "prob": "47%",
+            "strategy": "14 item(ns) em 3 prova(s): PF 2021 (Q19, Q20, Q21, Q22, Q23, Q24); PRF 2021 (Q22, Q23, Q24, Q25, Q26); PF 2018 (Q9, Q10, Q11). Resolva esses itens no banco \"Prova Real\" e revise a letra da lei e a jurisprudência citada nos comentários.",
+            "focusNorm": "Edital nº 1/2021"
+          },
+          {
+            "topic": "Estrutura morfossintática do período: classes de palavras, coordenação e subordinação",
+            "freq": "11.0%",
+            "prob": "95%",
+            "strategy": "11 item(ns) em 5 prova(s): PF 2021 (Q6, Q8, Q11, Q18); PRF 2013 (Q5, Q11, Q14); PRF 2019 (Q4, Q16); PRF 2021 (Q21). Resolva esses itens no banco \"Prova Real\" e revise a letra da lei e a jurisprudência citada nos comentários.",
+            "focusNorm": "Edital nº 1/2021"
+          }
+        ]
+      },
+      {
+        "discipline": "Legislação de Trânsito",
+        "analysis": "62 itens válidos em 3 das 5 provas mapeadas; média de 21 itens por prova da PRF (2013, 2019 e 2021).",
+        "weightText": "Bloco II (30 itens no total do bloco; o edital não fixa o número por disciplina)",
+        "microTemas": [
+          {
+            "topic": "Resoluções do CONTRAN: pesos, dimensões e transporte de cargas",
+            "freq": "14.5%",
+            "prob": "62%",
+            "strategy": "9 item(ns) em 2 prova(s): PRF 2021 (Q74, Q75, Q81, Q82, Q84, Q85); PRF 2019 (Q81, Q82, Q84). Resolva esses itens no banco \"Prova Real\" e revise a letra da lei e a jurisprudência citada nos comentários.",
+            "focusNorm": "CTB e resoluções do CONTRAN"
+          },
+          {
+            "topic": "CTB: crimes de trânsito",
+            "freq": "14.5%",
+            "prob": "38%",
+            "strategy": "9 item(ns) em 1 prova(s): PRF 2019 (Q51, Q52, Q53, Q54, Q55, Q56…). Resolva esses itens no banco \"Prova Real\" e revise a letra da lei e a jurisprudência citada nos comentários.",
+            "focusNorm": "CTB e resoluções do CONTRAN"
+          },
+          {
+            "topic": "Resoluções do CONTRAN: tempo de direção e registrador de velocidade e tempo",
+            "freq": "12.9%",
+            "prob": "60%",
+            "strategy": "8 item(ns) em 2 prova(s): PRF 2021 (Q71, Q72, Q73, Q77, Q78, Q79); PRF 2019 (Q79, Q80). Resolva esses itens no banco \"Prova Real\" e revise a letra da lei e a jurisprudência citada nos comentários.",
+            "focusNorm": "CTB e resoluções do CONTRAN"
+          },
+          {
+            "topic": "Resoluções do CONTRAN: motocicletas, capacete e transporte de bicicletas e passageiros",
+            "freq": "11.3%",
+            "prob": "59%",
+            "strategy": "7 item(ns) em 2 prova(s): PRF 2019 (Q76, Q77, Q78, Q85, Q86, Q87); PRF 2021 (Q68). Resolva esses itens no banco \"Prova Real\" e revise a letra da lei e a jurisprudência citada nos comentários.",
+            "focusNorm": "CTB e resoluções do CONTRAN"
+          }
+        ]
+      },
+      {
+        "discipline": "Informática",
+        "analysis": "39 itens válidos em 5 das 5 provas mapeadas; média de 4 itens por prova da PRF (2013, 2019 e 2021).",
+        "weightText": "Bloco I (55 itens no total do bloco; o edital não fixa o número por disciplina)",
+        "microTemas": [
+          {
+            "topic": "Internet, intranet e navegadores",
+            "freq": "20.5%",
+            "prob": "68%",
+            "strategy": "8 item(ns) em 4 prova(s): PF 2021 (Q62, Q63, Q68); PF 2018 (Q61, Q62, Q64); PRF 2021 (Q33); PRF 2019 (Q29). Resolva esses itens no banco \"Prova Real\" e revise a letra da lei e a jurisprudência citada nos comentários.",
+            "focusNorm": "Edital nº 1/2021"
+          },
+          {
+            "topic": "Computação na nuvem (cloud computing)",
+            "freq": "17.9%",
+            "prob": "67%",
+            "strategy": "7 item(ns) em 4 prova(s): PF 2018 (Q70, Q71, Q72); PF 2021 (Q71, Q72); PRF 2021 (Q38); PRF 2019 (Q34). Resolva esses itens no banco \"Prova Real\" e revise a letra da lei e a jurisprudência citada nos comentários.",
+            "focusNorm": "Edital nº 1/2021"
+          },
+          {
+            "topic": "Transformação digital: Internet das coisas, big data e inteligência artificial",
+            "freq": "15.4%",
+            "prob": "41%",
+            "strategy": "6 item(ns) em 3 prova(s): PF 2018 (Q84, Q85, Q86); PF 2021 (Q86, Q88); PRF 2021 (Q36). Resolva esses itens no banco \"Prova Real\" e revise a letra da lei e a jurisprudência citada nos comentários.",
+            "focusNorm": "Edital nº 1/2021"
+          },
+          {
+            "topic": "Segurança: vírus, worms, phishing e pragas virtuais",
+            "freq": "15.4%",
+            "prob": "89%",
+            "strategy": "6 item(ns) em 5 prova(s): PF 2018 (Q66, Q67); PRF 2021 (Q37); PRF 2019 (Q32); PRF 2013 (Q49). Resolva esses itens no banco \"Prova Real\" e revise a letra da lei e a jurisprudência citada nos comentários.",
+            "focusNorm": "Edital nº 1/2021"
+          }
+        ]
+      },
+      {
+        "discipline": "Raciocínio Lógico-Matemático",
+        "analysis": "35 itens válidos em 5 das 5 provas mapeadas; média de 8 itens por prova da PRF (2013, 2019 e 2021).",
+        "weightText": "Bloco I (55 itens no total do bloco; o edital não fixa o número por disciplina)",
+        "microTemas": [
+          {
+            "topic": "Funções afim, quadrática, exponencial e logarítmica: análise e aplicações",
+            "freq": "31.4%",
+            "prob": "87%",
+            "strategy": "11 item(ns) em 3 prova(s): PRF 2013 (Q21, Q22, Q23, Q24, Q25); PRF 2021 (Q27, Q28, Q29, Q30); PRF 2019 (Q27, Q28). Resolva esses itens no banco \"Prova Real\" e revise a letra da lei e a jurisprudência citada nos comentários.",
+            "focusNorm": "Edital nº 1/2021"
+          },
+          {
+            "topic": "Noções básicas de contagem e probabilidade",
+            "freq": "20.0%",
+            "prob": "19%",
+            "strategy": "7 item(ns) em 2 prova(s): PF 2021 (Q49, Q50, Q51, Q60); PF 2018 (Q41, Q58, Q59). Resolva esses itens no banco \"Prova Real\" e revise a letra da lei e a jurisprudência citada nos comentários.",
+            "focusNorm": "Edital nº 1/2021"
+          },
+          {
+            "topic": "Sequências numéricas, progressão aritmética e progressão geométrica",
+            "freq": "17.1%",
+            "prob": "81%",
+            "strategy": "6 item(ns) em 3 prova(s): PRF 2019 (Q21, Q22, Q23); PRF 2021 (Q31, Q32); PRF 2013 (Q19). Resolva esses itens no banco \"Prova Real\" e revise a letra da lei e a jurisprudência citada nos comentários.",
+            "focusNorm": "Edital nº 1/2021"
+          },
+          {
+            "topic": "Noções básicas de teoria dos conjuntos",
+            "freq": "11.4%",
+            "prob": "14%",
+            "strategy": "4 item(ns) em 2 prova(s): PF 2021 (Q58, Q59); PF 2018 (Q57, Q60). Resolva esses itens no banco \"Prova Real\" e revise a letra da lei e a jurisprudência citada nos comentários.",
+            "focusNorm": "Edital nº 1/2021"
+          }
+        ]
+      },
+      {
+        "discipline": "Direito Administrativo",
+        "analysis": "29 itens válidos em 5 das 5 provas mapeadas; média de 7 itens por prova da PRF (2013, 2019 e 2021).",
+        "weightText": "Bloco III (35 itens no total do bloco; o edital não fixa o número por disciplina)",
+        "microTemas": [
+          {
+            "topic": "Agentes públicos e Lei nº 8.112/1990",
+            "freq": "20.7%",
+            "prob": "37%",
+            "strategy": "6 item(ns) em 2 prova(s): PRF 2013 (Q53, Q57, Q58, Q59, Q60); PF 2021 (Q25). Resolva esses itens no banco \"Prova Real\" e revise a letra da lei e a jurisprudência citada nos comentários.",
+            "focusNorm": "Lei seca e jurisprudência do STF/STJ"
+          },
+          {
+            "topic": "Controle da Administração Pública",
+            "freq": "17.2%",
+            "prob": "64%",
+            "strategy": "5 item(ns) em 4 prova(s): PF 2018 (Q27, Q28); PRF 2021 (Q86); PRF 2013 (Q56); PF 2021 (Q27). Resolva esses itens no banco \"Prova Real\" e revise a letra da lei e a jurisprudência citada nos comentários.",
+            "focusNorm": "Lei seca e jurisprudência do STF/STJ"
+          },
+          {
+            "topic": "Organização administrativa: centralização, descentralização e administração indireta",
+            "freq": "13.8%",
+            "prob": "58%",
+            "strategy": "4 item(ns) em 3 prova(s): PF 2018 (Q25, Q26); PRF 2021 (Q87); PRF 2013 (Q55). Resolva esses itens no banco \"Prova Real\" e revise a letra da lei e a jurisprudência citada nos comentários.",
+            "focusNorm": "Lei seca e jurisprudência do STF/STJ"
+          },
+          {
+            "topic": "Ato administrativo: conceito, requisitos, atributos, classificação e espécies",
+            "freq": "13.8%",
+            "prob": "54%",
+            "strategy": "4 item(ns) em 2 prova(s): PRF 2013 (Q52, Q54, Q62); PRF 2019 (Q92). Resolva esses itens no banco \"Prova Real\" e revise a letra da lei e a jurisprudência citada nos comentários.",
+            "focusNorm": "Lei seca e jurisprudência do STF/STJ"
+          }
+        ]
+      },
+      {
+        "discipline": "Direito Constitucional",
+        "analysis": "28 itens válidos em 5 das 5 provas mapeadas; média de 8 itens por prova da PRF (2013, 2019 e 2021).",
+        "weightText": "Bloco III (35 itens no total do bloco; o edital não fixa o número por disciplina)",
+        "microTemas": [
+          {
+            "topic": "Direitos e deveres individuais e coletivos",
+            "freq": "35.7%",
+            "prob": "91%",
+            "strategy": "10 item(ns) em 4 prova(s): PRF 2013 (Q27, Q31, Q32, Q33); PRF 2021 (Q93, Q94, Q96); PRF 2019 (Q96, Q99); PF 2021 (Q29). Resolva esses itens no banco \"Prova Real\" e revise a letra da lei e a jurisprudência citada nos comentários.",
+            "focusNorm": "Lei seca e jurisprudência do STF/STJ"
+          },
+          {
+            "topic": "Direitos sociais, nacionalidade, cidadania e direitos políticos",
+            "freq": "14.3%",
+            "prob": "82%",
+            "strategy": "4 item(ns) em 4 prova(s): PRF 2021 (Q95); PRF 2019 (Q98); PRF 2013 (Q30); PF 2021 (Q30). Resolva esses itens no banco \"Prova Real\" e revise a letra da lei e a jurisprudência citada nos comentários.",
+            "focusNorm": "Lei seca e jurisprudência do STF/STJ"
+          },
+          {
+            "topic": "Segurança pública e atribuições constitucionais da PRF (art. 144 da CF)",
+            "freq": "14.3%",
+            "prob": "34%",
+            "strategy": "4 item(ns) em 2 prova(s): PRF 2019 (Q97, Q100); PF 2018 (Q31, Q32). Resolva esses itens no banco \"Prova Real\" e revise a letra da lei e a jurisprudência citada nos comentários.",
+            "focusNorm": "Lei seca e jurisprudência do STF/STJ"
+          },
+          {
+            "topic": "Garantias e remédios constitucionais",
+            "freq": "10.7%",
+            "prob": "53%",
+            "strategy": "3 item(ns) em 2 prova(s): PRF 2013 (Q34, Q79); PRF 2021 (Q97). Resolva esses itens no banco \"Prova Real\" e revise a letra da lei e a jurisprudência citada nos comentários.",
+            "focusNorm": "Lei seca e jurisprudência do STF/STJ"
+          }
+        ]
+      },
+      {
+        "discipline": "Direito Penal",
+        "analysis": "25 itens válidos em 5 das 5 provas mapeadas; média de 7 itens por prova da PRF (2013, 2019 e 2021).",
+        "weightText": "Bloco III (35 itens no total do bloco; o edital não fixa o número por disciplina)",
+        "microTemas": [
+          {
+            "topic": "Crimes contra a Administração Pública",
+            "freq": "28.0%",
+            "prob": "87%",
+            "strategy": "7 item(ns) em 4 prova(s): PRF 2021 (Q102, Q103); PRF 2019 (Q101, Q102); PRF 2013 (Q71, Q72); PF 2021 (Q32). Resolva esses itens no banco \"Prova Real\" e revise a letra da lei e a jurisprudência citada nos comentários.",
+            "focusNorm": "Lei seca e jurisprudência do STF/STJ"
+          },
+          {
+            "topic": "Princípios básicos do Direito Penal",
+            "freq": "16.0%",
+            "prob": "54%",
+            "strategy": "4 item(ns) em 2 prova(s): PRF 2019 (Q106, Q107); PRF 2013 (Q63, Q65). Resolva esses itens no banco \"Prova Real\" e revise a letra da lei e a jurisprudência citada nos comentários.",
+            "focusNorm": "Lei seca e jurisprudência do STF/STJ"
+          },
+          {
+            "topic": "Crimes contra o patrimônio",
+            "freq": "12.0%",
+            "prob": "33%",
+            "strategy": "3 item(ns) em 2 prova(s): PRF 2013 (Q70, Q73); PF 2018 (Q33). Resolva esses itens no banco \"Prova Real\" e revise a letra da lei e a jurisprudência citada nos comentários.",
+            "focusNorm": "Lei seca e jurisprudência do STF/STJ"
+          },
+          {
+            "topic": "Crimes contra a fé pública",
+            "freq": "8.0%",
+            "prob": "27%",
+            "strategy": "2 item(ns) em 1 prova(s): PRF 2021 (Q100, Q101). Resolva esses itens no banco \"Prova Real\" e revise a letra da lei e a jurisprudência citada nos comentários.",
+            "focusNorm": "Lei seca e jurisprudência do STF/STJ"
+          }
+        ]
+      },
+      {
+        "discipline": "Direito Processual Penal",
+        "analysis": "23 itens válidos em 5 das 5 provas mapeadas; média de 6 itens por prova da PRF (2013, 2019 e 2021).",
+        "weightText": "Bloco III (35 itens no total do bloco; o edital não fixa o número por disciplina)",
+        "microTemas": [
+          {
+            "topic": "Prisão e prisão em flagrante",
+            "freq": "39.1%",
+            "prob": "94%",
+            "strategy": "9 item(ns) em 5 prova(s): PRF 2019 (Q103, Q104, Q105); PRF 2021 (Q106, Q109); PRF 2013 (Q80, Q81); PF 2021 (Q33). Resolva esses itens no banco \"Prova Real\" e revise a letra da lei e a jurisprudência citada nos comentários.",
+            "focusNorm": "Lei seca e jurisprudência do STF/STJ"
+          },
+          {
+            "topic": "Prova: conceito, ônus, provas ilícitas e meios de prova",
+            "freq": "17.4%",
+            "prob": "62%",
+            "strategy": "4 item(ns) em 4 prova(s): PRF 2021 (Q108); PRF 2013 (Q82); PF 2021 (Q31); PF 2018 (Q36). Resolva esses itens no banco \"Prova Real\" e revise a letra da lei e a jurisprudência citada nos comentários.",
+            "focusNorm": "Lei seca e jurisprudência do STF/STJ"
+          },
+          {
+            "topic": "Busca e apreensão: pessoal e domiciliar",
+            "freq": "8.7%",
+            "prob": "51%",
+            "strategy": "2 item(ns) em 2 prova(s): PRF 2021 (Q105); PRF 2019 (Q110). Resolva esses itens no banco \"Prova Real\" e revise a letra da lei e a jurisprudência citada nos comentários.",
+            "focusNorm": "Lei seca e jurisprudência do STF/STJ"
+          },
+          {
+            "topic": "Ação penal",
+            "freq": "8.7%",
+            "prob": "27%",
+            "strategy": "2 item(ns) em 1 prova(s): PRF 2013 (Q76, Q78). Resolva esses itens no banco \"Prova Real\" e revise a letra da lei e a jurisprudência citada nos comentários.",
+            "focusNorm": "Lei seca e jurisprudência do STF/STJ"
+          }
+        ]
+      },
+      {
+        "discipline": "Legislação Especial",
+        "analysis": "23 itens válidos em 5 das 5 provas mapeadas; média de 6 itens por prova da PRF (2013, 2019 e 2021).",
+        "weightText": "Bloco III (35 itens no total do bloco; o edital não fixa o número por disciplina)",
+        "microTemas": [
+          {
+            "topic": "Lei nº 11.343/2006 (Lei de Drogas)",
+            "freq": "17.4%",
+            "prob": "62%",
+            "strategy": "4 item(ns) em 4 prova(s): PRF 2021 (Q113); PRF 2013 (Q87); PF 2021 (Q34); PF 2018 (Q38). Resolva esses itens no banco \"Prova Real\" e revise a letra da lei e a jurisprudência citada nos comentários.",
+            "focusNorm": "Lei seca e jurisprudência do STF/STJ"
+          },
+          {
+            "topic": "Lei nº 9.605/1998 (crimes ambientais)",
+            "freq": "17.4%",
+            "prob": "62%",
+            "strategy": "4 item(ns) em 4 prova(s): PRF 2019 (Q115); PRF 2013 (Q93); PF 2021 (Q36); PF 2018 (Q40). Resolva esses itens no banco \"Prova Real\" e revise a letra da lei e a jurisprudência citada nos comentários.",
+            "focusNorm": "Lei seca e jurisprudência do STF/STJ"
+          },
+          {
+            "topic": "Decreto nº 1.655/1995 e competências da PRF",
+            "freq": "13.0%",
+            "prob": "29%",
+            "strategy": "3 item(ns) em 1 prova(s): PRF 2013 (Q109, Q110, Q111). Resolva esses itens no banco \"Prova Real\" e revise a letra da lei e a jurisprudência citada nos comentários.",
+            "focusNorm": "Lei seca e jurisprudência do STF/STJ"
+          },
+          {
+            "topic": "Lei nº 8.072/1990 (crimes hediondos)",
+            "freq": "8.7%",
+            "prob": "51%",
+            "strategy": "2 item(ns) em 2 prova(s): PRF 2021 (Q110); PRF 2013 (Q74). Resolva esses itens no banco \"Prova Real\" e revise a letra da lei e a jurisprudência citada nos comentários.",
+            "focusNorm": "Lei seca e jurisprudência do STF/STJ"
+          }
+        ]
+      },
+      {
+        "discipline": "Direitos Humanos",
+        "analysis": "17 itens válidos em 3 das 5 provas mapeadas; média de 6 itens por prova da PRF (2013, 2019 e 2021).",
+        "weightText": "Bloco III (35 itens no total do bloco; o edital não fixa o número por disciplina)",
+        "microTemas": [
+          {
+            "topic": "Direitos humanos na Constituição Federal e tratados internacionais",
+            "freq": "47.1%",
+            "prob": "84%",
+            "strategy": "8 item(ns) em 3 prova(s): PRF 2021 (Q116, Q117, Q118, Q120); PRF 2019 (Q119, Q120); PRF 2013 (Q101, Q102). Resolva esses itens no banco \"Prova Real\" e revise a letra da lei e a jurisprudência citada nos comentários.",
+            "focusNorm": "Lei seca e jurisprudência do STF/STJ"
+          },
+          {
+            "topic": "Teoria geral e afirmação histórica dos direitos humanos",
+            "freq": "35.3%",
+            "prob": "57%",
+            "strategy": "6 item(ns) em 2 prova(s): PRF 2013 (Q103, Q104, Q105, Q107); PRF 2019 (Q116, Q118). Resolva esses itens no banco \"Prova Real\" e revise a letra da lei e a jurisprudência citada nos comentários.",
+            "focusNorm": "Lei seca e jurisprudência do STF/STJ"
+          },
+          {
+            "topic": "Declaração Universal dos Direitos Humanos",
+            "freq": "11.8%",
+            "prob": "51%",
+            "strategy": "2 item(ns) em 2 prova(s): PRF 2021 (Q119); PRF 2013 (Q108). Resolva esses itens no banco \"Prova Real\" e revise a letra da lei e a jurisprudência citada nos comentários.",
+            "focusNorm": "Lei seca e jurisprudência do STF/STJ"
+          },
+          {
+            "topic": "Convenção Americana sobre Direitos Humanos (Decreto nº 678/1992)",
+            "freq": "5.9%",
+            "prob": "26%",
+            "strategy": "1 item(ns) em 1 prova(s): PRF 2019 (Q117). Resolva esses itens no banco \"Prova Real\" e revise a letra da lei e a jurisprudência citada nos comentários.",
+            "focusNorm": "Lei seca e jurisprudência do STF/STJ"
+          }
+        ]
+      },
+      {
+        "discipline": "Física",
+        "analysis": "14 itens válidos em 3 das 5 provas mapeadas; média de 5 itens por prova da PRF (2013, 2019 e 2021).",
+        "weightText": "Bloco I (55 itens no total do bloco; o edital não fixa o número por disciplina)",
+        "microTemas": [
+          {
+            "topic": "Cinemática escalar e vetorial",
+            "freq": "28.6%",
+            "prob": "54%",
+            "strategy": "4 item(ns) em 2 prova(s): PRF 2021 (Q40, Q42); PRF 2019 (Q35, Q36). Resolva esses itens no banco \"Prova Real\" e revise a letra da lei e a jurisprudência citada nos comentários.",
+            "focusNorm": "Edital nº 1/2021"
+          },
+          {
+            "topic": "Quantidade de movimento, impulso e colisões",
+            "freq": "28.6%",
+            "prob": "78%",
+            "strategy": "4 item(ns) em 3 prova(s): PRF 2021 (Q43, Q44); PRF 2019 (Q40); PRF 2013 (Q117). Resolva esses itens no banco \"Prova Real\" e revise a letra da lei e a jurisprudência citada nos comentários.",
+            "focusNorm": "Edital nº 1/2021"
+          },
+          {
+            "topic": "Trabalho, potência, energia e conservação de energia",
+            "freq": "21.4%",
+            "prob": "53%",
+            "strategy": "3 item(ns) em 2 prova(s): PRF 2013 (Q115, Q116); PRF 2019 (Q37). Resolva esses itens no banco \"Prova Real\" e revise a letra da lei e a jurisprudência citada nos comentários.",
+            "focusNorm": "Edital nº 1/2021"
+          },
+          {
+            "topic": "Movimento circular",
+            "freq": "14.3%",
+            "prob": "27%",
+            "strategy": "2 item(ns) em 1 prova(s): PRF 2019 (Q38, Q39). Resolva esses itens no banco \"Prova Real\" e revise a letra da lei e a jurisprudência citada nos comentários.",
+            "focusNorm": "Edital nº 1/2021"
+          }
+        ]
+      },
+      {
+        "discipline": "Ética e Cidadania",
+        "analysis": "14 itens válidos em 3 das 5 provas mapeadas; média de 5 itens por prova da PRF (2013, 2019 e 2021).",
+        "weightText": "Bloco I (55 itens no total do bloco; o edital não fixa o número por disciplina)",
+        "microTemas": [
+          {
+            "topic": "Código de Ética do Servidor Público Civil Federal (Decreto nº 1.171/1994)",
+            "freq": "71.4%",
+            "prob": "87%",
+            "strategy": "10 item(ns) em 3 prova(s): PRF 2013 (Q41, Q42, Q43, Q44, Q45); PRF 2019 (Q41, Q42, Q43, Q44); PRF 2021 (Q46). Resolva esses itens no banco \"Prova Real\" e revise a letra da lei e a jurisprudência citada nos comentários.",
+            "focusNorm": "Edital nº 1/2021"
+          },
+          {
+            "topic": "Política de governança da administração pública federal (Decreto nº 9.203/2017)",
+            "freq": "7.1%",
+            "prob": "26%",
+            "strategy": "1 item(ns) em 1 prova(s): PRF 2021 (Q47). Resolva esses itens no banco \"Prova Real\" e revise a letra da lei e a jurisprudência citada nos comentários.",
+            "focusNorm": "Edital nº 1/2021"
+          },
+          {
+            "topic": "Sistema de Gestão da Ética e Comissões de Ética (Decreto nº 6.029/2007)",
+            "freq": "7.1%",
+            "prob": "26%",
+            "strategy": "1 item(ns) em 1 prova(s): PRF 2021 (Q48). Resolva esses itens no banco \"Prova Real\" e revise a letra da lei e a jurisprudência citada nos comentários.",
+            "focusNorm": "Edital nº 1/2021"
+          },
+          {
+            "topic": "Transparência e acesso à informação (Lei nº 12.527/2011 e Decreto nº 7.724/2012)",
+            "freq": "7.1%",
+            "prob": "26%",
+            "strategy": "1 item(ns) em 1 prova(s): PRF 2021 (Q49). Resolva esses itens no banco \"Prova Real\" e revise a letra da lei e a jurisprudência citada nos comentários.",
+            "focusNorm": "Edital nº 1/2021"
+          }
+        ]
+      },
+      {
+        "discipline": "Geopolítica",
+        "analysis": "9 itens válidos em 2 das 5 provas mapeadas; média de 3 itens por prova da PRF (2013, 2019 e 2021).",
+        "weightText": "Bloco I (55 itens no total do bloco; o edital não fixa o número por disciplina)",
+        "microTemas": [
+          {
+            "topic": "Rede de transporte no Brasil: modais e principais infraestruturas",
+            "freq": "55.6%",
+            "prob": "56%",
+            "strategy": "5 item(ns) em 2 prova(s): PRF 2021 (Q51, Q52, Q53); PRF 2019 (Q45, Q46). Resolva esses itens no banco \"Prova Real\" e revise a letra da lei e a jurisprudência citada nos comentários.",
+            "focusNorm": "Edital nº 1/2021"
+          },
+          {
+            "topic": "Estrutura urbana brasileira e grandes metrópoles",
+            "freq": "22.2%",
+            "prob": "27%",
+            "strategy": "2 item(ns) em 1 prova(s): PRF 2021 (Q54, Q55). Resolva esses itens no banco \"Prova Real\" e revise a letra da lei e a jurisprudência citada nos comentários.",
+            "focusNorm": "Edital nº 1/2021"
+          },
+          {
+            "topic": "Integração do Brasil ao processo de internacionalização da economia",
+            "freq": "11.1%",
+            "prob": "26%",
+            "strategy": "1 item(ns) em 1 prova(s): PRF 2019 (Q47). Resolva esses itens no banco \"Prova Real\" e revise a letra da lei e a jurisprudência citada nos comentários.",
+            "focusNorm": "Edital nº 1/2021"
+          },
+          {
+            "topic": "Integração entre indústria, estrutura urbana e setor agrícola; divisão inter-regional do trabalho",
+            "freq": "11.1%",
+            "prob": "26%",
+            "strategy": "1 item(ns) em 1 prova(s): PRF 2019 (Q48). Resolva esses itens no banco \"Prova Real\" e revise a letra da lei e a jurisprudência citada nos comentários.",
+            "focusNorm": "Edital nº 1/2021"
+          }
+        ]
+      },
+      {
+        "discipline": "Língua Estrangeira (Inglês ou Espanhol)",
+        "analysis": "7 itens válidos em 1 das 5 provas mapeadas; média de 2 itens por prova da PRF (2013, 2019 e 2021).",
+        "weightText": "Bloco I (55 itens no total do bloco; o edital não fixa o número por disciplina)",
+        "microTemas": [
+          {
+            "topic": "Compreensão de texto escrito em língua inglesa",
+            "freq": "85.7%",
+            "prob": "33%",
+            "strategy": "6 item(ns) em 1 prova(s): PRF 2021 (Q2, Q3, Q4, Q5, Q6, Q8). Resolva esses itens no banco \"Prova Real\" e revise a letra da lei e a jurisprudência citada nos comentários.",
+            "focusNorm": "Edital nº 1/2021"
+          },
+          {
+            "topic": "Itens gramaticais relevantes para a compreensão (língua inglesa)",
+            "freq": "14.3%",
+            "prob": "26%",
+            "strategy": "1 item(ns) em 1 prova(s): PRF 2021 (Q7). Resolva esses itens no banco \"Prova Real\" e revise a letra da lei e a jurisprudência citada nos comentários.",
+            "focusNorm": "Edital nº 1/2021"
+          }
+        ]
+      }
+    ],
+    "simulador": {
+      "notaMaxima": 120,
+      "notaCorte": 73,
+      "observacao": "Edital nº 1/2021, itens 8.1 e 9.12: 120 itens Certo/Errado (Bloco I com 55, Bloco II com 30 e Bloco III com 35). Cada acerto vale +1 e cada erro −1; informe aqui a nota LÍQUIDA de cada bloco (acertos − erros). Mínimos: 15, 10 e 10 pontos nos blocos e 50 no total. A nota de corte mostrada (73,00) é a menor nota objetiva entre os candidatos da ampla concorrência classificados para a correção da discursiva em 2021 (Edital nº 11/2021).",
+      "rodape": "*Nota líquida da prova objetiva (acertos − erros). A discursiva (20 pontos) e as demais fases não entram nesta conta.",
+      "blocos": [
+        {
+          "nome": "Bloco I – Conhecimentos básicos (LP, RLM, Informática, Física, Ética, Geopolítica e Língua Estrangeira)",
+          "questoes": 55,
+          "peso": 1,
+          "inicial": 30
+        },
+        {
+          "nome": "Bloco II – Legislação de Trânsito",
+          "questoes": 30,
+          "peso": 1,
+          "inicial": 18
+        },
+        {
+          "nome": "Bloco III – Conhecimentos jurídicos",
+          "questoes": 35,
+          "peso": 1,
+          "inicial": 22
+        }
+      ]
+    }
+  },
+  "verificacao": {
+    "status": "verificado",
+    "observacao": "PLATAFORMA PROVISÓRIA (edital anterior): não há edital novo da PRF publicado até 10/11/2026; o conteúdo segue o Edital nº 1/2021 com a retificação nº 2/2021. Editais, 5 cadernos e gabaritos definitivos baixados do site oficial do Cebraspe, com SHA-256 em fontes.json. Nota de corte de 2021 tirada do Edital nº 11/2021. Quando sair o novo edital, revisar conteúdo, quadro de provas, vagas, subsídio e simulador."
+  }
+}

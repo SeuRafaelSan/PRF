@@ -1,0 +1,566 @@
+@import "tailwindcss";
+
+/* =========================================================
+   Controle de Cursores & Prevenção do Símbolo de Digitação (I-Beam / Caret)
+   ========================================================= */
+html, body {
+  cursor: default;
+}
+
+/* Forçar cursor de clique (ponteiro) em todos os botões, selects, opções e elementos clicáveis */
+button,
+select,
+option,
+[role="button"],
+a,
+summary,
+.cursor-pointer {
+  cursor: pointer !important;
+}
+
+/* Evitar cursor de digitação em textos estáticos, labels, badges, cards e ícones */
+label,
+span,
+div,
+p,
+h1, h2, h3, h4, h5, h6,
+svg,
+img,
+table,
+thead,
+tbody,
+tr,
+th,
+td {
+  cursor: inherit;
+}
+
+/* Permitir cursor de digitação APENAS onde o usuário realmente digita texto */
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="search"],
+input[type="number"],
+input[type="tel"],
+input[type="url"],
+textarea,
+[contenteditable="true"] {
+  cursor: text !important;
+}
+
+/* Layout do Botão Salvar / Bookmark com as Cores Oficiais da Marca (Navy + Dourado Ouro) */
+.bookmarkBtn {
+  width: 100px;
+  height: 40px;
+  border-radius: 40px;
+  border: 1px solid rgba(245, 158, 11, 0.4);
+  background: linear-gradient(180deg, #0f1e36 0%, #0a1424 100%);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  overflow: hidden;
+  position: relative;
+  user-select: none;
+  box-shadow: 0 4px 14px rgba(10, 20, 36, 0.35), 0 0 1px rgba(245, 158, 11, 0.3);
+  text-decoration: none;
+  flex-shrink: 0;
+}
+
+.IconContainer {
+  width: 30px;
+  height: 30px;
+  background: linear-gradient(135deg, #fbbf24 0%, #f59e0b 50%, #d97706 100%);
+  border-radius: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  z-index: 2;
+  transition-duration: 0.3s;
+  flex-shrink: 0;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+}
+
+.bookmarkBtn.is-saved {
+  border-color: rgba(251, 191, 36, 0.75);
+  background: linear-gradient(180deg, #132440 0%, #0d1a2d 100%);
+  box-shadow: 0 4px 16px rgba(245, 158, 11, 0.25), 0 0 1px rgba(251, 191, 36, 0.5);
+}
+
+.bookmarkBtn.is-saved .IconContainer {
+  background: linear-gradient(135deg, #fef08a 0%, #facc15 40%, #eab308 100%);
+  box-shadow: 0 0 10px rgba(250, 204, 21, 0.5);
+}
+
+.bookmarkBtn .icon {
+  border-radius: 1px;
+}
+
+.bookmarkBtn .text {
+  height: 100%;
+  width: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #ffffff;
+  z-index: 1;
+  transition-duration: 0.3s;
+  font-size: 0.95em;
+  font-weight: 800;
+  letter-spacing: 0.03em;
+  margin: 0;
+  padding: 0;
+  white-space: nowrap;
+}
+
+/* =========================================================
+   KaTeX Formula Styling & Contrast Protection
+   Garante visibilidade máxima (slate-900), espaçamento natural
+   e impede colisões com classes de botão ou fontes
+   ========================================================= */
+.katex,
+.katex * {
+  color: #0f172a !important;
+}
+
+.katex .text {
+  width: auto !important;
+  height: auto !important;
+  display: inline !important;
+  color: #0f172a !important;
+  letter-spacing: normal !important;
+  font-weight: 700 !important;
+  white-space: normal !important;
+}
+
+.katex-display {
+  margin: 0.5em 0 !important;
+  overflow-x: auto !important;
+  overflow-y: hidden !important;
+}
+
+.bookmarkBtn.is-saved .text {
+  color: #fef08a;
+}
+
+.bookmarkBtn:hover:not(:disabled) .IconContainer {
+  width: 90px;
+  transition-duration: 0.3s;
+  background: linear-gradient(135deg, #fde047 0%, #f59e0b 50%, #b45309 100%);
+}
+
+.bookmarkBtn:hover:not(:disabled) {
+  border-color: rgba(251, 191, 36, 0.8);
+  box-shadow: 0 6px 18px rgba(10, 20, 36, 0.45), 0 0 12px rgba(245, 158, 11, 0.35);
+}
+
+.bookmarkBtn:hover:not(:disabled) .text {
+  transform: translate(10px);
+  width: 0;
+  font-size: 0;
+  opacity: 0;
+  transition-duration: 0.3s;
+}
+
+.bookmarkBtn:active:not(:disabled) {
+  transform: scale(0.95);
+  transition-duration: 0.3s;
+}
+
+.bookmarkBtn:disabled {
+  opacity: 0.85;
+  cursor: default;
+}
+
+/* =========================================================
+   Botões Especiais no Estilo com Animação de Gradiente 30deg + Pulse512
+   nas Cores Oficiais da Marca (Azul Marinho #09152B / Azul Real #1E40AF / Azul Celeste #38BDF8 / #60A5FA)
+   ========================================================= */
+
+.brand-skew-btn,
+.brand-pulse-btn,
+.brand-btn {
+  border: 1px solid rgba(59, 130, 246, 0.45);
+  color: #ffffff;
+  background-image: linear-gradient(30deg, #09152b 0%, #0f274a 25%, #1e40af 55%, #2563eb 80%, #38bdf8 100%);
+  border-radius: 20px;
+  background-size: 100% auto;
+  font-family: inherit;
+  font-size: 16px;
+  padding: 0.6em 1.5em;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+  transition: all 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+  cursor: pointer;
+  box-shadow: 0 4px 14px rgba(9, 21, 43, 0.45);
+  text-decoration: none;
+  user-select: none;
+}
+
+.brand-skew-btn:hover:not(:disabled),
+.brand-pulse-btn:hover:not(:disabled),
+.brand-btn:hover:not(:disabled) {
+  background-position: right center;
+  background-size: 200% auto;
+  -webkit-animation: pulse512 1.5s infinite;
+  animation: pulse512 1.5s infinite;
+  border-color: rgba(96, 165, 250, 0.9);
+  color: #ffffff;
+  box-shadow: 0 6px 20px rgba(30, 64, 175, 0.5);
+}
+
+@keyframes pulse512 {
+  0% {
+    box-shadow: 0 0 0 0 rgba(56, 189, 248, 0.6), 0 4px 14px rgba(9, 21, 43, 0.45);
+  }
+
+  70% {
+    box-shadow: 0 0 0 12px rgba(56, 189, 248, 0), 0 6px 20px rgba(9, 21, 43, 0.55);
+  }
+
+  100% {
+    box-shadow: 0 0 0 0 rgba(56, 189, 248, 0), 0 4px 14px rgba(9, 21, 43, 0.45);
+  }
+}
+
+@-webkit-keyframes pulse512 {
+  0% {
+    box-shadow: 0 0 0 0 rgba(56, 189, 248, 0.6), 0 4px 14px rgba(9, 21, 43, 0.45);
+  }
+
+  70% {
+    box-shadow: 0 0 0 12px rgba(56, 189, 248, 0), 0 6px 20px rgba(9, 21, 43, 0.55);
+  }
+
+  100% {
+    box-shadow: 0 0 0 0 rgba(56, 189, 248, 0), 0 4px 14px rgba(9, 21, 43, 0.45);
+  }
+}
+
+.brand-skew-btn:active:not(:disabled),
+.brand-pulse-btn:active:not(:disabled),
+.brand-btn:active:not(:disabled) {
+  transform: scale(0.97);
+}
+
+.brand-skew-btn:disabled,
+.brand-pulse-btn:disabled,
+.brand-btn:disabled {
+  opacity: 0.55;
+  cursor: not-allowed;
+  filter: grayscale(30%);
+}
+
+/* Variante com ênfase Dourada Intensa */
+.brand-skew-btn-gold,
+.brand-btn-gold {
+  border: 1px solid rgba(251, 191, 36, 0.6);
+  color: #ffffff;
+  background-image: linear-gradient(30deg, #1e1b18 0%, #78350f 30%, #d97706 60%, #fbbf24 85%, #fef08a 100%);
+  border-radius: 20px;
+  background-size: 100% auto;
+  transition: all 0.5s ease-in-out;
+}
+
+.brand-skew-btn-gold:hover:not(:disabled),
+.brand-btn-gold:hover:not(:disabled) {
+  background-position: right center;
+  background-size: 200% auto;
+  -webkit-animation: pulse512 1.5s infinite;
+  animation: pulse512 1.5s infinite;
+  border-color: rgba(251, 191, 36, 0.95);
+  color: #fef08a;
+}
+
+/* =========================================================
+   Botões Neumórficos (Resetar Progresso e Assistir Vídeos)
+   ========================================================= */
+
+.neumorphic-btn {
+  color: #090909;
+  padding: 0.7em 1.7em;
+  font-size: 16px;
+  border-radius: 0.5em;
+  background: #e8e8e8;
+  cursor: pointer;
+  border: 1px solid #e8e8e8;
+  transition: all 0.3s;
+  box-shadow: 6px 6px 12px #c5c5c5, -6px -6px 12px #ffffff;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  font-weight: 700;
+  text-decoration: none;
+  user-select: none;
+}
+
+.neumorphic-btn:hover:not(:disabled) {
+  background: #ebebeb;
+  box-shadow: 7px 7px 14px #bebebe, -7px -7px 14px #ffffff;
+}
+
+.neumorphic-btn:active:not(:disabled) {
+  color: #666;
+  box-shadow: inset 4px 4px 12px #c5c5c5, inset -4px -4px 12px #ffffff;
+}
+
+.neumorphic-btn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+/* Versão compacta para cartões e listas (Assistir vídeo) */
+.neumorphic-btn-sm {
+  color: #090909;
+  padding: 0.5em 1.1em;
+  font-size: 13px;
+  border-radius: 0.5em;
+  background: #e8e8e8;
+  cursor: pointer;
+  border: 1px solid #e8e8e8;
+  transition: all 0.3s;
+  box-shadow: 4px 4px 10px #c5c5c5, -4px -4px 10px #ffffff;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  font-weight: 700;
+  text-decoration: none;
+  user-select: none;
+}
+
+.neumorphic-btn-sm:hover:not(:disabled) {
+  background: #ebebeb;
+  box-shadow: 5px 5px 12px #bebebe, -5px -5px 12px #ffffff;
+}
+
+.neumorphic-btn-sm:active:not(:disabled) {
+  color: #666;
+  box-shadow: inset 3px 3px 8px #c5c5c5, inset -3px -3px 8px #ffffff;
+}
+
+.neumorphic-btn-sm:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+/* =========================================================
+   Liquid Loader nas Cores Oficiais da Plataforma R. Alves
+   (Navy Profundo #0A1424, Azul Royal #1E3A8A / #2563EB / #38BDF8 + Dourado Ouro #FBBF24 / #F59E0B)
+   ========================================================= */
+
+.liquid-loader {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+  padding: 24px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  user-select: none;
+}
+
+.loader-track {
+  position: relative;
+  width: 220px;
+  height: 32px;
+  background: linear-gradient(135deg, #0a1424, #050a12);
+  border-radius: 16px;
+  overflow: hidden;
+  border: 1px solid rgba(245, 158, 11, 0.35);
+  box-shadow:
+    inset 0 2px 5px rgba(0, 0, 0, 0.8),
+    0 4px 15px rgba(10, 20, 36, 0.4),
+    0 0 1px rgba(245, 158, 11, 0.4);
+}
+
+.liquid-fill {
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  height: calc(100% - 4px);
+  background: linear-gradient(90deg, #0f1e36 0%, #1e3a8a 25%, #2563eb 50%, #38bdf8 75%, #fbbf24 90%, #f59e0b 100%);
+  border-radius: 14px;
+  animation:
+    fillProgress 5.5s cubic-bezier(0.12, 0.5, 0.25, 1) forwards,
+    shimmerGlow 3s ease-in-out infinite;
+  box-shadow:
+    0 0 16px rgba(37, 99, 235, 0.65),
+    0 0 8px rgba(245, 158, 11, 0.4),
+    inset 0 1px 2px rgba(255, 255, 255, 0.3);
+}
+
+.loading-text {
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  animation: textGlow 1.8s ease-in-out infinite;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.dot {
+  margin-left: 2px;
+  animation: blink 1.5s infinite;
+  color: #fbbf24;
+}
+.dot:nth-of-type(1) {
+  animation-delay: 0s;
+}
+.dot:nth-of-type(2) {
+  animation-delay: 0.3s;
+}
+.dot:nth-of-type(3) {
+  animation-delay: 0.6s;
+}
+
+@keyframes fillProgress {
+  0% {
+    width: 6px;
+  }
+  15% {
+    width: 25%;
+  }
+  35% {
+    width: 52%;
+  }
+  60% {
+    width: 74%;
+  }
+  85% {
+    width: 90%;
+  }
+  100% {
+    width: calc(100% - 4px);
+  }
+}
+
+@keyframes shimmerGlow {
+  0%, 100% {
+    filter: brightness(1) drop-shadow(0 0 4px rgba(56, 189, 248, 0.4));
+  }
+  50% {
+    filter: brightness(1.2) drop-shadow(0 0 10px rgba(245, 158, 11, 0.6));
+  }
+}
+
+@keyframes textGlow {
+  0%,
+  100% {
+    opacity: 0.85;
+    text-shadow: 0 0 10px rgba(59, 130, 246, 0.5), 0 0 20px rgba(10, 20, 36, 0.8);
+  }
+  50% {
+    opacity: 1;
+    text-shadow: 0 0 18px rgba(96, 165, 250, 0.9), 0 0 25px rgba(245, 158, 11, 0.6);
+  }
+}
+
+@keyframes blink {
+  0%,
+  50% {
+    opacity: 1;
+  }
+  51%,
+  100% {
+    opacity: 0;
+  }
+}
+
+/* =========================================================
+   Social Media Cards & Interactive Buttons (Suporte)
+   ========================================================= */
+
+.social-card,
+.card {
+  width: fit-content;
+  height: fit-content;
+  background-color: rgb(238, 238, 238);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 25px 25px;
+  gap: 20px;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.055);
+  border-radius: 20px;
+}
+
+/* for all social containers*/
+.socialContainer {
+  width: 52px;
+  height: 52px;
+  background-color: rgb(44, 44, 44);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  transition-duration: .3s;
+  border-radius: 12px;
+  text-decoration: none;
+  cursor: pointer;
+}
+/* instagram*/
+.containerOne:hover,
+.containerOne.active {
+  background-color: #d62976;
+  transition-duration: .3s;
+}
+/* twitter*/
+.containerTwo:hover,
+.containerTwo.active {
+  background-color: #00acee;
+  transition-duration: .3s;
+}
+/* linkdin*/
+.containerThree:hover,
+.containerThree.active {
+  background-color: #0072b1;
+  transition-duration: .3s;
+}
+/* Whatsapp*/
+.containerFour:hover,
+.containerFour.active {
+  background-color: #128C7E;
+  transition-duration: .3s;
+}
+
+.socialContainer:active {
+  transform: scale(0.9);
+  transition-duration: .3s;
+}
+
+.socialSvg {
+  width: 17px;
+  height: 17px;
+}
+
+.socialSvg path {
+  fill: rgb(255, 255, 255);
+}
+
+.socialContainer:hover .socialSvg,
+.socialContainer.active .socialSvg {
+  animation: slide-in-top 0.3s both;
+}
+
+@keyframes slide-in-top {
+  0% {
+    transform: translateY(-50px);
+    opacity: 0;
+  }
+
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+
+
